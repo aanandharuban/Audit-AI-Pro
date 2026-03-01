@@ -1,0 +1,1001 @@
+Date,Party_Name,GSTIN,Taxable_Value,GST_Rate,CGST,SGST,IGST,Total,Narration,Is_Fraud
+2025-06-09,Rana Inc,37raGwi7274d1ZB,20796.87,12,1247.8121999999998,1247.8121999999998,0.0,23292.4944,Being goods sold to Rana Inc Inv No 145,0
+2025-12-23,Gera-Sen,29YWoBO3375p5ZB,219982.4,0,0.0,0.0,0.0,219982.4,Being goods sold to Gera-Sen Inv No 935,0
+2025-12-05,Saini LLC,28VHdSt6461h8ZB,430130.42,12,25807.8252,25807.8252,0.0,481746.0704,Being goods sold to Saini LLC Inv No 829,0
+2026-01-07,Prasad LLC,17zBiUn1737K9ZB,103574.39,18,9321.695099999999,9321.695099999999,0.0,122217.7802,Being goods sold to Prasad LLC Inv No 383,0
+2025-07-31,Purohit-Minhas,23uIiXp5401A7ZC,156592.93,5,3914.82325,3914.82325,0.0,164422.57649999997,Being goods sold to Purohit-Minhas Inv No 911,0
+2026-02-03,"Raju, Sama and Rana",26lrzpx3054e3ZB,453341.72,18,0.0,0.0,81601.50959999999,534943.2296,"Being goods sold to Raju, Sama and Rana Inv No 293",0
+2025-10-11,Nori-Dey,30mWUSI9743U7ZB,385948.23,5,0.0,0.0,19297.4115,405245.64149999997,Being goods sold to Nori-Dey Inv No 960,0
+2025-08-19,Nagi-Singhal,23fzcYC7435j4ZB,486130.13,18,43751.7117,43751.7117,0.0,573633.5534,Being goods sold to Nagi-Singhal Inv No 503,0
+2025-03-14,"Chauhan, Sant and Bhandari",17pvwbW5522X4ZC,191570.19,0,0.0,0.0,0.0,191570.19,"Being goods sold to Chauhan, Sant and Bhandari Inv No 481",0
+2025-10-17,Modi-Sharaf,23yeVwu3935o3ZC,16327.25,18,1469.4524999999999,1469.4524999999999,0.0,19266.155,Being goods sold to Modi-Sharaf Inv No 748,0
+2025-10-03,Randhawa Ltd,13zGbQY8826u7ZC,31146.87,5,778.67175,778.67175,0.0,32704.2135,Being goods sold to Randhawa Ltd Inv No 472,0
+2025-12-12,"Badami, Bobal and Date",21djjei3346C1ZB,197051.77,28,0.0,0.0,55174.4956,252226.26559999998,"Being goods sold to Badami, Bobal and Date Inv No 450",0
+2025-03-21,"Barad, Gara and Acharya",14uuOvl5213o1ZA,10755.24,0,0.0,0.0,0.0,10755.24,"Being goods sold to Barad, Gara and Acharya Inv No 401",0
+2026-01-20,"Date, Nadkarni and Batta",22sYLwe8280w3ZB,1070.06,0,0.0,0.0,0.0,1070.06,"Being goods sold to Date, Nadkarni and Batta Inv No 752",0
+2025-09-10,Sunder-Shan,24atSTZ2793U1ZB,195583.25,18,0.0,0.0,35204.985,230788.235,Being goods sold to Sunder-Shan Inv No 907,0
+2026-02-01,Parikh-Narasimhan,22oSdYV2251V5ZB,209212.49,28,0.0,0.0,58579.497200000005,267791.9872,Being goods sold to Parikh-Narasimhan Inv No 200,0
+2025-03-12,"Vyas, Randhawa and Parmar",22MaySD0223V9ZA,28786.3,12,0.0,0.0,3454.3559999999998,32240.656,"Being goods sold to Vyas, Randhawa and Parmar Inv No 643",0
+2025-10-31,Balasubramanian-Bobal,33ONKuD5658x9ZB,228663.83,5,0.0,0.0,11433.1915,240097.02149999997,Being goods sold to Balasubramanian-Bobal Inv No 248,0
+2025-03-15,"Shroff, Sant and Mody",23vTWXQ1358m5ZC,23183.16,18,2086.4844,2086.4844,0.0,27356.128800000002,"Being goods sold to Shroff, Sant and Mody Inv No 490",0
+2025-03-11,Deshpande-Raj,34dXLgN3487D5ZA,270390.74,28,0.0,0.0,75709.4072,346100.1472,Being goods sold to Deshpande-Raj Inv No 397,0
+2025-06-09,"Ghose, Mukherjee and Thaker",33LKtpN2715T1ZB,282885.65,0,0.0,0.0,0.0,282885.65,"Being goods sold to Ghose, Mukherjee and Thaker Inv No 682",0
+2025-03-16,Wason-Srivastava,11XuuLd5031C8ZC,479296.9,18,43136.721,43136.721,0.0,565570.3420000001,Being goods sold to Wason-Srivastava Inv No 164,0
+2026-01-27,"Khanna, Sandal and Biswas",27QhpOB4268A5ZA,450294.17,0,0.0,0.0,0.0,450294.17,"Being goods sold to Khanna, Sandal and Biswas Inv No 127",0
+2026-01-31,"Sekhon, Goswami and Amble",30WcdhZ4357f9ZA,304670.11,18,27420.309899999997,27420.309899999997,0.0,359510.7298,"Being goods sold to Sekhon, Goswami and Amble Inv No 690",0
+2026-02-19,Bhattacharyya and Sons,10oxkuK8237r8ZC,399278.94,0,0.0,0.0,0.0,399278.94,Being goods sold to Bhattacharyya and Sons Inv No 930,0
+2025-04-14,"Keer, Mander and Shukla",16aOlZr8895m1ZC,330974.96,5,0.0,0.0,16548.748000000003,347523.70800000004,"Being goods sold to Keer, Mander and Shukla Inv No 244",0
+2025-04-13,Deo-Bumb,25HoJJm8877N8ZB,470131.25,5,0.0,0.0,23506.5625,493637.8125,Being goods sold to Deo-Bumb Inv No 100,0
+2025-09-30,Kumer-Venkatesh,24urTnZ2913Q7ZA,49096.83,12,2945.8098,2945.8098,0.0,54988.44960000001,Being goods sold to Kumer-Venkatesh Inv No 739,0
+2025-08-07,Dhar Ltd,18esuiW6301K4ZA,462651.11,28,0.0,0.0,129542.3108,592193.4208,Being goods sold to Dhar Ltd Inv No 302,0
+2025-08-02,"Sachdeva, Ramesh and Ravi",20sqSey4970S5ZB,416898.61,18,37520.874899999995,37520.874899999995,0.0,491940.3598,"Being goods sold to Sachdeva, Ramesh and Ravi Inv No 131",0
+2025-08-17,"Chhabra, Dugar and Memon",34wAijp2850S1ZA,455399.77,0,0.0,0.0,0.0,455399.77,"Being goods sold to Chhabra, Dugar and Memon Inv No 817",0
+2025-08-08,Sarna-Divan,21xLofQ1710g1ZC,362378.24,12,0.0,0.0,43485.3888,405863.6288,Being goods sold to Sarna-Divan Inv No 785,0
+2025-09-04,"Bakshi, Barad and Mitter",34fYbwp2584C3ZC,485573.24,12,0.0,0.0,58268.788799999995,543842.0288,"Being goods sold to Bakshi, Barad and Mitter Inv No 575",0
+2025-09-15,Walia Inc,34ObfYM4137t3ZC,296041.11,5,7401.02775,7401.02775,0.0,310843.1655,Being goods sold to Walia Inc Inv No 498,0
+2025-09-05,"Oak, Suresh and Zacharia",18ilgtp4949V9ZB,483422.97,5,12085.57425,12085.57425,0.0,507594.1185,"Being goods sold to Oak, Suresh and Zacharia Inv No 954",0
+2025-05-22,Venkatesh-Dasgupta,34vbGMV2148F6ZC,428478.79,12,0.0,0.0,51417.45479999999,479896.2448,Being goods sold to Venkatesh-Dasgupta Inv No 352,0
+2025-10-12,Solanki-Kashyap,19qjfgK8361P2ZC,491833.14,5,0.0,0.0,24591.657000000003,516424.797,Being goods sold to Solanki-Kashyap Inv No 160,0
+2025-04-12,Kala PLC,22UHFBz6108Y2ZB,413989.68,18,0.0,0.0,74518.1424,488507.8224,Being goods sold to Kala PLC Inv No 399,0
+2025-12-11,Mangal-Tiwari,15WoazY8825E8ZB,364093.18,12,21845.590799999998,21845.590799999998,0.0,407784.3616,Being goods sold to Mangal-Tiwari Inv No 480,0
+2025-03-08,Kapadia Group,17esmBK2311R6ZC,496260.72,0,0.0,0.0,0.0,496260.72,Being goods sold to Kapadia Group Inv No 343,0
+2025-08-23,Babu-Kunda,33USlUo4859d8ZC,45470.63,5,1136.76575,1136.76575,0.0,47744.161499999995,Being goods sold to Babu-Kunda Inv No 921,0
+2025-09-30,Lata-Bassi,12yBtfz0307d5ZB,337632.97,12,0.0,0.0,40515.956399999995,378148.9264,Being goods sold to Lata-Bassi Inv No 838,0
+2025-05-08,"Patla, Chakrabarti and Ramaswamy",21FdUAh2617F5ZC,165249.83,28,0.0,0.0,46269.9524,211519.7824,"Being goods sold to Patla, Chakrabarti and Ramaswamy Inv No 235",0
+2025-10-22,Kapadia-Doshi,13sbkOI1599Q6ZA,347322.5,18,31259.024999999998,31259.024999999998,0.0,409840.55000000005,Being goods sold to Kapadia-Doshi Inv No 109,0
+2025-10-02,Bakshi-Nigam,20gQwYg3466r6ZB,170948.87,18,0.0,0.0,30770.796599999998,201719.6666,Being goods sold to Bakshi-Nigam Inv No 379,0
+2025-11-25,"Shenoy, Hayer and Sehgal",20KEghi9797M9ZC,491629.58,5,0.0,0.0,24581.479000000003,516211.059,"Being goods sold to Shenoy, Hayer and Sehgal Inv No 250",0
+2026-02-07,Bhatt Inc,25ZLUPR7108I8ZC,282154.81,28,39501.67340000001,39501.67340000001,0.0,361158.15680000006,Being goods sold to Bhatt Inc Inv No 918,0
+2025-11-03,"Doctor, Iyer and Dey",20pCqmz0762a5ZB,57931.45,28,0.0,0.0,16220.806,74152.256,"Being goods sold to Doctor, Iyer and Dey Inv No 311",0
+2025-11-30,"Venkataraman, Lall and Bajaj",36bQOSv8528B5ZB,371837.76,5,9295.944000000001,9295.944000000001,0.0,390429.64800000004,"Being goods sold to Venkataraman, Lall and Bajaj Inv No 741",0
+2025-03-28,Munshi PLC,33pmrVj2409J7ZB,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2026-01-02,Mand-Nayak,18jMSrX9161E3ZA,33252.19,5,0.0,0.0,1662.6095000000003,34914.7995,Being goods sold to Mand-Nayak Inv No 357,0
+2025-10-03,Hayer and Sons,18OZNnc5307R5ZB,459794.61,5,11494.86525,11494.86525,0.0,482784.34049999993,Being goods sold to Hayer and Sons Inv No 536,0
+2025-09-30,Subramanian LLC,21zZiBi0701s3ZC,271513.97,5,0.0,0.0,13575.698499999999,285089.66849999997,Being goods sold to Subramanian LLC Inv No 974,0
+2026-02-22,Char-Kaul,34grvDh5262s1ZA,142409.95,18,0.0,0.0,25633.791,168043.741,Being goods sold to Char-Kaul Inv No 162,0
+2026-01-06,Yohannan-Pau,35QuBDQ8773J3ZA,442044.07,0,0.0,0.0,0.0,442044.07,Being goods sold to Yohannan-Pau Inv No 799,0
+2026-01-24,Sehgal-Raj,25mcCQT2831g7ZB,450636.15,12,0.0,0.0,54076.338,504712.488,Being goods sold to Sehgal-Raj Inv No 264,0
+2025-07-28,"Majumdar, Sankaran and Warrior",32sLjrq4829i1ZC,416708.21,18,0.0,0.0,75007.47780000001,491715.6878,"Being goods sold to Majumdar, Sankaran and Warrior Inv No 380",0
+2025-04-03,Kale-Chada,35ZxMpl9278a6ZB,109354.96,12,0.0,0.0,13122.5952,122477.5552,Being goods sold to Kale-Chada Inv No 178,0
+2025-10-06,Hayre-Lanka,22EITMP8661y5ZB,344879.83,5,0.0,0.0,17243.9915,362123.8215,Being goods sold to Hayre-Lanka Inv No 198,0
+2025-06-14,Kibe-Mandal,38twpwB7847N3ZA,292753.1,18,0.0,0.0,52695.558,345448.658,Being goods sold to Kibe-Mandal Inv No 201,0
+2025-04-19,"Andra, Mallick and Bhakta",30hCwlU5801w6ZA,481242.52,28,67373.95280000001,67373.95280000001,0.0,615990.4256,"Being goods sold to Andra, Mallick and Bhakta Inv No 914",0
+2025-12-20,Ghose Inc,33MPPrm0143E6ZA,75296.55,5,1882.4137500000002,1882.4137500000002,0.0,79061.37750000002,Being goods sold to Ghose Inc Inv No 879,0
+2025-05-01,Bhargava Ltd,17igkSx0596o9ZA,450263.43,12,0.0,0.0,54031.6116,504295.0416,Being goods sold to Bhargava Ltd Inv No 910,0
+2025-10-21,Issac-Kaur,11OGOXK1172e4ZC,446967.71,0,0.0,0.0,0.0,446967.71,Being goods sold to Issac-Kaur Inv No 521,0
+2025-07-22,Shetty-Krishnamurthy,14umDQY6130J8ZA,245625.81,18,22106.3229,22106.3229,0.0,289838.4558,Being goods sold to Shetty-Krishnamurthy Inv No 775,0
+2025-07-26,"Sathe, Pandey and Nagi",19kXQFz6233C6ZA,331399.9,0,0.0,0.0,0.0,331399.9,"Being goods sold to Sathe, Pandey and Nagi Inv No 198",0
+2025-06-26,"Cheema, Sunder and Doshi",12ySjlJ8607i7ZC,281834.6,12,16910.075999999997,16910.075999999997,0.0,315654.752,"Being goods sold to Cheema, Sunder and Doshi Inv No 508",0
+2025-04-17,Banik-Bera,36Zhrbo1789d5ZA,265608.91,0,0.0,0.0,0.0,265608.91,Being goods sold to Banik-Bera Inv No 350,0
+2025-10-07,"Sani, Samra and Mutti",16rTXrN1249z7ZB,420891.03,12,0.0,0.0,50506.9236,471397.9536,"Being goods sold to Sani, Samra and Mutti Inv No 216",0
+2025-12-09,Batta-Sood,23gqkjN8922V8ZC,109378.1,0,0.0,0.0,0.0,109378.1,Being goods sold to Batta-Sood Inv No 651,0
+2025-07-08,Kadakia-Zacharia,14TpEPO5205V8ZA,294913.43,0,0.0,0.0,0.0,294913.43,Being goods sold to Kadakia-Zacharia Inv No 224,0
+2025-12-18,Personal - Chatura,20UErvw9437R8ZB,400407.85,18,36036.70649999999,36036.70649999999,0.0,472481.2629999999,Adjustment,1
+2025-07-02,Zacharia-Sani,15aFusf9767y8ZC,278190.36,28,38946.6504,38946.6504,0.0,356083.66079999995,Being goods sold to Zacharia-Sani Inv No 765,0
+2025-09-17,Maharaj LLC,22gyzuh1592q9ZA,303134.43,28,0.0,0.0,84877.6404,388012.07039999997,Being goods sold to Maharaj LLC Inv No 491,0
+2025-03-05,Malhotra PLC,31HCXXa2847t2ZB,205657.97,0,0.0,0.0,0.0,205657.97,Being goods sold to Malhotra PLC Inv No 474,0
+2025-10-12,Karpe LLC,34hsXYo2291x7ZB,176171.3,18,15855.416999999998,15855.416999999998,0.0,207882.13399999996,Being goods sold to Karpe LLC Inv No 724,0
+2026-02-27,Basu-Bava,16bkTJs8841X9ZB,253273.93,5,6331.84825,6331.84825,0.0,265937.6265,Being goods sold to Basu-Bava Inv No 812,0
+2025-06-27,"Swaminathan, Merchant and Mishra",18TXMKG5903a5ZA,147321.11,12,8839.266599999999,8839.266599999999,0.0,164999.6432,"Being goods sold to Swaminathan, Merchant and Mishra Inv No 168",0
+2025-12-02,"Lall, Wadhwa and Dube",20mnUpX9944Q2ZA,315917.66,12,0.0,0.0,37910.119199999994,353827.7792,"Being goods sold to Lall, Wadhwa and Dube Inv No 938",0
+2025-08-04,"Gupta, Rajagopalan and Sani",15tpYbU5022B1ZA,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-10-06,Pandey Group,30eduSx4682S3ZA,12735.9,5,0.0,0.0,636.7950000000001,13372.695,Being goods sold to Pandey Group Inv No 489,0
+2025-04-15,Sane-Kar,28aPMhe5768A4ZB,29502.94,18,2655.2646,2655.2646,0.0,34813.4692,Being goods sold to Sane-Kar Inv No 732,0
+2025-11-23,Ranganathan-Chanda,19UcKAN7591g2ZC,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-08-29,Shetty LLC,32AuGIm7032o5ZC,37728.09,5,0.0,0.0,1886.4044999999999,39614.49449999999,Being goods sold to Shetty LLC Inv No 111,0
+2026-01-20,Dash Inc,32Refkx5720y4ZA,227552.1,5,0.0,0.0,11377.605000000001,238929.70500000002,Being goods sold to Dash Inc Inv No 689,0
+2025-10-25,Nayak-Madan,25GgRmM8285K4ZC,350607.53,5,0.0,0.0,17530.376500000002,368137.90650000004,Being goods sold to Nayak-Madan Inv No 951,0
+2025-10-31,Lal and Sons,38qGiZn6428G7ZB,486570.93,28,0.0,0.0,68119.9302,554690.8602,GST Calculation Error,1
+2025-11-01,Sur Group,26gWwQU6694s1ZC,318379.98,5,0.0,0.0,15918.999,334298.979,Being goods sold to Sur Group Inv No 853,0
+2025-07-04,"Bains, Malhotra and Srivastava",35OLYMd2001n6ZA,491459.2,18,44231.328,44231.328,0.0,579921.856,"Being goods sold to Bains, Malhotra and Srivastava Inv No 128",0
+2026-01-21,Das-Manne,25mHyas9624l9ZA,437200.0,12,26232.0,26232.0,0.0,489664.0,Being goods sold to Das-Manne Inv No 286,0
+2025-10-22,Sawhney-Narasimhan,32zSpiC5097y7ZB,138274.36,5,3456.859,3456.859,0.0,145188.07799999998,Being goods sold to Sawhney-Narasimhan Inv No 518,0
+2025-03-07,"Karnik, Chaudhary and Dhawan",23KicYC0350O2ZA,111459.23,18,10031.330699999999,10031.330699999999,0.0,131521.8914,"Being goods sold to Karnik, Chaudhary and Dhawan Inv No 927",0
+2025-05-27,"Nagi, Nadig and Dayal",15cfeaq5481v4ZA,95431.12,12,0.0,0.0,11451.7344,106882.8544,"Being goods sold to Nagi, Nadig and Dayal Inv No 442",0
+2025-10-13,Singh-Keer,11gfpmY9820s1ZC,18668.18,0,0.0,0.0,0.0,18668.18,Being goods sold to Singh-Keer Inv No 881,0
+2026-02-03,"Sandal, Jhaveri and Memon",30vLMct2042m3ZA,93172.95,12,5590.3769999999995,5590.3769999999995,0.0,104353.70399999998,"Being goods sold to Sandal, Jhaveri and Memon Inv No 367",0
+2025-11-17,"Ramakrishnan, Dhar and Prabhu",18tanoo9148n3ZB,220983.66,12,0.0,0.0,26518.0392,247501.6992,"Being goods sold to Ramakrishnan, Dhar and Prabhu Inv No 499",0
+2025-07-23,Sahota Inc,24sWOTi8064W8ZC,46553.45,0,0.0,0.0,0.0,46553.45,Being goods sold to Sahota Inc Inv No 988,0
+2025-11-20,Natarajan PLC,20OtlCG8877c9ZB,205566.21,18,0.0,0.0,37001.917799999996,242568.1278,Being goods sold to Natarajan PLC Inv No 251,0
+2025-09-12,Personal - Ikshita,38ntxoM3772m3ZB,7821.49,18,0.0,0.0,1407.8682,9229.358199999999,Adjustment,1
+2026-01-19,Minhas-Sandhu,28RJpMn5524C6ZA,372075.09,12,22324.505400000002,22324.505400000002,0.0,416724.1008000001,Being goods sold to Minhas-Sandhu Inv No 674,0
+2025-03-07,Joshi LLC,34IXuNS7645a3ZA,89266.44,28,12497.3016,12497.3016,0.0,114261.04320000001,Being goods sold to Joshi LLC Inv No 707,0
+2025-04-30,Pall PLC,32UfpTf4099M2ZC,420447.2,5,10511.18,10511.18,0.0,441469.56,Being goods sold to Pall PLC Inv No 149,0
+2025-12-08,"Gara, Bhattacharyya and Vala",31euWzw0768d9ZA,269748.4,28,37764.776000000005,37764.776000000005,0.0,345277.95200000005,"Being goods sold to Gara, Bhattacharyya and Vala Inv No 436",0
+2025-11-24,Puri Ltd,24Thkfk8382O8ZC,413644.91,28,0.0,0.0,115820.5748,529465.4848,Being goods sold to Puri Ltd Inv No 814,0
+2025-10-11,Tiwari and Sons,16klMxT3988y6ZA,232517.9,18,20926.610999999997,20926.610999999997,0.0,274371.122,Being goods sold to Tiwari and Sons Inv No 331,0
+2026-02-27,Master-Narayan,11uUoZZ4355v4ZB,114250.74,5,0.0,0.0,5712.537,119963.277,Being goods sold to Master-Narayan Inv No 761,0
+2025-09-07,"Walia, Mahajan and Kunda",16azNRA0221C4ZC,3787.86,5,94.69650000000001,94.69650000000001,0.0,3977.253,"Being goods sold to Walia, Mahajan and Kunda Inv No 775",0
+2025-05-17,Wable Ltd,35QCeYR6420z9ZC,238381.42,18,0.0,0.0,42908.6556,281290.0756,Being goods sold to Wable Ltd Inv No 758,0
+2025-09-19,Srivastava-Borah,14rdztR0653f8ZC,224804.48,18,0.0,0.0,40464.8064,265269.2864,Being goods sold to Srivastava-Borah Inv No 861,0
+2025-04-17,"Boase, Goel and Buch",15zCkHm8885G3ZB,372385.4,28,52133.956000000006,52133.956000000006,0.0,476653.31200000003,"Being goods sold to Boase, Goel and Buch Inv No 558",0
+2025-05-14,Parsa-Sathe,34pfLrs5821L8ZC,373854.08,5,9346.352,9346.352,0.0,392546.78400000004,Being goods sold to Parsa-Sathe Inv No 284,0
+2025-11-25,Upadhyay and Sons,23ibcmJ1396B9ZA,140469.63,5,3511.7407500000004,3511.7407500000004,0.0,147493.1115,Being goods sold to Upadhyay and Sons Inv No 977,0
+2025-12-06,Radhakrishnan-Deo,32lqmDB5892a5ZB,40286.64,28,0.0,0.0,11280.2592,51566.8992,Being goods sold to Radhakrishnan-Deo Inv No 843,0
+2025-09-13,Sarna-Pall,14qqbTb6655n6ZC,56279.24,12,0.0,0.0,6753.5088,63032.7488,Being goods sold to Sarna-Pall Inv No 534,0
+2026-02-20,"Palla, Chacko and Shroff",32mURHO3422X9ZA,460106.07,12,0.0,0.0,55212.7284,515318.7984,"Being goods sold to Palla, Chacko and Shroff Inv No 300",0
+2025-04-02,Mahal LLC,29qqNBl1237l3ZB,332775.21,5,8319.38025,8319.38025,0.0,349413.9705,Being goods sold to Mahal LLC Inv No 674,0
+2025-05-23,"Walia, Mahal and Puri",14TeEZO5996K3ZB,294724.11,0,0.0,0.0,0.0,294724.11,"Being goods sold to Walia, Mahal and Puri Inv No 208",0
+2025-05-05,Lad and Sons,11zMyeu1905z5ZC,69105.94,5,0.0,0.0,3455.2970000000005,72561.23700000001,Being goods sold to Lad and Sons Inv No 831,0
+2025-08-13,Arya-Bera,28Scptw5937U7ZC,325520.16,18,29296.814399999996,29296.814399999996,0.0,384113.7887999999,Being goods sold to Arya-Bera Inv No 743,0
+2025-05-18,Korpal PLC,17IYUSl0248g5ZB,177906.51,12,10674.3906,10674.3906,0.0,199255.29120000004,Being goods sold to Korpal PLC Inv No 875,0
+2025-08-27,Chatterjee-Puri,27CpsEc6366U4ZC,426280.72,5,10657.018,10657.018,0.0,447594.75599999994,Being goods sold to Chatterjee-Puri Inv No 897,0
+2025-06-13,Gera-Mohan,30dcPhT7235Q6ZC,93809.04,12,5628.542399999999,5628.542399999999,0.0,105066.1248,Being goods sold to Gera-Mohan Inv No 773,0
+2025-09-28,"Devi, Gokhale and Padmanabhan",20OHlic7111Z6ZA,497128.03,18,44741.5227,44741.5227,0.0,586611.0754,"Being goods sold to Devi, Gokhale and Padmanabhan Inv No 662",0
+2025-04-06,Palan LLC,38bDKJn0398z3ZC,473653.59,5,11841.339750000001,11841.339750000001,0.0,497336.2695,Being goods sold to Palan LLC Inv No 427,0
+2025-10-08,Dixit-Prabhu,36hqJYq1886L5ZC,401860.63,0,0.0,0.0,0.0,401860.63,Being goods sold to Dixit-Prabhu Inv No 981,0
+2025-11-16,Sarraf and Sons,36dytxp8166q2ZA,316503.69,28,44310.5166,44310.5166,0.0,405124.7232,Being goods sold to Sarraf and Sons Inv No 354,0
+2025-11-05,Kapur-Shah,35EIbWM9176h3ZA,261243.93,18,0.0,0.0,47023.9074,308267.83739999996,Being goods sold to Kapur-Shah Inv No 638,0
+2025-07-17,"Babu, Lad and Hans",24KbWBQ7725O9ZC,394953.83,18,0.0,0.0,71091.6894,466045.5194,"Being goods sold to Babu, Lad and Hans Inv No 247",0
+2025-11-16,"Sehgal, Tandon and Bedi",23arRVH5563d1ZA,115670.96,12,6940.2576,6940.2576,0.0,129551.4752,"Being goods sold to Sehgal, Tandon and Bedi Inv No 875",0
+2025-06-03,"Grewal, Agate and Deshpande",31Rrsfj3459D9ZA,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2025-07-09,Saha Group,19yVNYH9819D3ZA,95205.91,12,5712.3546,5712.3546,0.0,106630.61920000002,Being goods sold to Saha Group Inv No 260,0
+2025-08-05,Chatterjee-Sur,30LjNPd2937G2ZA,288681.08,0,0.0,0.0,0.0,288681.08,Being goods sold to Chatterjee-Sur Inv No 609,0
+2026-02-22,Chaudhary Ltd,10yvcnN9826m3ZA,452730.54,5,0.0,0.0,22636.527000000002,475367.067,Being goods sold to Chaudhary Ltd Inv No 870,0
+2025-11-01,Badal Group,22qUMdK5351v8ZC,423582.6,28,0.0,0.0,118603.12800000001,542185.728,Being goods sold to Badal Group Inv No 422,0
+2025-03-09,Dixit-Chokshi,34jjgeA9809w1ZC,227559.19,18,20480.3271,20480.3271,0.0,268519.8442,Being goods sold to Dixit-Chokshi Inv No 563,0
+2025-04-12,"Bandi, Prashad and Upadhyay",13aKYMJ1160x1ZA,183361.3,28,0.0,0.0,51341.164000000004,234702.46399999998,"Being goods sold to Bandi, Prashad and Upadhyay Inv No 694",0
+2025-08-07,Oommen Ltd,15zAZnS6934B9ZC,223166.88,0,0.0,0.0,0.0,223166.88,Being goods sold to Oommen Ltd Inv No 693,0
+2025-06-08,"Palla, Kari and Brar",27yledB3881b4ZA,306648.57,5,0.0,0.0,15332.428500000002,321980.9985,"Being goods sold to Palla, Kari and Brar Inv No 453",0
+2025-05-14,"Ganesan, Dugar and Doshi",15FkLUx1653m4ZB,37250.57,0,0.0,0.0,0.0,37250.57,"Being goods sold to Ganesan, Dugar and Doshi Inv No 182",0
+2025-04-06,Varughese-Kapur,35dlHza0778S3ZB,383446.77,5,0.0,0.0,19172.3385,402619.10850000003,Being goods sold to Varughese-Kapur Inv No 840,0
+2025-03-17,Sawhney-Dada,32rzSoH2804J8ZA,180220.85,5,0.0,0.0,9011.042500000001,189231.89250000002,Being goods sold to Sawhney-Dada Inv No 337,0
+2025-10-08,"Amble, Nanda and Mane",14YaxmG6767i3ZA,417281.03,5,10432.02575,10432.02575,0.0,438145.0815000001,"Being goods sold to Amble, Nanda and Mane Inv No 945",0
+2025-04-24,"Patla, Naidu and Atwal",15nwHDN9768T4ZA,229514.18,12,13770.850799999998,13770.850799999998,0.0,257055.88159999996,"Being goods sold to Patla, Naidu and Atwal Inv No 581",0
+2025-07-14,Atwal and Sons,27qltFV9877G8ZC,278773.39,12,0.0,0.0,33452.8068,312226.19680000003,Being goods sold to Atwal and Sons Inv No 441,0
+2025-11-16,Oza LLC,32ZLHia9606y4ZC,37469.36,12,0.0,0.0,4496.3232,41965.6832,Being goods sold to Oza LLC Inv No 611,0
+2025-11-06,Nazareth Inc,37GQkjr2214j2ZB,143123.15,5,0.0,0.0,7156.1575,150279.3075,Being goods sold to Nazareth Inc Inv No 520,0
+2025-11-06,"Subramanian, Lad and Dass",37GcqLV2542l3ZB,485546.48,18,0.0,0.0,87398.3664,572944.8463999999,"Being goods sold to Subramanian, Lad and Dass Inv No 264",0
+2025-06-15,Personal - Turvi,21xLNWe2036g5ZC,431150.53,18,38803.5477,38803.5477,0.0,508757.6254,Gift for family,1
+2025-12-15,Cheema-Som,21rFavT9412j2ZC,115884.07,5,0.0,0.0,5794.2035000000005,121678.27350000001,Being goods sold to Cheema-Som Inv No 955,0
+2025-04-27,Tandon LLC,15xiiMO1631S7ZB,366114.42,5,0.0,0.0,18305.721,384420.141,Being goods sold to Tandon LLC Inv No 642,0
+2025-12-03,Padmanabhan-Nagi,21KgjLW6796A6ZB,325285.96,0,0.0,0.0,0.0,325285.96,Being goods sold to Padmanabhan-Nagi Inv No 218,0
+2025-08-30,"Wason, Mukherjee and Kalla",20sCbLr2725B4ZC,205607.67,18,18504.690300000002,18504.690300000002,0.0,242617.05060000002,"Being goods sold to Wason, Mukherjee and Kalla Inv No 144",0
+2025-07-20,"Handa, Chhabra and Tailor",16BgykA4732B5ZA,427565.54,18,38480.89859999999,38480.89859999999,0.0,504527.3372,"Being goods sold to Handa, Chhabra and Tailor Inv No 737",0
+2026-01-02,Hora-Guha,32YtcoR4864e6ZB,263626.0,12,15817.56,15817.56,0.0,295261.12,Being goods sold to Hora-Guha Inv No 481,0
+2025-06-07,Garg Ltd,33HDMhB1300X4ZC,468873.92,5,0.0,0.0,23443.696,492317.616,Being goods sold to Garg Ltd Inv No 217,0
+2025-12-01,"Bumb, Bir and Varughese",32lFVTp7627n4ZB,479471.8,5,0.0,0.0,23973.59,503445.39,"Being goods sold to Bumb, Bir and Varughese Inv No 195",0
+2025-10-18,Char-Mannan,32OylTX8087w6ZA,456605.44,28,63924.761600000005,63924.761600000005,0.0,584454.9632,Being goods sold to Char-Mannan Inv No 946,0
+2025-07-07,"Ramesh, Roy and Solanki",24DvpOf7190s1ZC,321743.77,0,0.0,0.0,0.0,321743.77,"Being goods sold to Ramesh, Roy and Solanki Inv No 513",0
+2025-08-12,Hayer LLC,27YvgWJ2180p5ZB,85948.6,28,12032.804000000002,12032.804000000002,0.0,110014.20800000001,Being goods sold to Hayer LLC Inv No 717,0
+2025-12-14,Deep-Morar,32uDXVG9315F9ZB,474648.98,12,0.0,0.0,56957.87759999999,531606.8576,Being goods sold to Deep-Morar Inv No 878,0
+2025-07-13,Nadkarni Ltd,22KVkVA9956P5ZC,170861.4,28,23920.596,23920.596,0.0,218702.59199999998,Being goods sold to Nadkarni Ltd Inv No 370,0
+2025-11-06,Nair Ltd,18ifJkc4885R1ZB,386595.73,28,54123.402200000004,54123.402200000004,0.0,494842.5344,Being goods sold to Nair Ltd Inv No 787,0
+2025-07-02,"Walia, Sarraf and Naidu",26kYleY9629i9ZA,489066.64,0,0.0,0.0,0.0,489066.64,"Being goods sold to Walia, Sarraf and Naidu Inv No 674",0
+2026-01-20,Keer Inc,14qReZL9253c5ZA,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-03-02,Bhakta-Sarkar,33vIXJI4221f5ZC,207166.06,5,5179.1515,5179.1515,0.0,217524.363,Being goods sold to Bhakta-Sarkar Inv No 246,0
+2025-06-28,"Dhar, Ben and Verma",23WuxPg7359i1ZC,360488.71,28,50468.419400000006,50468.419400000006,0.0,461425.54880000005,"Being goods sold to Dhar, Ben and Verma Inv No 467",0
+2025-09-15,"Bobal, Peri and Morar",25thcoY9104C5ZB,422721.97,12,25363.318199999998,25363.318199999998,0.0,473448.60639999993,"Being goods sold to Bobal, Peri and Morar Inv No 692",0
+2025-03-02,Personal - Chatura,23ZDxPI8617C1ZC,355392.91,18,31985.361899999996,31985.361899999996,0.0,419363.6338,Gift for family,1
+2025-12-02,"Narayan, Sastry and Golla",24UWzCH4117i2ZC,369460.73,5,0.0,0.0,18473.0365,387933.76649999997,"Being goods sold to Narayan, Sastry and Golla Inv No 853",0
+2025-04-03,Wadhwa Inc,35cAdXY5248q9ZC,290979.53,0,0.0,0.0,0.0,290979.53,Being goods sold to Wadhwa Inc Inv No 287,0
+2025-11-26,Rege Group,26AUSAL1680B7ZC,473493.82,0,0.0,0.0,0.0,473493.82,Being goods sold to Rege Group Inv No 253,0
+2025-10-27,Mander-Barman,15wCfaj8734j3ZA,319907.81,12,0.0,0.0,38388.9372,358296.7472,Being goods sold to Mander-Barman Inv No 885,0
+2025-07-22,Bhardwaj-Doctor,22IJXyB3042a4ZB,110845.81,5,2771.14525,2771.14525,0.0,116388.1005,Being goods sold to Bhardwaj-Doctor Inv No 670,0
+2025-08-09,Handa-Narain,38YbHrL2222F5ZC,104580.16,12,6274.8096,6274.8096,0.0,117129.77919999999,Being goods sold to Handa-Narain Inv No 350,0
+2025-05-04,Lata PLC,32AvphD8516K4ZC,184766.8,5,4619.17,4619.17,0.0,194005.14,Being goods sold to Lata PLC Inv No 532,0
+2026-01-02,Borah-Murthy,33pYTkp8984A5ZB,224822.71,28,31475.1794,31475.1794,0.0,287773.0688,Being goods sold to Borah-Murthy Inv No 779,0
+2026-01-10,Bhasin-Dhar,19tUvMj1800h5ZA,313590.67,0,0.0,0.0,0.0,313590.67,Being goods sold to Bhasin-Dhar Inv No 703,0
+2025-08-14,Gopal LLC,34kGEtw1321X2ZC,138671.84,5,3466.7960000000003,3466.7960000000003,0.0,145605.432,Being goods sold to Gopal LLC Inv No 565,0
+2025-08-25,Saraf Group,37reHgI2920E5ZA,414854.75,28,58079.66500000001,58079.66500000001,0.0,531014.0800000001,Being goods sold to Saraf Group Inv No 210,0
+2025-06-13,Raman LLC,21mWpYw1255k6ZB,317197.46,28,0.0,0.0,88815.28880000001,406012.74880000006,Being goods sold to Raman LLC Inv No 565,0
+2025-04-29,Sura PLC,18qKEXw4902O6ZB,316593.36,0,0.0,0.0,0.0,316593.36,Being goods sold to Sura PLC Inv No 857,0
+2025-09-12,Soman-Acharya,11ueeit3338F3ZC,167653.37,0,0.0,0.0,0.0,167653.37,Being goods sold to Soman-Acharya Inv No 461,0
+2025-05-15,Ganesan-Deshmukh,36AmCKn6351I6ZB,274699.14,12,16481.9484,16481.9484,0.0,307663.0368,Being goods sold to Ganesan-Deshmukh Inv No 505,0
+2025-06-05,"Khalsa, Morar and Dyal",14wEHzj0457g7ZA,349675.48,5,0.0,0.0,17483.774,367159.25399999996,"Being goods sold to Khalsa, Morar and Dyal Inv No 866",0
+2025-03-29,Goel LLC,26XfBYV0898d4ZC,250846.15,0,0.0,0.0,0.0,250846.15,Being goods sold to Goel LLC Inv No 858,0
+2025-11-18,"Garg, Chaudhary and Parmer",12pkiiO1479g1ZB,165558.12,18,0.0,0.0,29800.4616,195358.5816,"Being goods sold to Garg, Chaudhary and Parmer Inv No 218",0
+2025-05-21,Deep-Mander,21zcZOu4649c8ZC,434958.24,12,0.0,0.0,52194.9888,487153.2288,Being goods sold to Deep-Mander Inv No 709,0
+2025-09-04,"Shetty, Kari and Bajwa",31qjSde3264O8ZB,62693.98,18,5642.4582,5642.4582,0.0,73978.8964,"Being goods sold to Shetty, Kari and Bajwa Inv No 308",0
+2026-02-18,Cheema-Balan,37Blsrt1240o1ZA,149846.3,12,8990.777999999998,8990.777999999998,0.0,167827.85599999997,Being goods sold to Cheema-Balan Inv No 393,0
+2025-03-10,Srinivasan and Sons,34zgXBy8798h4ZA,302887.59,12,0.0,0.0,36346.510800000004,339234.1008,Being goods sold to Srinivasan and Sons Inv No 136,0
+2025-04-20,Barad Inc,17AbtgC6433M8ZA,29062.63,0,0.0,0.0,0.0,29062.63,Being goods sold to Barad Inc Inv No 514,0
+2025-06-05,Sethi and Sons,29vYTBp8759X4ZB,468293.81,28,0.0,0.0,131122.2668,599416.0768,Being goods sold to Sethi and Sons Inv No 410,0
+2025-06-09,Andra-Sarna,22QihmP5572E5ZA,337011.97,0,0.0,0.0,0.0,337011.97,Being goods sold to Andra-Sarna Inv No 507,0
+2025-09-10,"Sachar, Zacharia and Subramaniam",18JnPdr8790o9ZA,234795.12,0,0.0,0.0,0.0,234795.12,"Being goods sold to Sachar, Zacharia and Subramaniam Inv No 502",0
+2025-07-14,Mohanty-Ganguly,16CSHsw1205I6ZB,409810.61,12,24588.636599999998,24588.636599999998,0.0,458987.8831999999,Being goods sold to Mohanty-Ganguly Inv No 726,0
+2026-01-02,Cheema-Patla,13eDQai4530M8ZC,469861.41,12,0.0,0.0,56383.369199999994,526244.7792,Being goods sold to Cheema-Patla Inv No 955,0
+2025-06-08,Narasimhan-Gandhi,24QDNGk8952H7ZA,423920.77,12,25435.2462,25435.2462,0.0,474791.2624,Being goods sold to Narasimhan-Gandhi Inv No 841,0
+2026-01-11,Soman PLC,31qwclY1863J7ZA,430925.63,5,5386.570375,5386.570375,0.0,441698.77075,GST Calculation Error,1
+2025-12-12,Kari-Varghese,34EGAri0033l1ZC,422900.06,28,0.0,0.0,118412.01680000001,541312.0768,Being goods sold to Kari-Varghese Inv No 740,0
+2025-12-16,Balay-Ramachandran,22YaHHN6421v9ZA,379504.19,28,0.0,0.0,106261.1732,485765.3632,Being goods sold to Balay-Ramachandran Inv No 280,0
+2025-09-14,Saha Inc,21pHkNb5588J5ZB,408455.5,5,10211.3875,10211.3875,0.0,428878.275,Being goods sold to Saha Inc Inv No 931,0
+2025-04-02,Bora-Dave,17NQVZf3151k3ZA,74139.39,28,0.0,0.0,20759.0292,94898.4192,Being goods sold to Bora-Dave Inv No 283,0
+2025-03-02,"Mitter, Chakraborty and Bhasin",15VtZbn9262d7ZC,487989.9,5,12199.747500000001,12199.747500000001,0.0,512389.395,"Being goods sold to Mitter, Chakraborty and Bhasin Inv No 195",0
+2025-03-06,"Varghese, Sarin and Toor",31ppDRI7200a8ZA,18435.23,28,2580.9322,2580.9322,0.0,23597.094399999998,"Being goods sold to Varghese, Sarin and Toor Inv No 267",0
+2025-09-14,Ahluwalia Inc,29Zfwrf8462i4ZC,347753.98,12,0.0,0.0,41730.4776,389484.45759999997,Being goods sold to Ahluwalia Inc Inv No 704,0
+2025-09-12,Singhal Ltd,37jLhlb0234n1ZC,408975.88,0,0.0,0.0,0.0,408975.88,Being goods sold to Singhal Ltd Inv No 973,0
+2025-12-30,Padmanabhan-Kalla,32IahgY6558V9ZA,76163.82,18,0.0,0.0,13709.4876,89873.3076,Being goods sold to Padmanabhan-Kalla Inv No 482,0
+2025-03-12,Anne Group,34QGxPw7850L1ZA,13321.56,12,0.0,0.0,1598.5872,14920.1472,Being goods sold to Anne Group Inv No 893,0
+2025-05-18,Taneja Ltd,30zRNUY7469p2ZA,268836.49,0,0.0,0.0,0.0,268836.49,Being goods sold to Taneja Ltd Inv No 999,0
+2025-10-23,Toor LLC,22ayfFP2865N3ZC,254733.1,28,0.0,0.0,71325.26800000001,326058.368,Being goods sold to Toor LLC Inv No 354,0
+2025-11-28,"Rout, Thaker and Andra",25cCaTX6559F5ZB,361629.19,18,0.0,0.0,32546.627099999998,394175.8171,GST Calculation Error,1
+2025-10-23,Bhasin PLC,23felMV2417u7ZC,90991.89,5,0.0,0.0,4549.5945,95541.4845,Being goods sold to Bhasin PLC Inv No 907,0
+2025-11-08,Mishra-Deol,12yUhWR3213o6ZC,47400.1,28,0.0,0.0,13272.028,60672.128,Being goods sold to Mishra-Deol Inv No 392,0
+2026-01-20,"Bhalla, Johal and Chowdhury",24ZHCgL3146P3ZC,289560.65,18,0.0,0.0,52120.917,341681.56700000004,"Being goods sold to Bhalla, Johal and Chowdhury Inv No 270",0
+2025-06-21,"Swamy, Butala and Narain",21JGyxB2084Z1ZA,359516.54,12,0.0,0.0,43141.9848,402658.52479999996,"Being goods sold to Swamy, Butala and Narain Inv No 227",0
+2025-11-09,"Anne, Bobal and Kota",36UbFxk3509x4ZA,291895.11,12,17513.706599999998,17513.706599999998,0.0,326922.52319999994,"Being goods sold to Anne, Bobal and Kota Inv No 828",0
+2025-03-06,Ramesh-Som,29aiZsI1721F7ZA,143323.98,18,0.0,0.0,25798.3164,169122.29640000002,Being goods sold to Ramesh-Som Inv No 298,0
+2025-11-22,Hora Ltd,37ZzvDH3933U6ZA,202603.15,5,0.0,0.0,10130.157500000001,212733.3075,Being goods sold to Hora Ltd Inv No 408,0
+2025-10-10,Korpal-Balakrishnan,21ZOzpB3799a5ZC,268805.24,18,0.0,0.0,48384.943199999994,317190.18319999997,Being goods sold to Korpal-Balakrishnan Inv No 166,0
+2026-02-02,"Sarraf, Bhattacharyya and Sama",17yjAwi7401A4ZA,96487.59,28,13508.2626,13508.2626,0.0,123504.1152,"Being goods sold to Sarraf, Bhattacharyya and Sama Inv No 364",0
+2025-05-25,"Koshy, Dube and Kibe",32PRyUF1780J5ZA,255803.46,28,35812.4844,35812.4844,0.0,327428.4288,"Being goods sold to Koshy, Dube and Kibe Inv No 806",0
+2026-01-06,Anne LLC,37uYLdR5880V1ZB,128603.72,5,0.0,0.0,6430.186000000001,135033.906,Being goods sold to Anne LLC Inv No 536,0
+2025-10-18,Golla Group,26NDzsw8619s3ZC,221469.33,18,0.0,0.0,39864.4794,261333.80939999997,Being goods sold to Golla Group Inv No 733,0
+2025-12-11,"Kade, Edwin and Rajagopal",21QIQlI0768y6ZB,152327.84,0,0.0,0.0,0.0,152327.84,"Being goods sold to Kade, Edwin and Rajagopal Inv No 248",0
+2025-05-18,Personal - George,31mWEPb0374M9ZA,225809.17,18,0.0,0.0,40645.6506,266454.82060000004,Cash withdrawal,1
+2025-03-31,Sunder Group,17kBwRZ7888w8ZC,259667.82,28,36353.49480000001,36353.49480000001,0.0,332374.8096,Being goods sold to Sunder Group Inv No 138,0
+2025-04-18,Koshy Group,13XUQmV6466t5ZC,384477.99,12,0.0,0.0,23068.679399999997,407546.6694,GST Calculation Error,1
+2025-03-18,Khanna-Nagi,37KuUiK5254A5ZC,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-05-01,Dugar LLC,21VoKjU0354i1ZA,150173.39,18,0.0,0.0,27031.2102,177204.60020000002,Being goods sold to Dugar LLC Inv No 575,0
+2025-11-30,Ramaswamy-Kata,12oAbiX1686x9ZB,469904.77,0,0.0,0.0,0.0,469904.77,Being goods sold to Ramaswamy-Kata Inv No 868,0
+2025-11-26,Pall-Mann,23USsBb4451k2ZA,186646.87,28,0.0,0.0,52261.123600000006,238907.9936,Being goods sold to Pall-Mann Inv No 750,0
+2026-02-19,Bala-Mohanty,12diFYP7252Q9ZB,319429.59,5,7985.739750000001,7985.739750000001,0.0,335401.06950000004,Being goods sold to Bala-Mohanty Inv No 277,0
+2025-08-15,Srivastava PLC,16BWQDk6068Y8ZB,13945.97,12,0.0,0.0,1673.5163999999997,15619.4864,Being goods sold to Srivastava PLC Inv No 385,0
+2026-02-18,Bava-Ahluwalia,13rUiBK3381k1ZC,449992.01,12,26999.5206,26999.5206,0.0,503991.0512,Being goods sold to Bava-Ahluwalia Inv No 108,0
+2025-12-09,Madan-Zacharia,21DVreg0170A3ZB,96046.27,0,0.0,0.0,0.0,96046.27,Being goods sold to Madan-Zacharia Inv No 382,0
+2026-02-26,Kumer Group,31CkqwI2549e5ZA,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2026-01-05,Acharya-Boase,21RaHHq9513q3ZB,447991.33,18,0.0,0.0,80638.4394,528629.7694,Being goods sold to Acharya-Boase Inv No 557,0
+2025-07-14,Mishra PLC,31vFMYt9269s2ZC,87183.84,0,0.0,0.0,0.0,87183.84,Being goods sold to Mishra PLC Inv No 370,0
+2025-09-22,Comar-Raval,19QLXXi1630s3ZA,329436.53,18,0.0,0.0,59298.5754,388735.1054,Being goods sold to Comar-Raval Inv No 614,0
+2025-07-03,Vig-Sengupta,38xAKWx1279S5ZB,482829.94,5,12070.748500000002,12070.748500000002,0.0,506971.437,Being goods sold to Vig-Sengupta Inv No 406,0
+2026-02-22,Ramachandran-Ranganathan,34PXvBW0030R5ZC,499421.87,28,69919.06180000001,69919.06180000001,0.0,639259.9936,Being goods sold to Ramachandran-Ranganathan Inv No 167,0
+2025-07-17,Om-Agarwal,19rratj0998L4ZB,274691.62,5,6867.2905,6867.2905,0.0,288426.201,Being goods sold to Om-Agarwal Inv No 179,0
+2025-11-01,Pandya-Nayak,25SkHNd0739r9ZA,461549.16,18,41539.424399999996,41539.424399999996,0.0,544628.0088,Being goods sold to Pandya-Nayak Inv No 990,0
+2025-06-28,"Mitter, Sagar and Chada",33FzGWs2616R8ZC,240836.96,0,0.0,0.0,0.0,240836.96,"Being goods sold to Mitter, Sagar and Chada Inv No 158",0
+2025-09-27,Parmar-Oak,33deqpl9397a5ZA,486839.94,5,0.0,0.0,24341.997000000003,511181.93700000003,Being goods sold to Parmar-Oak Inv No 129,0
+2025-05-10,"Chaudhari, Tandon and Sinha",29gGaWN8466Z9ZB,143416.3,18,12907.466999999999,12907.466999999999,0.0,169231.234,"Being goods sold to Chaudhari, Tandon and Sinha Inv No 123",0
+2025-09-15,Kar-Garde,13fKAzL3231y9ZB,190444.57,5,0.0,0.0,9522.228500000001,199966.7985,Being goods sold to Kar-Garde Inv No 922,0
+2025-07-23,Hayre-Goda,11TMhlo9475r7ZB,149640.07,0,0.0,0.0,0.0,149640.07,Being goods sold to Hayre-Goda Inv No 299,0
+2025-11-30,"Sekhon, Deshpande and Narayanan",26qvvkL9256N2ZB,62393.0,12,3743.58,3743.58,0.0,69880.16,"Being goods sold to Sekhon, Deshpande and Narayanan Inv No 194",0
+2025-08-09,Bawa and Sons,23uYRaf3164V3ZA,284356.96,5,7108.924000000001,7108.924000000001,0.0,298574.808,Being goods sold to Bawa and Sons Inv No 598,0
+2025-08-22,"Ravel, Barman and Loke",12eGDDb3639S8ZB,300469.57,28,42065.7398,42065.7398,0.0,384601.04959999997,"Being goods sold to Ravel, Barman and Loke Inv No 406",0
+2026-01-15,"Korpal, Mann and Brahmbhatt",15ZvXxT2330o6ZA,403462.91,28,0.0,0.0,112969.61480000001,516432.5248,"Being goods sold to Korpal, Mann and Brahmbhatt Inv No 108",0
+2025-05-01,"Bora, Pant and Morar",14OZEaq9099r2ZA,38210.42,28,5349.4588,5349.4588,0.0,48909.3376,"Being goods sold to Bora, Pant and Morar Inv No 326",0
+2026-01-07,"Ray, Sahni and Ravel",24GOqQQ2038a7ZC,487809.06,5,0.0,0.0,24390.453,512199.513,"Being goods sold to Ray, Sahni and Ravel Inv No 224",0
+2025-04-05,"Hayer, Vohra and Dara",22hrGgU4976P2ZA,260227.32,12,15613.6392,15613.6392,0.0,291454.59839999996,"Being goods sold to Hayer, Vohra and Dara Inv No 815",0
+2025-05-25,"Deol, Handa and Chaudhuri",17nuTdf3387w2ZA,378155.52,12,11344.6656,11344.6656,0.0,400844.85120000003,GST Calculation Error,1
+2025-12-19,Sood-Sangha,26QKjIS7864e4ZA,87887.05,18,0.0,0.0,15819.669,103706.719,Being goods sold to Sood-Sangha Inv No 199,0
+2025-05-26,"Iyengar, Soman and Edwin",25bRIFH8151H3ZA,322462.47,18,29021.622299999995,29021.622299999995,0.0,380505.71459999995,"Being goods sold to Iyengar, Soman and Edwin Inv No 611",0
+2026-01-05,Sawhney-Singhal,26rwAtg5110V2ZB,246432.27,5,6160.80675,6160.80675,0.0,258753.88349999997,Being goods sold to Sawhney-Singhal Inv No 254,0
+2026-01-04,Dora PLC,20eelje6484M6ZA,231692.57,12,13901.5542,13901.5542,0.0,259495.67840000003,Being goods sold to Dora PLC Inv No 213,0
+2026-01-30,Kade-Ravi,10NvZrY0888b3ZB,423276.23,0,0.0,0.0,0.0,423276.23,Being goods sold to Kade-Ravi Inv No 413,0
+2025-08-17,Bumb-Kala,38WYLLg5817H6ZC,459970.91,18,0.0,0.0,82794.76379999999,542765.6738,Being goods sold to Bumb-Kala Inv No 584,0
+2025-11-24,"Gara, Luthra and Doctor",20bOYQd2998t6ZC,278126.1,28,38937.654,38937.654,0.0,356001.40799999994,"Being goods sold to Gara, Luthra and Doctor Inv No 976",0
+2025-11-09,Kurian-Lal,26vDJYD7594u5ZB,79748.77,18,7177.3893,7177.3893,0.0,94103.5486,Being goods sold to Kurian-Lal Inv No 747,0
+2026-01-19,Ravi-Barad,20nNZPX7657W2ZA,65937.79,28,9231.2906,9231.2906,0.0,84400.3712,Being goods sold to Ravi-Barad Inv No 831,0
+2025-07-21,Atwal-Maharaj,19VZkfV3859V5ZB,233051.93,5,0.0,0.0,11652.5965,244704.52649999998,Being goods sold to Atwal-Maharaj Inv No 721,0
+2025-04-20,Sathe-Wali,12NdXNF4007m1ZC,450671.62,0,0.0,0.0,0.0,450671.62,Being goods sold to Sathe-Wali Inv No 960,0
+2025-08-05,"Baral, Kaul and Naidu",21rqcJN9320l3ZC,475767.24,0,0.0,0.0,0.0,475767.24,"Being goods sold to Baral, Kaul and Naidu Inv No 694",0
+2025-05-03,"Khalsa, Patla and Hayer",14TYpTf1077e2ZC,326517.99,12,0.0,0.0,39182.1588,365700.14879999997,"Being goods sold to Khalsa, Patla and Hayer Inv No 211",0
+2025-07-14,Bath-Mand,35weOxl6097c5ZA,449399.04,18,0.0,0.0,80891.8272,530290.8672,Being goods sold to Bath-Mand Inv No 877,0
+2025-12-21,Nayak LLC,11QBKFc3578q5ZC,434005.74,18,0.0,0.0,78121.03319999999,512126.7732,Being goods sold to Nayak LLC Inv No 121,0
+2025-03-20,Biswas Group,20irzSp8004M7ZB,374839.06,18,0.0,0.0,67471.0308,442310.0908,Being goods sold to Biswas Group Inv No 978,0
+2025-04-30,Hari PLC,10sjpto0833n2ZB,8764.24,5,219.106,219.106,0.0,9202.452,Being goods sold to Hari PLC Inv No 642,0
+2025-10-24,"Vala, Atwal and Karnik",27crZQH8486w9ZB,17142.53,12,1028.5518,1028.5518,0.0,19199.6336,"Being goods sold to Vala, Atwal and Karnik Inv No 444",0
+2025-06-26,Bawa-Dhar,10pQkPC2558A8ZB,402329.31,18,36209.6379,36209.6379,0.0,474748.5858,Being goods sold to Bawa-Dhar Inv No 708,0
+2025-04-30,"Manda, Saraf and Malhotra",31sYdCj7263p3ZB,84139.19,12,0.0,0.0,5048.3514,89187.5414,GST Calculation Error,1
+2025-04-29,"Chhabra, Vasa and Oak",20iLaLp6351F8ZB,228318.41,18,0.0,0.0,41097.313799999996,269415.7238,"Being goods sold to Chhabra, Vasa and Oak Inv No 444",0
+2025-11-10,"Divan, Devi and Rao",38OYeJM8791G2ZB,290607.95,5,0.0,0.0,14530.397500000001,305138.34750000003,"Being goods sold to Divan, Devi and Rao Inv No 408",0
+2026-01-14,Chandra and Sons,11PMmvr2883V3ZA,334533.84,0,0.0,0.0,0.0,334533.84,Being goods sold to Chandra and Sons Inv No 686,0
+2025-02-27,"Kashyap, Nori and De",15uWovK0564j2ZB,43213.43,5,1080.33575,1080.33575,0.0,45374.1015,"Being goods sold to Kashyap, Nori and De Inv No 755",0
+2025-06-12,Narula-Seshadri,19VJQpd1673A9ZA,327277.83,12,0.0,0.0,39273.3396,366551.1696,Being goods sold to Narula-Seshadri Inv No 726,0
+2025-08-17,Rajagopal-Mohan,10zfhjQ5598d2ZC,390747.82,18,0.0,0.0,70334.6076,461082.4276,Being goods sold to Rajagopal-Mohan Inv No 248,0
+2026-02-17,Personal - Lakshmi,37gTEUv3931U8ZC,22041.65,18,1983.7485000000001,1983.7485000000001,0.0,26009.147000000004,Adjustment,1
+2026-02-08,Barad Ltd,17Cuwrf0117a8ZA,462526.16,12,27751.5696,27751.5696,0.0,518029.29919999995,Being goods sold to Barad Ltd Inv No 687,0
+2025-06-29,Kannan and Sons,31eQjlK6109C1ZA,419576.65,5,10489.416250000002,10489.416250000002,0.0,440555.48250000004,Being goods sold to Kannan and Sons Inv No 287,0
+2025-10-15,"Kohli, Chacko and Sarma",19bPQWV7104E2ZA,118474.19,18,0.0,0.0,21325.354199999998,139799.5442,"Being goods sold to Kohli, Chacko and Sarma Inv No 201",0
+2025-10-04,"Sur, Dube and Salvi",13ublGS7193W6ZC,396492.55,0,0.0,0.0,0.0,396492.55,"Being goods sold to Sur, Dube and Salvi Inv No 499",0
+2025-12-30,Dara-Dash,31ZmMOR0005v5ZA,13686.41,12,821.1845999999999,821.1845999999999,0.0,15328.7792,Being goods sold to Dara-Dash Inv No 485,0
+2025-12-22,Madan and Sons,18HPrLl6698B3ZA,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2025-07-09,Mishra Group,25NIDjM5352R5ZB,298766.55,12,0.0,0.0,35851.986,334618.53599999996,Being goods sold to Mishra Group Inv No 666,0
+2025-03-13,Minhas Ltd,25XNpsz9064u5ZA,461862.69,5,11546.56725,11546.56725,0.0,484955.82450000005,Being goods sold to Minhas Ltd Inv No 398,0
+2025-04-24,Kulkarni-Gill,26TgFli6754V8ZB,24158.62,0,0.0,0.0,0.0,24158.62,Being goods sold to Kulkarni-Gill Inv No 817,0
+2025-08-12,Pandit LLC,37hTdIl5842N7ZB,324833.31,0,0.0,0.0,0.0,324833.31,Being goods sold to Pandit LLC Inv No 796,0
+2025-06-13,Dave Inc,13qPUlD0595X8ZB,324196.52,18,0.0,0.0,58355.3736,382551.8936,Being goods sold to Dave Inc Inv No 205,0
+2025-09-25,"Parmar, Padmanabhan and Gill",38LssQV3417B5ZB,440813.23,0,0.0,0.0,0.0,440813.23,"Being goods sold to Parmar, Padmanabhan and Gill Inv No 131",0
+2025-11-12,Sengupta Group,20DpVQL9213K6ZA,199965.9,28,0.0,0.0,55990.452000000005,255956.352,Being goods sold to Sengupta Group Inv No 300,0
+2025-11-18,"Bhat, Varughese and Bora",15GseqE9499X9ZC,197597.81,5,2469.9726250000003,2469.9726250000003,0.0,202537.75525,GST Calculation Error,1
+2026-01-04,Kaur-Agrawal,26SxHuu3663V1ZB,474863.93,18,42737.7537,42737.7537,0.0,560339.4373999999,Being goods sold to Kaur-Agrawal Inv No 130,0
+2025-04-29,Chada-Pillay,19BldbQ3095O5ZA,200244.27,28,28034.1978,28034.1978,0.0,256312.66559999998,Being goods sold to Chada-Pillay Inv No 190,0
+2025-08-08,"Kar, Dhar and Bumb",11etsuI1616N1ZA,377531.9,28,0.0,0.0,105708.93200000002,483240.83200000005,"Being goods sold to Kar, Dhar and Bumb Inv No 637",0
+2026-01-16,Sha Inc,10moTav4205b8ZC,397933.37,5,4974.167125,4974.167125,0.0,407881.70424999995,GST Calculation Error,1
+2025-03-31,Natarajan-Parmar,10OmtwN7645p5ZB,378102.51,28,52934.35140000001,52934.35140000001,0.0,483971.2128,Being goods sold to Natarajan-Parmar Inv No 729,0
+2025-03-20,"Sharaf, Gupta and Rout",29VyIVZ0918Y3ZB,32200.01,12,0.0,0.0,3864.0011999999997,36064.0112,"Being goods sold to Sharaf, Gupta and Rout Inv No 683",0
+2026-02-16,Wali and Sons,19bwJXk2195i4ZA,251395.02,28,35195.302800000005,35195.302800000005,0.0,321785.62559999997,Being goods sold to Wali and Sons Inv No 382,0
+2025-09-07,Guha-Chauhan,29UhwzN7631S3ZC,484651.66,12,29079.099599999998,29079.099599999998,0.0,542809.8592,Being goods sold to Guha-Chauhan Inv No 828,0
+2025-05-17,Uppal LLC,14lkKRh8419k8ZA,281926.0,18,25373.34,25373.34,0.0,332672.68000000005,Being goods sold to Uppal LLC Inv No 840,0
+2025-10-06,Kalita and Sons,11ICRLC4602T3ZC,394288.31,28,0.0,0.0,110400.7268,504689.0368,Being goods sold to Kalita and Sons Inv No 936,0
+2025-12-29,"Ahuja, Prakash and Dayal",17ArQFJ5782d4ZC,379844.99,28,0.0,0.0,106356.5972,486201.5872,"Being goods sold to Ahuja, Prakash and Dayal Inv No 955",0
+2025-10-19,"Gulati, Kade and Bhatt",36XactF0992s8ZB,108358.75,12,0.0,0.0,13003.05,121361.8,"Being goods sold to Gulati, Kade and Bhatt Inv No 270",0
+2025-03-28,Doctor Group,20wOdUh1671c8ZA,90545.0,18,0.0,0.0,16298.099999999999,106843.1,Being goods sold to Doctor Group Inv No 476,0
+2025-10-27,Sathe-Muni,19nmbnv7898g2ZA,345579.8,12,20734.787999999997,20734.787999999997,0.0,387049.376,Being goods sold to Sathe-Muni Inv No 774,0
+2025-11-09,"Choudhury, Sheth and Ganesh",25oKGrj9375v7ZB,339218.64,28,0.0,0.0,94981.2192,434199.8592,"Being goods sold to Choudhury, Sheth and Ganesh Inv No 731",0
+2025-03-03,"Mani, Mangat and Kapadia",19yKZwe6536Y7ZC,498300.54,12,0.0,0.0,59796.06479999999,558096.6048,"Being goods sold to Mani, Mangat and Kapadia Inv No 996",0
+2025-08-31,Master-Mital,33BQNMW8701b9ZC,37158.31,12,0.0,0.0,4458.9972,41617.307199999996,Being goods sold to Master-Mital Inv No 663,0
+2025-08-19,Cherian PLC,20SLcfV9752G6ZB,432363.35,0,0.0,0.0,0.0,432363.35,Being goods sold to Cherian PLC Inv No 322,0
+2026-02-13,"Sandal, Iyer and Jain",30kZrAA2220H9ZB,94953.1,12,5697.186,5697.186,0.0,106347.47200000001,"Being goods sold to Sandal, Iyer and Jain Inv No 308",0
+2025-05-29,Virk-Keer,15lqQSg7434Y8ZC,284913.4,12,0.0,0.0,34189.608,319103.00800000003,Being goods sold to Virk-Keer Inv No 430,0
+2026-02-19,Kar-Lata,33XXoml5980o2ZB,353215.45,12,0.0,0.0,42385.854,395601.304,Being goods sold to Kar-Lata Inv No 362,0
+2025-04-20,Purohit-Borah,38bfqEw6769U9ZC,240930.49,5,6023.26225,6023.26225,0.0,252977.0145,Being goods sold to Purohit-Borah Inv No 262,0
+2025-04-26,Batra-Joshi,13LeMoX1413y5ZA,488322.91,28,68365.2074,68365.2074,0.0,625053.3248,Being goods sold to Batra-Joshi Inv No 150,0
+2025-10-09,"Parekh, Dhar and Karan",24bffRV7029A3ZB,61079.76,18,0.0,0.0,10994.3568,72074.1168,"Being goods sold to Parekh, Dhar and Karan Inv No 124",0
+2026-01-10,"Sidhu, Wason and Chakrabarti",23wOxYZ6517u2ZA,305214.05,28,42729.967000000004,42729.967000000004,0.0,390673.984,"Being goods sold to Sidhu, Wason and Chakrabarti Inv No 107",0
+2025-04-23,Kumar Ltd,11oFUaC9582Y8ZA,417793.12,12,0.0,0.0,50135.174399999996,467928.2944,Being goods sold to Kumar Ltd Inv No 588,0
+2026-02-27,"Ranganathan, Chahal and Ravel",17SuhPg7846R1ZA,173978.76,12,10438.7256,10438.7256,0.0,194856.21120000002,"Being goods sold to Ranganathan, Chahal and Ravel Inv No 151",0
+2025-06-19,Sem-Basak,30MASuV0751D2ZC,390243.03,18,35121.8727,35121.8727,0.0,460486.77540000004,Being goods sold to Sem-Basak Inv No 831,0
+2025-08-15,Muni LLC,15ogLCv3685E7ZA,11571.96,0,0.0,0.0,0.0,11571.96,Being goods sold to Muni LLC Inv No 235,0
+2025-07-05,"Andra, Chahal and Sarma",13rzEQa8309y2ZB,11288.47,28,0.0,0.0,3160.7716,14449.2416,"Being goods sold to Andra, Chahal and Sarma Inv No 575",0
+2026-02-09,"Varghese, Ray and Hayre",18frRde1953z4ZC,314443.1,5,7861.077499999999,7861.077499999999,0.0,330165.255,"Being goods sold to Varghese, Ray and Hayre Inv No 849",0
+2025-03-18,"Nagi, Parekh and Doctor",11PHxFt0194m5ZC,102495.37,12,6149.722199999999,6149.722199999999,0.0,114794.8144,"Being goods sold to Nagi, Parekh and Doctor Inv No 895",0
+2025-08-24,"Chaudhary, Deo and Tank",11kkEOr4460d4ZB,430237.45,5,0.0,0.0,21511.8725,451749.3225,"Being goods sold to Chaudhary, Deo and Tank Inv No 611",0
+2025-08-03,Sen Inc,16SKViD1805n9ZB,82838.23,5,2070.95575,2070.95575,0.0,86980.14149999998,Being goods sold to Sen Inc Inv No 165,0
+2025-05-21,Anne-Saini,24QFAYw5930U8ZB,342476.99,5,8561.92475,8561.92475,0.0,359600.8395,Being goods sold to Anne-Saini Inv No 386,0
+2025-03-08,Wable-Tiwari,21JseAC5837p2ZB,39667.94,12,0.0,0.0,4760.1528,44428.0928,Being goods sold to Wable-Tiwari Inv No 749,0
+2025-12-13,"Dugal, Virk and Naik",16KsVCe3192x2ZB,232129.05,18,0.0,0.0,41783.229,273912.279,"Being goods sold to Dugal, Virk and Naik Inv No 760",0
+2025-09-23,"Maharaj, Sidhu and Randhawa",25OFrzM5923o8ZA,1781.81,12,0.0,0.0,213.81719999999999,1995.6272,"Being goods sold to Maharaj, Sidhu and Randhawa Inv No 210",0
+2025-08-18,Natt Group,11hKpTi9056S2ZB,179074.97,18,16116.747299999999,16116.747299999999,0.0,211308.46459999998,Being goods sold to Natt Group Inv No 190,0
+2025-05-31,Halder-Palla,22xSsXN2697T7ZA,221092.0,0,0.0,0.0,0.0,221092.0,Being goods sold to Halder-Palla Inv No 855,0
+2026-01-30,Mandal-Edwin,27Ijbyj5884H4ZB,308132.63,5,0.0,0.0,15406.631500000001,323539.2615,Being goods sold to Mandal-Edwin Inv No 914,0
+2025-08-16,Morar-Pau,38AsvdR4526f6ZB,3012.32,18,0.0,0.0,542.2176000000001,3554.5376,Being goods sold to Morar-Pau Inv No 585,0
+2025-07-30,Char-Dhingra,13oYNBz6650M8ZC,408354.52,28,57169.63280000001,57169.63280000001,0.0,522693.78560000006,Being goods sold to Char-Dhingra Inv No 440,0
+2025-07-18,Ghose-Ravel,10KtUDr3477M6ZA,309100.07,18,0.0,0.0,55638.0126,364738.0826,Being goods sold to Ghose-Ravel Inv No 445,0
+2025-05-31,"Sama, Walia and Memon",22JRUbw1120t9ZC,92178.92,12,0.0,0.0,11061.4704,103240.3904,"Being goods sold to Sama, Walia and Memon Inv No 229",0
+2025-03-30,Wali LLC,32zQJvB7743W7ZA,471377.51,0,0.0,0.0,0.0,471377.51,Being goods sold to Wali LLC Inv No 281,0
+2025-11-22,Nath Group,20nTAAI3273o6ZA,385662.97,5,9641.57425,9641.57425,0.0,404946.1185,Being goods sold to Nath Group Inv No 196,0
+2025-06-17,Memon-Ram,35peXde3562R6ZC,116600.3,12,0.0,0.0,13992.036,130592.33600000001,Being goods sold to Memon-Ram Inv No 445,0
+2025-04-12,Joshi-Suri,19kQhcN4393I7ZB,211934.7,0,0.0,0.0,0.0,211934.7,Being goods sold to Joshi-Suri Inv No 353,0
+2025-03-26,Sharma and Sons,34UgwmB2522t6ZA,492145.08,5,12303.627,12303.627,0.0,516752.334,Being goods sold to Sharma and Sons Inv No 931,0
+2025-03-26,"Ratti, Keer and Kaur",21ZESNs7348s2ZB,310978.49,0,0.0,0.0,0.0,310978.49,"Being goods sold to Ratti, Keer and Kaur Inv No 579",0
+2026-01-20,Natt-Mangat,31jTdhI1185u7ZC,69142.76,5,1728.569,1728.569,0.0,72599.898,Being goods sold to Natt-Mangat Inv No 155,0
+2025-07-05,"Boase, Kadakia and Choudhry",27QGAWA2265J7ZA,133353.03,28,18669.4242,18669.4242,0.0,170691.87840000002,"Being goods sold to Boase, Kadakia and Choudhry Inv No 413",0
+2025-12-19,Chowdhury Group,27ypGFW5692X5ZC,292444.83,5,7311.120750000001,7311.120750000001,0.0,307067.0715,Being goods sold to Chowdhury Group Inv No 952,0
+2026-01-13,"Sehgal, Venkatesh and Vohra",38WSYSO6296m3ZA,217712.89,5,5442.822250000001,5442.822250000001,0.0,228598.5345,"Being goods sold to Sehgal, Venkatesh and Vohra Inv No 990",0
+2025-07-24,Sandal PLC,32pUfSm0307K2ZC,112287.92,12,6737.2752,6737.2752,0.0,125762.4704,Being goods sold to Sandal PLC Inv No 761,0
+2025-04-07,Palla-Krishna,23kpcDG4251v1ZB,287276.77,18,0.0,0.0,51709.8186,338986.5886,Being goods sold to Palla-Krishna Inv No 904,0
+2025-11-03,Khanna PLC,38moIYh2848k5ZB,407266.18,12,0.0,0.0,48871.9416,456138.1216,Being goods sold to Khanna PLC Inv No 107,0
+2025-06-25,Karnik LLC,37TpINd2604w3ZC,233036.5,0,0.0,0.0,0.0,233036.5,Being goods sold to Karnik LLC Inv No 289,0
+2025-05-16,Sarma-Chauhan,26CbAPx9686V7ZB,219534.48,0,0.0,0.0,0.0,219534.48,Being goods sold to Sarma-Chauhan Inv No 721,0
+2025-07-29,Banerjee Ltd,28pifxx6874S7ZC,466832.36,18,42014.912399999994,42014.912399999994,0.0,550862.1847999999,Being goods sold to Banerjee Ltd Inv No 536,0
+2025-04-29,Sinha PLC,38hcUUf3942w4ZA,431297.66,28,60381.6724,60381.6724,0.0,552061.0048,Being goods sold to Sinha PLC Inv No 849,0
+2026-02-18,"Patel, Handa and Narula",24LvBaG4363J7ZC,412403.81,28,57736.53340000001,57736.53340000001,0.0,527876.8768,"Being goods sold to Patel, Handa and Narula Inv No 989",0
+2025-11-23,Korpal-Balan,34SoKYD4769R2ZC,7231.64,5,0.0,0.0,361.58200000000005,7593.222000000001,Being goods sold to Korpal-Balan Inv No 283,0
+2025-04-03,Khurana PLC,37uveSN1872c9ZC,104141.23,0,0.0,0.0,0.0,104141.23,Being goods sold to Khurana PLC Inv No 429,0
+2025-09-04,Seth Group,23PgARL6237j8ZC,479098.12,0,0.0,0.0,0.0,479098.12,Being goods sold to Seth Group Inv No 457,0
+2025-05-01,"Golla, Misra and De",22QxAio2387z3ZC,362060.82,12,0.0,0.0,43447.2984,405508.11840000004,"Being goods sold to Golla, Misra and De Inv No 157",0
+2026-02-11,Dyal Ltd,27ZLjaH3164N5ZA,414973.47,18,0.0,0.0,74695.22459999999,489668.69459999993,Being goods sold to Dyal Ltd Inv No 204,0
+2025-04-13,Devan-Madan,14JPRth1096k1ZA,290153.91,0,0.0,0.0,0.0,290153.91,Being goods sold to Devan-Madan Inv No 982,0
+2025-11-24,"Dass, Kala and Soni",28UAapu9939e2ZA,182586.62,12,10955.197199999999,10955.197199999999,0.0,204497.0144,"Being goods sold to Dass, Kala and Soni Inv No 614",0
+2025-06-07,Chakrabarti-Dhar,28sqcAQ3174C2ZB,27144.78,5,678.6195,678.6195,0.0,28502.019,Being goods sold to Chakrabarti-Dhar Inv No 876,0
+2025-03-29,Tandon LLC,15DbjxT9507X7ZC,76626.82,12,4597.6092,4597.6092,0.0,85822.03840000002,Being goods sold to Tandon LLC Inv No 906,0
+2025-07-10,"Kumer, Ratti and Chad",12XSAZi0919e1ZA,360719.07,0,0.0,0.0,0.0,360719.07,"Being goods sold to Kumer, Ratti and Chad Inv No 215",0
+2025-11-30,Pillay-Sabharwal,35wjeEi3739t8ZB,431194.87,5,10779.87175,10779.87175,0.0,452754.6135,Being goods sold to Pillay-Sabharwal Inv No 637,0
+2025-12-25,Ray-Randhawa,22GTjiZ4121C8ZC,338459.02,18,0.0,0.0,60922.6236,399381.6436,Being goods sold to Ray-Randhawa Inv No 159,0
+2025-06-14,Sood-Sahni,16tyRVI9669E6ZB,495583.62,5,0.0,0.0,24779.181,520362.801,Being goods sold to Sood-Sahni Inv No 347,0
+2025-03-07,Uppal-Sundaram,22iNguS7185b9ZC,76829.89,12,4609.7934,4609.7934,0.0,86049.47679999999,Being goods sold to Uppal-Sundaram Inv No 206,0
+2025-11-30,Raval Ltd,35ccrcM3819H1ZC,142205.02,0,0.0,0.0,0.0,142205.02,Being goods sold to Raval Ltd Inv No 443,0
+2025-12-29,"Ramesh, Pant and Gola",23VBddK6612z6ZC,370244.45,0,0.0,0.0,0.0,370244.45,"Being goods sold to Ramesh, Pant and Gola Inv No 394",0
+2025-06-02,"Raj, Bhatt and Kadakia",30JNbhQ8360r7ZC,379187.6,28,0.0,0.0,106172.528,485360.12799999997,"Being goods sold to Raj, Bhatt and Kadakia Inv No 888",0
+2025-05-13,"Barad, Dani and Swamy",23snMWz3713O8ZA,62989.2,18,0.0,0.0,11338.055999999999,74327.256,"Being goods sold to Barad, Dani and Swamy Inv No 746",0
+2025-06-10,"Uppal, Subramaniam and Chowdhury",18EJAfF2581q4ZC,448989.0,18,0.0,0.0,80818.02,529807.02,"Being goods sold to Uppal, Subramaniam and Chowdhury Inv No 235",0
+2025-07-18,Sani Ltd,35fZybS2997p9ZB,485060.34,18,0.0,0.0,87310.8612,572371.2012,Being goods sold to Sani Ltd Inv No 469,0
+2025-03-21,"Keer, Nigam and Bose",14KmERo1977o3ZC,75655.03,5,0.0,0.0,3782.7515000000003,79437.7815,"Being goods sold to Keer, Nigam and Bose Inv No 514",0
+2025-09-15,Bora Ltd,25zYZbm1409g6ZB,330035.52,5,8250.888,8250.888,0.0,346537.296,Being goods sold to Bora Ltd Inv No 126,0
+2025-10-06,Ahluwalia-Sen,18LrCCG5661j4ZB,278038.22,28,0.0,0.0,77850.7016,355888.9216,Being goods sold to Ahluwalia-Sen Inv No 976,0
+2025-07-14,Solanki-Prabhakar,18jOVMe6903F4ZC,221509.6,12,0.0,0.0,26581.152,248090.752,Being goods sold to Solanki-Prabhakar Inv No 554,0
+2025-10-31,"Lad, Lalla and Natt",13nUYUf8469t9ZA,413456.83,12,24807.4098,24807.4098,0.0,463071.64960000006,"Being goods sold to Lad, Lalla and Natt Inv No 520",0
+2025-05-05,Kari-Dugal,13NKIes2662U4ZC,123840.75,28,17337.705,17337.705,0.0,158516.16000000003,Being goods sold to Kari-Dugal Inv No 788,0
+2025-05-10,Kulkarni-Bobal,21XuZaG7177n2ZB,65529.95,18,0.0,0.0,11795.391,77325.341,Being goods sold to Kulkarni-Bobal Inv No 546,0
+2025-08-30,"Lad, Parsa and Gill",15MgFbu8946u7ZC,35539.63,0,0.0,0.0,0.0,35539.63,"Being goods sold to Lad, Parsa and Gill Inv No 265",0
+2025-12-19,Nayak-Modi,25HzFzc0166o6ZC,394525.91,18,35507.3319,35507.3319,0.0,465540.57379999995,Being goods sold to Nayak-Modi Inv No 945,0
+2025-04-04,"Kade, Rout and Gole",25zcyip1452X9ZB,114146.69,5,2853.6672500000004,2853.6672500000004,0.0,119854.0245,"Being goods sold to Kade, Rout and Gole Inv No 830",0
+2025-11-14,"Pandey, Bali and Arora",35TMVol3865U1ZB,153209.31,12,0.0,0.0,9192.5586,162401.8686,GST Calculation Error,1
+2025-06-24,"Sachdev, Kale and Balakrishnan",20ClOIU5944l6ZB,433663.0,12,0.0,0.0,52039.56,485702.56,"Being goods sold to Sachdev, Kale and Balakrishnan Inv No 117",0
+2025-09-17,Taneja Ltd,23duddz8095Z1ZA,444454.41,28,0.0,0.0,124447.2348,568901.6448,Being goods sold to Taneja Ltd Inv No 432,0
+2025-05-17,Nazareth PLC,37hkGYF8366n4ZC,255205.85,28,0.0,0.0,71457.638,326663.488,Being goods sold to Nazareth PLC Inv No 473,0
+2025-04-14,"Suresh, Mukherjee and Thaker",14QtIgO8537w5ZC,154354.92,12,9261.2952,9261.2952,0.0,172877.5104,"Being goods sold to Suresh, Mukherjee and Thaker Inv No 467",0
+2025-07-27,"Upadhyay, Tandon and Chakrabarti",31gTfTy9415f7ZC,204407.83,12,0.0,0.0,24528.939599999998,228936.7696,"Being goods sold to Upadhyay, Tandon and Chakrabarti Inv No 639",0
+2025-04-13,"Tata, Ganguly and Madan",34aqxvu5707X5ZA,454468.18,18,40902.1362,40902.1362,0.0,536272.4524,"Being goods sold to Tata, Ganguly and Madan Inv No 913",0
+2025-12-17,Wali-Balasubramanian,35evcNv5319n6ZB,141332.86,12,8479.971599999999,8479.971599999999,0.0,158292.80319999997,Being goods sold to Wali-Balasubramanian Inv No 330,0
+2025-09-04,Gupta-Sengupta,15ubTGm0910Y1ZB,106724.9,0,0.0,0.0,0.0,106724.9,Being goods sold to Gupta-Sengupta Inv No 437,0
+2025-05-13,Rai-Bumb,35CEdib6012I7ZC,86078.3,28,0.0,0.0,24101.924000000003,110180.224,Being goods sold to Rai-Bumb Inv No 440,0
+2025-03-18,Nair PLC,25YdXOA3331R3ZA,333188.09,18,0.0,0.0,59973.8562,393161.9462,Being goods sold to Nair PLC Inv No 736,0
+2025-06-09,Mahal-Chandran,27tadSr5740w5ZC,419097.62,18,37718.7858,37718.7858,0.0,494535.1916,Being goods sold to Mahal-Chandran Inv No 156,0
+2025-09-22,Kalla-Peri,11TEJxl6517Z7ZA,400488.49,12,0.0,0.0,48058.6188,448547.1088,Being goods sold to Kalla-Peri Inv No 744,0
+2025-03-01,Datta-Raju,32OArIf8057o6ZB,126867.63,12,7612.0578,7612.0578,0.0,142091.74560000002,Being goods sold to Datta-Raju Inv No 984,0
+2025-07-03,Contractor-Talwar,36LRskn8236l8ZC,215021.92,12,0.0,0.0,25802.630400000002,240824.5504,Being goods sold to Contractor-Talwar Inv No 654,0
+2025-07-29,Saxena Group,21myHtt4091N6ZB,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-11-29,Dhillon-Dani,17NvjFD6680x7ZA,40256.43,12,0.0,0.0,4830.7716,45087.2016,Being goods sold to Dhillon-Dani Inv No 209,0
+2025-10-17,Sunder-Walla,25onsrn1772C5ZA,206295.56,28,0.0,0.0,57762.7568,264058.31680000003,Being goods sold to Sunder-Walla Inv No 579,0
+2025-04-21,Tiwari PLC,26luqdk1835c6ZB,439569.99,5,10989.24975,10989.24975,0.0,461548.4895,Being goods sold to Tiwari PLC Inv No 332,0
+2025-07-30,Nanda-Tiwari,27ScxsN8318l3ZA,256851.39,12,15411.0834,15411.0834,0.0,287673.5568,Being goods sold to Nanda-Tiwari Inv No 643,0
+2025-12-31,"Sule, Bhat and Sama",21GVLNw5144s3ZA,246975.58,28,34576.5812,34576.5812,0.0,316128.7424,"Being goods sold to Sule, Bhat and Sama Inv No 583",0
+2025-09-08,Wadhwa PLC,37EvnSf0600I3ZA,90842.51,18,0.0,0.0,16351.651799999998,107194.16179999999,Being goods sold to Wadhwa PLC Inv No 203,0
+2025-11-03,"Ahuja, Sen and Nori",20xFLVe4595N4ZB,10918.8,0,0.0,0.0,0.0,10918.8,GST Calculation Error,1
+2025-09-24,"Naik, Uppal and Kota",36sIpGB8828f9ZC,38792.81,18,0.0,0.0,6982.7058,45775.515799999994,"Being goods sold to Naik, Uppal and Kota Inv No 254",0
+2025-08-23,"Mani, Gandhi and Sami",18qrElj3968C6ZB,332587.39,0,0.0,0.0,0.0,332587.39,"Being goods sold to Mani, Gandhi and Sami Inv No 175",0
+2026-01-05,"Ramaswamy, Zachariah and Baral",23QsQdN2378K1ZC,293946.04,18,26455.143599999996,26455.143599999996,0.0,346856.3272,"Being goods sold to Ramaswamy, Zachariah and Baral Inv No 278",0
+2025-08-10,Bhasin Inc,11nFyXm4538Y6ZA,357461.58,18,0.0,0.0,64343.0844,421804.6644,Being goods sold to Bhasin Inc Inv No 936,0
+2025-10-01,Sahota-Mandal,26WqpSW9448e5ZA,243996.19,0,0.0,0.0,0.0,243996.19,Being goods sold to Sahota-Mandal Inv No 817,0
+2026-01-22,"Agarwal, Nadkarni and Patel",33pChcY5722i8ZB,301201.57,0,0.0,0.0,0.0,301201.57,"Being goods sold to Agarwal, Nadkarni and Patel Inv No 896",0
+2025-05-14,Seshadri Inc,36qwIHU8409Z3ZB,37400.34,0,0.0,0.0,0.0,37400.34,Being goods sold to Seshadri Inc Inv No 672,0
+2025-05-03,Bhalla Inc,14pUCau2620R3ZA,480914.23,12,0.0,0.0,57709.707599999994,538623.9376,Being goods sold to Bhalla Inc Inv No 277,0
+2025-05-07,Radhakrishnan Group,15gLJPJ7045g8ZB,93578.1,0,0.0,0.0,0.0,93578.1,Being goods sold to Radhakrishnan Group Inv No 568,0
+2025-04-08,"Gokhale, Hayer and Mannan",13fBsPA8691w1ZB,409151.93,28,57281.270200000006,57281.270200000006,0.0,523714.47040000005,"Being goods sold to Gokhale, Hayer and Mannan Inv No 969",0
+2025-09-09,Andra and Sons,38KKGos6318E8ZB,312053.56,28,0.0,0.0,87374.99680000001,399428.5568,Being goods sold to Andra and Sons Inv No 749,0
+2025-10-07,Grover-Luthra,38IiPQW9830G9ZC,225028.12,12,13501.687199999998,13501.687199999998,0.0,252031.49439999997,Being goods sold to Grover-Luthra Inv No 767,0
+2025-04-20,"Kale, Mittal and Dash",20UUAev5554t7ZC,273952.46,28,38353.34440000001,38353.34440000001,0.0,350659.1488,"Being goods sold to Kale, Mittal and Dash Inv No 196",0
+2025-05-13,"Bose, Parmer and Deshmukh",32obiEo4133b6ZC,438170.6,0,0.0,0.0,0.0,438170.6,GST Calculation Error,1
+2025-09-15,Datta PLC,17iDWhP2678S2ZB,351458.54,5,0.0,0.0,17572.927,369031.467,Being goods sold to Datta PLC Inv No 250,0
+2025-03-18,Krishna-Rout,25dvDmM9343C5ZA,369746.36,0,0.0,0.0,0.0,369746.36,Being goods sold to Krishna-Rout Inv No 120,0
+2025-06-12,Sheth LLC,19emLZn0693V8ZA,375040.53,28,52505.67420000001,52505.67420000001,0.0,480051.87840000005,Being goods sold to Sheth LLC Inv No 576,0
+2025-04-17,Nair PLC,22orRLq6812k3ZC,177418.82,28,24838.634800000003,24838.634800000003,0.0,227096.0896,Being goods sold to Nair PLC Inv No 441,0
+2025-09-23,Raman Inc,16sOtay0685D3ZA,246189.75,18,22157.0775,22157.0775,0.0,290503.905,Being goods sold to Raman Inc Inv No 395,0
+2025-04-29,"Sheth, Chaudry and Kothari",27Aihxp5532q9ZA,257874.29,28,36102.40060000001,36102.40060000001,0.0,330079.0912,"Being goods sold to Sheth, Chaudry and Kothari Inv No 617",0
+2025-08-31,Setty LLC,36xCVWM2326m6ZC,47319.58,0,0.0,0.0,0.0,47319.58,Being goods sold to Setty LLC Inv No 997,0
+2025-12-29,Srivastava-Mital,32WwgEi9240O3ZC,385760.15,0,0.0,0.0,0.0,385760.15,Being goods sold to Srivastava-Mital Inv No 664,0
+2025-07-19,Randhawa-Toor,38EGnuX1195O9ZC,369632.0,0,0.0,0.0,0.0,369632.0,Being goods sold to Randhawa-Toor Inv No 979,0
+2026-02-08,Master Group,38znylV4579w4ZA,58864.2,5,0.0,0.0,2943.21,61807.409999999996,Being goods sold to Master Group Inv No 970,0
+2026-01-08,Bhakta-Babu,35iJvcd5514U3ZB,335850.76,18,0.0,0.0,30226.5684,366077.3284,GST Calculation Error,1
+2025-08-15,Mall-Chaudhary,19QZsWA3006G7ZB,6401.94,0,0.0,0.0,0.0,6401.94,Being goods sold to Mall-Chaudhary Inv No 528,0
+2025-04-04,Warrior-Chandra,17lSxOa2820o6ZA,302270.62,18,0.0,0.0,54408.711599999995,356679.3316,Being goods sold to Warrior-Chandra Inv No 358,0
+2025-12-11,Wali-Mahal,29XODnE7202I1ZB,215855.42,12,0.0,0.0,25902.650400000002,241758.07040000003,Being goods sold to Wali-Mahal Inv No 736,0
+2026-01-17,Hora Group,29HvOEx4569E5ZB,478536.43,18,0.0,0.0,86136.55739999999,564672.9874,Being goods sold to Hora Group Inv No 485,0
+2026-01-31,Virk-Anand,14LScFc9025z4ZC,186238.6,28,0.0,0.0,52146.808000000005,238385.408,Being goods sold to Virk-Anand Inv No 723,0
+2025-03-11,Gokhale-Agarwal,23YCwzV4680O5ZA,65175.01,18,0.0,0.0,11731.5018,76906.51180000001,Being goods sold to Gokhale-Agarwal Inv No 208,0
+2026-02-12,Sekhon PLC,22tAaln3821X7ZC,429844.6,0,0.0,0.0,0.0,429844.6,Being goods sold to Sekhon PLC Inv No 554,0
+2026-01-24,Narain Inc,38zdjPg9908w1ZB,352549.43,5,8813.73575,8813.73575,0.0,370176.9015,Being goods sold to Narain Inc Inv No 928,0
+2025-05-15,Tara-Hora,34zdcjR6986C3ZB,265103.71,0,0.0,0.0,0.0,265103.71,Being goods sold to Tara-Hora Inv No 318,0
+2025-03-12,"Gulati, Bassi and Singh",20RYGTt2640D5ZA,153654.07,28,0.0,0.0,43023.13960000001,196677.2096,"Being goods sold to Gulati, Bassi and Singh Inv No 855",0
+2026-02-26,Kakar-Jha,37GmCOU2979R8ZC,481907.71,0,0.0,0.0,0.0,481907.71,Being goods sold to Kakar-Jha Inv No 211,0
+2025-12-08,"Shroff, Kannan and Ganguly",14iSgWX5966K2ZA,382374.33,5,0.0,0.0,19118.716500000002,401493.0465,"Being goods sold to Shroff, Kannan and Ganguly Inv No 829",0
+2026-02-24,Sodhi Ltd,15HYuiP2571z9ZB,331765.48,18,0.0,0.0,59717.7864,391483.26639999996,Being goods sold to Sodhi Ltd Inv No 586,0
+2025-10-14,Parmar Group,17FFWcm2108f2ZA,247645.64,0,0.0,0.0,0.0,247645.64,Being goods sold to Parmar Group Inv No 585,0
+2025-06-08,Lad and Sons,30Dxsyi8618Z8ZB,43778.64,28,0.0,0.0,12258.0192,56036.6592,Being goods sold to Lad and Sons Inv No 401,0
+2026-02-02,"Shetty, Som and Kumar",25pgPfP6304j5ZB,268990.36,28,0.0,0.0,75317.3008,344307.66079999995,"Being goods sold to Shetty, Som and Kumar Inv No 297",0
+2025-04-14,Grover and Sons,17TTdBV9339Z8ZA,69694.95,12,4181.697,4181.697,0.0,78058.344,Being goods sold to Grover and Sons Inv No 382,0
+2025-04-01,Anand-Choudhury,19mDaeT4038G9ZB,223076.92,0,0.0,0.0,0.0,223076.92,Being goods sold to Anand-Choudhury Inv No 650,0
+2025-10-29,"Patil, Subramaniam and Arya",35guixR5031s2ZC,429086.05,0,0.0,0.0,0.0,429086.05,"Being goods sold to Patil, Subramaniam and Arya Inv No 841",0
+2026-02-27,Aurora Group,13sSkKP0073X4ZC,271998.43,5,0.0,0.0,13599.9215,285598.3515,Being goods sold to Aurora Group Inv No 361,0
+2025-06-10,Mahajan-Solanki,21NRZeZ8692R8ZB,427955.63,0,0.0,0.0,0.0,427955.63,Being goods sold to Mahajan-Solanki Inv No 837,0
+2025-12-20,"Sharma, Ratti and Merchant",37nXHzK6437e5ZC,44748.06,12,2684.8835999999997,2684.8835999999997,0.0,50117.8272,"Being goods sold to Sharma, Ratti and Merchant Inv No 431",0
+2025-11-01,Atwal LLC,25yScST0334G7ZC,422897.75,5,0.0,0.0,21144.8875,444042.6375,Being goods sold to Atwal LLC Inv No 568,0
+2026-01-16,Sem Ltd,18Adpnc0883L1ZC,384286.76,12,23057.2056,23057.2056,0.0,430401.1712,Being goods sold to Sem Ltd Inv No 151,0
+2025-09-26,"Bhalla, Muni and Karnik",23RtrUm4059H3ZA,97835.33,28,0.0,0.0,27393.892400000004,125229.2224,"Being goods sold to Bhalla, Muni and Karnik Inv No 517",0
+2025-06-25,"Chatterjee, Saha and Narayanan",32QloYw3825o5ZB,16991.62,28,2378.8268000000003,2378.8268000000003,0.0,21749.273599999997,"Being goods sold to Chatterjee, Saha and Narayanan Inv No 639",0
+2025-07-20,Singh PLC,13neuqc5549E3ZB,478342.92,0,0.0,0.0,0.0,478342.92,Being goods sold to Singh PLC Inv No 891,0
+2025-04-29,"Sarraf, Vig and Dua",38OlImY5372M4ZC,61707.25,5,0.0,0.0,3085.3625,64792.6125,"Being goods sold to Sarraf, Vig and Dua Inv No 964",0
+2025-03-06,Bhakta LLC,30YHxIS8193F4ZB,111073.18,12,6664.390799999999,6664.390799999999,0.0,124401.96159999998,Being goods sold to Bhakta LLC Inv No 815,0
+2025-08-08,Sibal-Talwar,20YxCNZ6563j3ZB,363049.45,5,0.0,0.0,18152.4725,381201.9225,Being goods sold to Sibal-Talwar Inv No 665,0
+2025-08-04,Upadhyay PLC,20FkEHX8454b3ZA,128662.69,12,0.0,0.0,15439.522799999999,144102.2128,Being goods sold to Upadhyay PLC Inv No 431,0
+2025-05-01,Personal - Shivani,24ZPDfu4140q1ZA,240487.98,18,0.0,0.0,43287.8364,283775.8164,Gift for family,1
+2025-10-17,Brahmbhatt-Subramanian,10PohJr0896o5ZC,489962.45,28,0.0,0.0,137189.486,627151.936,Being goods sold to Brahmbhatt-Subramanian Inv No 532,0
+2025-12-12,"Bakshi, Mitter and Oommen",10NALdV0119L7ZA,432954.54,5,10823.8635,10823.8635,0.0,454602.26699999993,"Being goods sold to Bakshi, Mitter and Oommen Inv No 965",0
+2025-04-28,Narang-Raghavan,21qzlVj8851W4ZA,414441.77,28,58021.84780000001,58021.84780000001,0.0,530485.4656,Being goods sold to Narang-Raghavan Inv No 699,0
+2025-11-24,"Bhatnagar, Bajaj and Dara",29WywLV0875o3ZC,457015.22,18,41131.36979999999,41131.36979999999,0.0,539277.9596,"Being goods sold to Bhatnagar, Bajaj and Dara Inv No 638",0
+2025-05-08,Singh-Dube,25zCzIZ1563F4ZA,166371.3,0,0.0,0.0,0.0,166371.3,Being goods sold to Singh-Dube Inv No 282,0
+2026-02-27,"Goda, Pandit and Dyal",18yEUhO9094M4ZB,226753.89,28,31745.544600000005,31745.544600000005,0.0,290244.9792,"Being goods sold to Goda, Pandit and Dyal Inv No 903",0
+2026-02-20,"Din, Bala and Sodhi",16wYNIF9389c2ZA,401947.6,28,56272.664000000004,56272.664000000004,0.0,514492.92799999996,"Being goods sold to Din, Bala and Sodhi Inv No 348",0
+2026-01-03,Deol Group,32lLVYp8310G6ZA,307698.88,0,0.0,0.0,0.0,307698.88,Being goods sold to Deol Group Inv No 484,0
+2026-01-17,Pillai-Parmer,35MXhoM6638K7ZA,405126.76,18,0.0,0.0,72922.8168,478049.57680000004,Being goods sold to Pillai-Parmer Inv No 407,0
+2025-03-15,Venkatesh-Natarajan,31gqdAJ8475h2ZC,407114.72,28,56996.0608,56996.0608,0.0,521106.8415999999,Being goods sold to Venkatesh-Natarajan Inv No 936,0
+2025-09-01,Mannan Inc,30ZZGOI3081b5ZB,375236.38,12,0.0,0.0,45028.3656,420264.7456,Being goods sold to Mannan Inc Inv No 413,0
+2025-07-26,Jhaveri Group,26GFNKt0445n4ZA,158939.34,5,3973.4835000000003,3973.4835000000003,0.0,166886.307,Being goods sold to Jhaveri Group Inv No 853,0
+2025-12-04,Bansal and Sons,27hJbxK7206o8ZA,376263.28,0,0.0,0.0,0.0,376263.28,Being goods sold to Bansal and Sons Inv No 935,0
+2026-02-22,Soman-Mitter,38mKVrt8635H4ZA,169588.01,5,0.0,0.0,8479.400500000002,178067.4105,Being goods sold to Soman-Mitter Inv No 136,0
+2025-05-26,Ramaswamy Inc,26LsNaC2660U5ZC,116000.55,28,0.0,0.0,32480.154000000002,148480.704,Being goods sold to Ramaswamy Inc Inv No 695,0
+2025-06-28,"Palla, Chokshi and Subramanian",25edKMd0386n7ZC,330988.51,0,0.0,0.0,0.0,330988.51,"Being goods sold to Palla, Chokshi and Subramanian Inv No 439",0
+2025-05-25,Babu-Mani,14bjwVS5220R2ZC,422568.12,28,0.0,0.0,118319.0736,540887.1936,Being goods sold to Babu-Mani Inv No 312,0
+2026-01-14,Personal - Zansi,11tUxDG5199N9ZB,50014.4,18,4501.296,4501.296,0.0,59016.992000000006,Adjustment,1
+2025-05-18,Sidhu-Peri,13GFuHe6734U4ZC,116681.57,0,0.0,0.0,0.0,116681.57,Being goods sold to Sidhu-Peri Inv No 768,0
+2025-04-05,"Mukhopadhyay, Basu and Bava",38VXmSM9374s6ZB,240700.19,0,0.0,0.0,0.0,240700.19,"Being goods sold to Mukhopadhyay, Basu and Bava Inv No 334",0
+2025-08-02,Dewan-Sachdev,34LIqkE3372S5ZC,241080.25,12,14464.814999999999,14464.814999999999,0.0,270009.88,Being goods sold to Dewan-Sachdev Inv No 731,0
+2025-05-17,Shan-Johal,32TFmGC8209x4ZB,418732.01,18,0.0,0.0,75371.7618,494103.7718,Being goods sold to Shan-Johal Inv No 138,0
+2025-05-31,"Sami, Shere and Morar",13PFGfD7222l3ZC,189716.49,0,0.0,0.0,0.0,189716.49,"Being goods sold to Sami, Shere and Morar Inv No 871",0
+2025-10-07,Parmar PLC,28HLiKN0389W5ZC,374644.75,12,0.0,0.0,44957.369999999995,419602.12,Being goods sold to Parmar PLC Inv No 153,0
+2025-11-11,Bhatt-Gaba,28CQaYH5726x1ZB,479215.51,28,67090.1714,67090.1714,0.0,613395.8528,Being goods sold to Bhatt-Gaba Inv No 221,0
+2025-03-16,Nadig Group,38UUyoq0144j2ZB,277421.87,12,0.0,0.0,33290.6244,310712.49439999997,Being goods sold to Nadig Group Inv No 979,0
+2025-07-17,Kadakia Ltd,10rSqaR8698m9ZC,154437.19,18,0.0,0.0,27798.694199999998,182235.8842,Being goods sold to Kadakia Ltd Inv No 525,0
+2025-09-06,Zacharia-Bhavsar,10dmPBx9263T6ZB,236766.73,18,21309.0057,21309.0057,0.0,279384.7414,Being goods sold to Zacharia-Bhavsar Inv No 718,0
+2025-11-12,Sem PLC,35PtkBl1902W8ZC,413778.18,18,37240.036199999995,37240.036199999995,0.0,488258.25239999994,Being goods sold to Sem PLC Inv No 378,0
+2025-07-20,Swaminathan Group,12zUNCR6498v1ZB,93476.2,18,0.0,0.0,16825.716,110301.916,Being goods sold to Swaminathan Group Inv No 485,0
+2026-02-04,Das LLC,11ZTJrD9391O4ZB,323378.68,5,8084.467000000001,8084.467000000001,0.0,339547.614,Being goods sold to Das LLC Inv No 191,0
+2025-03-02,Srinivasan-Purohit,34REZlb8086b3ZA,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2026-01-03,Chada-Gour,18npTpm2190n9ZA,154523.53,12,9271.4118,9271.4118,0.0,173066.3536,Being goods sold to Chada-Gour Inv No 246,0
+2025-06-03,"Grewal, Raj and Soni",31ADAGs5605T1ZA,92642.64,18,8337.837599999999,8337.837599999999,0.0,109318.3152,"Being goods sold to Grewal, Raj and Soni Inv No 752",0
+2025-06-07,Shukla-Gera,12XALPJ2536W6ZC,409643.9,0,0.0,0.0,0.0,409643.9,Being goods sold to Shukla-Gera Inv No 525,0
+2026-01-14,Sampath and Sons,24MTbyK8803p6ZA,375168.41,0,0.0,0.0,0.0,375168.41,Being goods sold to Sampath and Sons Inv No 243,0
+2025-10-12,Gandhi-Ramakrishnan,31tnIOf2471R7ZA,200205.22,28,14014.3654,14014.3654,0.0,228233.95080000002,GST Calculation Error,1
+2025-11-28,"Babu, Devi and Agarwal",24JJTqO5129Q4ZC,468662.01,0,0.0,0.0,0.0,468662.01,"Being goods sold to Babu, Devi and Agarwal Inv No 413",0
+2025-06-15,Chowdhury-Saini,15QsAEi3975z3ZB,37952.96,12,2277.1776,2277.1776,0.0,42507.315200000005,Being goods sold to Chowdhury-Saini Inv No 442,0
+2025-11-26,"Dani, Ray and Bakshi",19ipGzA9177W9ZB,143757.24,28,20126.013600000002,20126.013600000002,0.0,184009.2672,"Being goods sold to Dani, Ray and Bakshi Inv No 548",0
+2025-06-12,Rau LLC,33sfWzp2956w6ZC,411442.54,0,0.0,0.0,0.0,411442.54,Being goods sold to Rau LLC Inv No 314,0
+2025-10-07,Sunder-Baria,26xzLSD9973O6ZA,390144.27,12,23408.6562,23408.6562,0.0,436961.5824000001,Being goods sold to Sunder-Baria Inv No 516,0
+2025-05-15,Cherian-Singh,18LLOyV8688g6ZB,135962.44,5,0.0,0.0,6798.122,142760.562,Being goods sold to Cherian-Singh Inv No 259,0
+2025-10-29,"Shukla, Narayan and Acharya",10aHwdd6343S5ZC,477440.78,5,11936.019500000002,11936.019500000002,0.0,501312.819,"Being goods sold to Shukla, Narayan and Acharya Inv No 254",0
+2026-01-23,Srivastava LLC,17yMxpI8891U5ZA,492210.62,12,0.0,0.0,59065.274399999995,551275.8944,Being goods sold to Srivastava LLC Inv No 935,0
+2025-06-10,Gala-Mistry,19obuJf4460Q2ZC,50673.91,18,0.0,0.0,9121.3038,59795.213800000005,Being goods sold to Gala-Mistry Inv No 967,0
+2025-09-18,Pillay-Tella,16mzkdn8494o1ZB,72395.71,5,0.0,0.0,3619.7855000000004,76015.4955,Being goods sold to Pillay-Tella Inv No 453,0
+2025-09-05,"Sheth, Muni and Chaudry",13JuzZy0247t6ZC,49349.54,5,0.0,0.0,2467.4770000000003,51817.017,"Being goods sold to Sheth, Muni and Chaudry Inv No 653",0
+2025-06-25,Din-Kapoor,18VWDeU7792r4ZB,375766.95,18,33819.0255,33819.0255,0.0,443405.001,Being goods sold to Din-Kapoor Inv No 306,0
+2025-09-04,"Grewal, Dhar and Wadhwa",21gDkCw6775q7ZA,23054.89,0,0.0,0.0,0.0,23054.89,"Being goods sold to Grewal, Dhar and Wadhwa Inv No 838",0
+2025-12-16,Deshpande and Sons,22SMqDF5660x9ZB,194141.76,28,27179.846400000002,27179.846400000002,0.0,248501.45280000003,Being goods sold to Deshpande and Sons Inv No 359,0
+2025-03-26,Dutt-Bava,12QJfjU8765E1ZB,419984.2,18,0.0,0.0,75597.156,495581.356,Being goods sold to Dutt-Bava Inv No 933,0
+2026-01-25,Suresh-Agate,27COXQE5610R2ZB,237053.1,18,0.0,0.0,42669.558,279722.658,Being goods sold to Suresh-Agate Inv No 816,0
+2025-12-05,Viswanathan Ltd,25DgBPQ2466d4ZB,137899.5,28,19305.93,19305.93,0.0,176511.36,Being goods sold to Viswanathan Ltd Inv No 800,0
+2025-08-27,Thaker-Patla,10RdUSO7396t3ZC,325098.92,28,45513.8488,45513.8488,0.0,416126.61759999994,Being goods sold to Thaker-Patla Inv No 677,0
+2025-06-19,Bajwa-Kibe,31ExIlW3868C8ZC,239585.0,0,0.0,0.0,0.0,239585.0,Being goods sold to Bajwa-Kibe Inv No 197,0
+2026-02-27,"Dave, Rana and Kurian",29KbJzW9634Y3ZA,320086.61,12,19205.1966,19205.1966,0.0,358497.00320000004,"Being goods sold to Dave, Rana and Kurian Inv No 277",0
+2025-12-14,Bobal-Tak,32CsVoK0386O4ZC,272143.84,18,0.0,0.0,48985.891200000005,321129.73120000004,Being goods sold to Bobal-Tak Inv No 721,0
+2026-02-09,Palla and Sons,32cQybh2597b8ZC,429538.12,12,0.0,0.0,51544.5744,481082.6944,Being goods sold to Palla and Sons Inv No 203,0
+2025-12-07,"Sani, Seth and Dara",24YbjHV8240e6ZB,152691.33,0,0.0,0.0,0.0,152691.33,"Being goods sold to Sani, Seth and Dara Inv No 337",0
+2025-03-17,"Sane, Grover and Pai",37FErAS2622s8ZC,444527.43,0,0.0,0.0,0.0,444527.43,"Being goods sold to Sane, Grover and Pai Inv No 316",0
+2025-12-15,Thakur LLC,37UBTFe7767l3ZA,60795.69,5,0.0,0.0,3039.7845,63835.474500000004,Being goods sold to Thakur LLC Inv No 281,0
+2026-02-27,Pai-Dyal,18CeBPp3573H7ZB,304328.2,28,42605.948000000004,42605.948000000004,0.0,389540.096,Being goods sold to Pai-Dyal Inv No 588,0
+2025-05-27,Zacharia-Sheth,10bDXUM3968u1ZA,439593.3,28,0.0,0.0,123086.12400000001,562679.424,Being goods sold to Zacharia-Sheth Inv No 196,0
+2025-03-24,"Srinivas, Bhattacharyya and Choudhary",27ubxuC2980c7ZC,51992.84,18,2339.6778,2339.6778,0.0,56672.19559999999,GST Calculation Error,1
+2025-10-21,Batta-Mangat,31lJRsY1491Q6ZC,234837.29,5,0.0,0.0,5870.932250000001,240708.22225000002,GST Calculation Error,1
+2025-11-05,More-Mukhopadhyay,35mjwLa5870b8ZC,412146.92,12,0.0,0.0,49457.630399999995,461604.55039999995,Being goods sold to More-Mukhopadhyay Inv No 276,0
+2025-08-14,Nanda-Kant,10kJeag3179m1ZA,186535.13,18,16788.1617,16788.1617,0.0,220111.4534,Being goods sold to Nanda-Kant Inv No 551,0
+2025-05-16,"Buch, Chander and Edwin",33UHRvE2555H5ZB,180537.09,12,10832.2254,10832.2254,0.0,202201.5408,"Being goods sold to Buch, Chander and Edwin Inv No 938",0
+2025-06-23,Palan-Mann,21xAHtv7654D6ZC,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-08-01,Patel-Behl,28KfJku7309B2ZA,458733.15,18,41285.9835,41285.9835,0.0,541305.117,Being goods sold to Patel-Behl Inv No 207,0
+2025-02-27,Hegde-Dubey,23Dtvor6584M7ZA,172630.83,18,15536.774699999998,15536.774699999998,0.0,203704.3794,Being goods sold to Hegde-Dubey Inv No 425,0
+2025-11-23,Dada-Sarma,22JxWxt4127i9ZB,176092.76,18,15848.3484,15848.3484,0.0,207789.45679999999,Being goods sold to Dada-Sarma Inv No 470,0
+2025-08-30,Gole Inc,17svlxf5860F8ZA,126603.26,12,7596.195599999999,7596.195599999999,0.0,141795.6512,Being goods sold to Gole Inc Inv No 224,0
+2025-03-31,Kohli-Pillai,11kNDSI0557T8ZC,395604.27,28,0.0,0.0,110769.19560000002,506373.46560000005,Being goods sold to Kohli-Pillai Inv No 717,0
+2026-01-19,Tata-Atwal,25MxBEO7112s7ZB,28422.02,5,0.0,0.0,1421.101,29843.121,Being goods sold to Tata-Atwal Inv No 505,0
+2025-03-05,"Guha, Hegde and Gera",29sgBtq5241q7ZA,97485.91,5,0.0,0.0,4874.2955,102360.20550000001,"Being goods sold to Guha, Hegde and Gera Inv No 306",0
+2025-04-06,"Basu, Baral and Karan",29QdPsR7949R1ZC,247224.88,18,0.0,0.0,44500.4784,291725.3584,"Being goods sold to Basu, Baral and Karan Inv No 623",0
+2025-06-24,"Krishnan, Golla and Gokhale",15aFZhu7471i2ZC,428645.85,0,0.0,0.0,0.0,428645.85,"Being goods sold to Krishnan, Golla and Gokhale Inv No 288",0
+2025-05-25,Sani-Mishra,31NsuTM5269a6ZB,106418.02,28,14898.522800000002,14898.522800000002,0.0,136215.0656,Being goods sold to Sani-Mishra Inv No 857,0
+2025-06-28,Bhattacharyya-Ben,12enHuv4979h1ZA,347522.57,0,0.0,0.0,0.0,347522.57,Being goods sold to Bhattacharyya-Ben Inv No 927,0
+2026-01-30,Golla-Bal,16WgTlk4996I1ZC,282668.13,5,7066.7032500000005,7066.7032500000005,0.0,296801.53650000005,Being goods sold to Golla-Bal Inv No 966,0
+2026-02-26,"Sanghvi, Sankaran and Chand",12MVrPg1773e6ZC,452672.2,18,0.0,0.0,81480.996,534153.196,"Being goods sold to Sanghvi, Sankaran and Chand Inv No 843",0
+2025-06-03,Vasa-Dutt,27Oosue7896Q4ZA,5406.24,0,0.0,0.0,0.0,5406.24,Being goods sold to Vasa-Dutt Inv No 432,0
+2026-01-23,Arya-Nayar,21DDOSF4456f3ZA,70145.54,28,9820.3756,9820.3756,0.0,89786.29119999999,Being goods sold to Arya-Nayar Inv No 899,0
+2026-01-29,Tella and Sons,20rtszF4634c3ZC,284915.13,12,17094.9078,17094.9078,0.0,319104.9456,Being goods sold to Tella and Sons Inv No 245,0
+2025-07-23,Sankar-Ahluwalia,19nMJtw1588w4ZB,440197.95,28,0.0,0.0,123255.42600000002,563453.376,Being goods sold to Sankar-Ahluwalia Inv No 248,0
+2025-09-10,"Dave, Mann and Wadhwa",24ruemt5991H4ZA,59848.32,12,0.0,0.0,7181.7984,67030.1184,"Being goods sold to Dave, Mann and Wadhwa Inv No 141",0
+2025-09-13,Saini-Bhattacharyya,12fFUux6491k1ZA,401601.75,5,10040.04375,10040.04375,0.0,421681.8375,Being goods sold to Saini-Bhattacharyya Inv No 450,0
+2025-06-18,Venkatesh-Patla,10TKzFD9532o2ZC,378166.91,5,9454.17275,9454.17275,0.0,397075.2555,Being goods sold to Venkatesh-Patla Inv No 340,0
+2025-10-18,Personal - Vansha,26DrOQU2685U2ZA,383563.3,18,34520.697,34520.697,0.0,452604.69399999996,Adjustment,1
+2025-03-06,Personal - Ikbal,10YeJlF7442n6ZA,320632.58,18,0.0,0.0,57713.8644,378346.44440000004,Personal expense,1
+2025-05-17,"Kohli, Devi and Tak",16nSCEZ5075K5ZC,107041.14,28,0.0,0.0,29971.519200000002,137012.6592,"Being goods sold to Kohli, Devi and Tak Inv No 647",0
+2025-07-31,Shere and Sons,19tANKh0159m2ZC,241306.29,0,0.0,0.0,0.0,241306.29,Being goods sold to Shere and Sons Inv No 879,0
+2025-08-02,"Garg, Basu and Shanker",22DjJVX7447b2ZC,223742.42,5,0.0,0.0,11187.121000000001,234929.54100000003,"Being goods sold to Garg, Basu and Shanker Inv No 925",0
+2025-05-06,Raghavan LLC,25KXCEX6298a8ZB,133491.17,18,0.0,0.0,24028.410600000003,157519.58060000002,Being goods sold to Raghavan LLC Inv No 836,0
+2025-06-26,Kashyap PLC,11qrSnc3840n6ZA,338911.43,0,0.0,0.0,0.0,338911.43,Being goods sold to Kashyap PLC Inv No 477,0
+2025-05-13,Kata Inc,25ahGOy0869U4ZB,288877.35,0,0.0,0.0,0.0,288877.35,Being goods sold to Kata Inc Inv No 694,0
+2025-08-06,Bhatnagar-Ganesh,33Lhwxx4272R2ZB,70215.95,0,0.0,0.0,0.0,70215.95,Being goods sold to Bhatnagar-Ganesh Inv No 945,0
+2025-10-22,Sibal-Kanda,13ERqVl1246w9ZB,158305.48,5,0.0,0.0,7915.274000000001,166220.75400000002,Being goods sold to Sibal-Kanda Inv No 736,0
+2025-08-27,Bail LLC,11ucRHQ1914l8ZA,376626.64,28,52727.729600000006,52727.729600000006,0.0,482082.09920000006,Being goods sold to Bail LLC Inv No 427,0
+2025-10-28,"Cheema, Dua and Saraf",32sMXVT8014U5ZB,11348.03,28,0.0,0.0,3177.4484000000007,14525.478400000002,"Being goods sold to Cheema, Dua and Saraf Inv No 298",0
+2025-05-22,Gulati Inc,11uqKHS6993S6ZC,106820.19,5,2670.50475,2670.50475,0.0,112161.19949999999,Being goods sold to Gulati Inc Inv No 666,0
+2025-08-25,"Mander, Sinha and Sastry",35rDgYs6076K2ZC,307377.01,0,0.0,0.0,0.0,307377.01,"Being goods sold to Mander, Sinha and Sastry Inv No 193",0
+2025-07-04,Uppal and Sons,15qzSlp5590O2ZB,187829.76,12,11269.7856,11269.7856,0.0,210369.33120000002,Being goods sold to Uppal and Sons Inv No 780,0
+2025-07-22,Dubey and Sons,15GtHUQ9645b2ZC,123688.77,0,0.0,0.0,0.0,123688.77,Being goods sold to Dubey and Sons Inv No 719,0
+2025-04-21,"Srivastava, Thakkar and Narayanan",13bWFqL9562u8ZB,436228.2,5,10905.705000000002,10905.705000000002,0.0,458039.61000000004,"Being goods sold to Srivastava, Thakkar and Narayanan Inv No 630",0
+2025-03-11,"Dasgupta, Batta and Ghosh",23huFUY6435m6ZA,337758.92,28,0.0,0.0,94572.4976,432331.4176,"Being goods sold to Dasgupta, Batta and Ghosh Inv No 686",0
+2025-03-24,Savant-Mukhopadhyay,27YSkgR4695W1ZC,282177.06,28,39504.788400000005,39504.788400000005,0.0,361186.63680000004,Being goods sold to Savant-Mukhopadhyay Inv No 618,0
+2025-11-03,Bhat and Sons,10bfbYb3792k5ZB,131148.78,28,0.0,0.0,36721.6584,167870.43839999998,Being goods sold to Bhat and Sons Inv No 103,0
+2025-08-24,"Bora, Mukhopadhyay and Soni",34tJshh2585i8ZC,178039.66,5,4450.9915,4450.9915,0.0,186941.643,"Being goods sold to Bora, Mukhopadhyay and Soni Inv No 280",0
+2026-01-03,Srivastava-Borah,20prusG8821E6ZB,361479.88,12,0.0,0.0,43377.5856,404857.4656,Being goods sold to Srivastava-Borah Inv No 208,0
+2025-08-12,Sethi PLC,18IQKKw8413h1ZA,81805.64,18,7362.5076,7362.5076,0.0,96530.6552,Being goods sold to Sethi PLC Inv No 351,0
+2026-02-27,Ghose Ltd,32dZIvm1723W8ZC,300154.8,28,42021.672000000006,42021.672000000006,0.0,384198.14400000003,Being goods sold to Ghose Ltd Inv No 397,0
+2025-11-10,Sachar-Rajagopal,28QjNPj8186U1ZA,190703.52,12,11442.2112,11442.2112,0.0,213587.94239999997,Being goods sold to Sachar-Rajagopal Inv No 395,0
+2026-01-15,"Vasa, More and Nair",24SbcIX7447V4ZC,446776.73,28,62548.7422,62548.7422,0.0,571874.2143999999,"Being goods sold to Vasa, More and Nair Inv No 115",0
+2025-12-28,Mistry PLC,22dhVTh5936c3ZB,160832.5,12,0.0,0.0,19299.899999999998,180132.4,Being goods sold to Mistry PLC Inv No 918,0
+2025-08-07,Sant Ltd,33KUKiq6920X9ZB,402621.47,5,0.0,0.0,20131.0735,422752.54349999997,Being goods sold to Sant Ltd Inv No 465,0
+2026-01-13,Kar LLC,17BTPxH4419n6ZB,436583.48,12,26195.0088,26195.0088,0.0,488973.4976,Being goods sold to Kar LLC Inv No 863,0
+2025-08-11,Sarkar-Das,38JJpFe7729N1ZA,5377.78,18,484.00019999999995,484.00019999999995,0.0,6345.7804,Being goods sold to Sarkar-Das Inv No 553,0
+2025-11-02,Talwar LLC,13cezrz8703D5ZA,263281.33,12,0.0,0.0,31593.7596,294875.0896,Being goods sold to Talwar LLC Inv No 715,0
+2025-06-20,Sahota-Bhatia,11tLILE0300Q1ZC,116183.94,28,16265.751600000001,16265.751600000001,0.0,148715.44319999998,Being goods sold to Sahota-Bhatia Inv No 983,0
+2025-08-23,"Oak, Swamy and Mand",11wKawJ7675u6ZC,348179.69,5,0.0,0.0,17408.984500000002,365588.6745,"Being goods sold to Oak, Swamy and Mand Inv No 844",0
+2025-11-25,"Sathe, Mammen and Soman",34sYhYV5275o7ZB,153840.53,12,9230.4318,9230.4318,0.0,172301.39359999998,"Being goods sold to Sathe, Mammen and Soman Inv No 232",0
+2025-12-02,Mann-Singhal,16lZzbK1131C9ZB,386668.62,18,0.0,0.0,69600.3516,456268.9716,Being goods sold to Mann-Singhal Inv No 247,0
+2025-10-02,Mohanty-Rege,11CuUic7484j8ZC,405830.83,18,36524.7747,36524.7747,0.0,478880.37940000003,Being goods sold to Mohanty-Rege Inv No 154,0
+2025-05-29,"Bhandari, Loke and Das",22LQEjc3088L5ZC,65098.1,12,3905.886,3905.886,0.0,72909.872,"Being goods sold to Bhandari, Loke and Das Inv No 163",0
+2025-06-22,Sengupta-Hans,36nkHTT1459c9ZC,156142.41,18,14052.8169,14052.8169,0.0,184248.0438,Being goods sold to Sengupta-Hans Inv No 857,0
+2025-04-16,"Nath, Devan and Wali",30FkapF1351r1ZA,159755.93,12,0.0,0.0,19170.7116,178926.6416,"Being goods sold to Nath, Devan and Wali Inv No 190",0
+2025-07-12,"Dube, Gala and Bhandari",26ICifW7952G3ZA,61335.11,5,0.0,0.0,3066.7555,64401.8655,"Being goods sold to Dube, Gala and Bhandari Inv No 312",0
+2025-07-28,"Chhabra, Mani and Bhatti",32YauVJ7685M1ZA,11401.56,28,0.0,0.0,3192.4368,14593.996799999999,"Being goods sold to Chhabra, Mani and Bhatti Inv No 321",0
+2025-12-16,Bhardwaj-Dara,24rxZpI4972Q1ZA,336422.67,12,20185.3602,20185.3602,0.0,376793.3904,Being goods sold to Bhardwaj-Dara Inv No 535,0
+2025-05-07,Pall-Gera,12KfKDS5987H5ZB,489059.38,28,0.0,0.0,136936.6264,625996.0064000001,Being goods sold to Pall-Gera Inv No 434,0
+2025-11-17,Sharaf LLC,10drGyW1332L7ZA,385926.63,18,34733.3967,34733.3967,0.0,455393.42339999997,Being goods sold to Sharaf LLC Inv No 439,0
+2025-09-27,"Luthra, Arora and Ben",12DCnOs5566B5ZA,413639.64,0,0.0,0.0,0.0,413639.64,"Being goods sold to Luthra, Arora and Ben Inv No 825",0
+2026-01-31,"Yogi, Sundaram and Mane",26DjVpu9880N4ZC,66116.87,12,3967.0121999999997,3967.0121999999997,0.0,74050.89439999999,"Being goods sold to Yogi, Sundaram and Mane Inv No 498",0
+2025-06-09,Murty-Anne,27BhZdy1918M1ZB,306075.35,5,7651.88375,7651.88375,0.0,321379.11749999993,Being goods sold to Murty-Anne Inv No 188,0
+2025-10-22,Oak-Mani,26vhzDO8321R2ZA,110606.15,28,15484.861,15484.861,0.0,141575.872,Being goods sold to Oak-Mani Inv No 533,0
+2025-05-20,Bala Group,30ZBkTy9078y3ZA,283649.78,18,0.0,0.0,51056.9604,334706.7404,Being goods sold to Bala Group Inv No 574,0
+2025-09-26,Wali PLC,26xsLjR1284B1ZB,4190.33,18,0.0,0.0,754.2593999999999,4944.5894,Being goods sold to Wali PLC Inv No 108,0
+2026-02-04,Pandit PLC,21xHSpA1622R5ZA,104224.21,5,2605.6052500000005,2605.6052500000005,0.0,109435.42050000001,Being goods sold to Pandit PLC Inv No 933,0
+2025-09-18,"Badami, Chaudry and Ranganathan",38lnJeT7305D9ZB,205523.73,18,0.0,0.0,36994.2714,242518.0014,"Being goods sold to Badami, Chaudry and Ranganathan Inv No 474",0
+2025-09-25,Dutta-Gade,24lJAgI4626r8ZC,348720.11,5,8718.00275,8718.00275,0.0,366156.11549999996,Being goods sold to Dutta-Gade Inv No 907,0
+2025-12-18,Sehgal Ltd,24tuaXw6624K6ZA,480185.58,5,0.0,0.0,24009.279000000002,504194.859,Being goods sold to Sehgal Ltd Inv No 716,0
+2025-08-08,"Nath, Das and Dani",26wfxEH2619U6ZA,254218.34,5,6355.458500000001,6355.458500000001,0.0,266929.257,"Being goods sold to Nath, Das and Dani Inv No 551",0
+2025-12-17,"Sibal, Prasad and Din",30KUrUH9624B9ZB,494251.61,0,0.0,0.0,0.0,494251.61,"Being goods sold to Sibal, Prasad and Din Inv No 835",0
+2025-08-21,Mannan-Bala,23TXaYF6882n4ZB,262087.54,0,0.0,0.0,0.0,262087.54,Being goods sold to Mannan-Bala Inv No 942,0
+2025-12-16,Minhas-Kale,12glEkL0923Z4ZA,109156.44,5,0.0,0.0,5457.822,114614.262,Being goods sold to Minhas-Kale Inv No 966,0
+2025-04-07,"Dalal, Bhattacharyya and Dixit",25FClSp8029H3ZC,424725.48,5,0.0,0.0,21236.274,445961.75399999996,"Being goods sold to Dalal, Bhattacharyya and Dixit Inv No 520",0
+2025-05-08,Ranganathan-Dhar,10SuLff8288Z3ZA,150579.04,18,0.0,0.0,27104.2272,177683.2672,Being goods sold to Ranganathan-Dhar Inv No 391,0
+2025-11-02,"Natarajan, Babu and Das",14dSAjZ7509i7ZB,410275.44,12,24616.5264,24616.5264,0.0,459508.49279999995,"Being goods sold to Natarajan, Babu and Das Inv No 760",0
+2025-06-24,Venkatesh-Pingle,34HmRst1811W1ZB,223932.0,12,13435.92,13435.92,0.0,250803.84000000003,Being goods sold to Venkatesh-Pingle Inv No 112,0
+2026-02-20,Gola PLC,32STtKZ8688c7ZB,321110.05,28,44955.407,44955.407,0.0,411020.864,Being goods sold to Gola PLC Inv No 163,0
+2025-11-02,Sura LLC,34IgpAn2105P6ZB,156038.31,5,3900.95775,3900.95775,0.0,163840.2255,Being goods sold to Sura LLC Inv No 987,0
+2025-10-09,Wali Inc,17qbToy6541f9ZB,417928.89,5,10448.22225,10448.22225,0.0,438825.3345,Being goods sold to Wali Inc Inv No 899,0
+2026-02-03,Singh Ltd,22gtpat0540S8ZC,228685.62,18,20581.7058,20581.7058,0.0,269849.0316,Being goods sold to Singh Ltd Inv No 864,0
+2025-08-06,Rastogi Ltd,13qmtqL2242W7ZB,464212.18,18,0.0,0.0,83558.1924,547770.3724,Being goods sold to Rastogi Ltd Inv No 339,0
+2025-06-03,Balan-Chahal,36QDNHm8501d7ZB,306342.84,18,0.0,0.0,55141.711200000005,361484.55120000005,Being goods sold to Balan-Chahal Inv No 497,0
+2025-04-01,Morar and Sons,14pGpZi9311J6ZA,474583.77,5,0.0,0.0,23729.188500000004,498312.9585,Being goods sold to Morar and Sons Inv No 738,0
+2025-05-25,Baria Inc,34ZbvrK8268w9ZC,244695.56,12,0.0,0.0,29363.4672,274059.0272,Being goods sold to Baria Inc Inv No 126,0
+2025-06-24,Varghese Ltd,36GDoTl7272I7ZB,424069.37,28,0.0,0.0,118739.42360000001,542808.7936,Being goods sold to Varghese Ltd Inv No 343,0
+2025-09-13,"Warrior, Ganguly and Bir",31fggDG3418i1ZB,97020.4,5,0.0,0.0,4851.0199999999995,101871.42,"Being goods sold to Warrior, Ganguly and Bir Inv No 989",0
+2025-04-02,"Bandi, Karnik and Ratti",20dEVLp4606l9ZC,495393.11,5,12384.82775,12384.82775,0.0,520162.7655,"Being goods sold to Bandi, Karnik and Ratti Inv No 366",0
+2025-09-07,Peri LLC,27NrRpp8770k5ZC,330873.25,0,0.0,0.0,0.0,330873.25,Being goods sold to Peri LLC Inv No 214,0
+2026-01-16,"Naik, Talwar and Sandal",15yYumX0431w7ZC,233339.01,12,14000.3406,14000.3406,0.0,261339.6912,"Being goods sold to Naik, Talwar and Sandal Inv No 948",0
+2025-06-24,Sami-Shah,29sODrA6535X6ZC,422865.13,12,25371.9078,25371.9078,0.0,473608.9456,Being goods sold to Sami-Shah Inv No 991,0
+2025-12-24,Talwar Group,10FTmwb5998v2ZC,335636.55,28,46989.117000000006,46989.117000000006,0.0,429614.78400000004,Being goods sold to Talwar Group Inv No 981,0
+2025-03-02,Dube LLC,12ubDIE6547G8ZC,286448.67,12,17186.920199999997,17186.920199999997,0.0,320822.51039999997,Being goods sold to Dube LLC Inv No 331,0
+2026-01-06,"Hora, Shankar and Sarraf",14vORyU2560i7ZA,396882.18,18,35719.396199999996,35719.396199999996,0.0,468320.9724,"Being goods sold to Hora, Shankar and Sarraf Inv No 412",0
+2025-10-31,Ahluwalia Group,10eHtcg8490Q9ZB,354848.0,28,49678.72,49678.72,0.0,454205.43999999994,Being goods sold to Ahluwalia Group Inv No 157,0
+2025-12-06,"Gulati, Brahmbhatt and Gola",21zHrxR2077Y3ZA,251984.68,5,0.0,0.0,12599.234,264583.914,"Being goods sold to Gulati, Brahmbhatt and Gola Inv No 588",0
+2025-12-21,Subramanian Group,25ZAoKS0274b7ZB,297086.82,18,0.0,0.0,53475.6276,350562.4476,Being goods sold to Subramanian Group Inv No 194,0
+2025-04-08,Kala-Seshadri,33qWVzi7750z3ZB,138135.5,18,12432.195,12432.195,0.0,162999.89,Being goods sold to Kala-Seshadri Inv No 779,0
+2025-10-11,Bath Inc,30WEfdD2106g2ZB,136400.93,5,0.0,0.0,6820.0465,143220.9765,Being goods sold to Bath Inc Inv No 558,0
+2026-02-16,Mannan Ltd,29SWcjo5669d4ZB,387121.28,5,9678.032000000001,9678.032000000001,0.0,406477.34400000004,Being goods sold to Mannan Ltd Inv No 294,0
+2026-01-22,Ganesan-Nath,20KAVcN0970X6ZB,204192.91,12,0.0,0.0,24503.1492,228696.05920000002,Being goods sold to Ganesan-Nath Inv No 867,0
+2025-10-13,"Palan, Goel and Seshadri",16DNaLh3655Z8ZB,437845.7,0,0.0,0.0,0.0,437845.7,GST Calculation Error,1
+2025-09-06,Goswami PLC,24ZHDuM9734Y5ZC,213339.4,28,29867.516000000003,29867.516000000003,0.0,273074.43200000003,Being goods sold to Goswami PLC Inv No 976,0
+2025-12-10,Dhar Inc,35XynYo3337x2ZB,74102.54,0,0.0,0.0,0.0,74102.54,Being goods sold to Dhar Inc Inv No 228,0
+2025-10-24,Anand-Karpe,33cMEdH2350E9ZB,356341.37,28,49887.791800000006,49887.791800000006,0.0,456116.9536,Being goods sold to Anand-Karpe Inv No 122,0
+2025-04-23,Dubey LLC,27DKBYZ3270F9ZC,38903.19,18,0.0,0.0,7002.5742,45905.764200000005,Being goods sold to Dubey LLC Inv No 895,0
+2026-01-11,"Sharma, Basu and Gara",23meEkS1309m8ZA,159825.9,12,9589.554,9589.554,0.0,179005.008,"Being goods sold to Sharma, Basu and Gara Inv No 861",0
+2025-10-20,Bhat-Patil,17uIWNp5304S5ZA,168361.45,5,0.0,0.0,8418.0725,176779.52250000002,Being goods sold to Bhat-Patil Inv No 937,0
+2025-03-20,"Pal, Natarajan and Dhillon",33VHhaS4837s7ZC,426769.64,28,0.0,0.0,119495.49920000002,546265.1392000001,"Being goods sold to Pal, Natarajan and Dhillon Inv No 683",0
+2025-04-10,"Madan, Gala and Arora",15zBydu4802x1ZA,295415.1,0,0.0,0.0,0.0,295415.1,"Being goods sold to Madan, Gala and Arora Inv No 903",0
+2025-09-18,"Dora, Dash and Bedi",17MfLUx5556m3ZA,77884.38,0,0.0,0.0,0.0,77884.38,"Being goods sold to Dora, Dash and Bedi Inv No 551",0
+2025-08-05,"Talwar, Bali and Bhatia",35HhNWZ7046m3ZB,160060.35,18,14405.4315,14405.4315,0.0,188871.21300000002,"Being goods sold to Talwar, Bali and Bhatia Inv No 642",0
+2025-12-29,"Sankar, Kurian and Sengupta",34hMtlJ6146a2ZA,494209.43,18,44478.848699999995,44478.848699999995,0.0,583167.1274,"Being goods sold to Sankar, Kurian and Sengupta Inv No 420",0
+2025-08-27,Singhal-Kashyap,25ImgUd7990B9ZA,250575.75,12,15034.545,15034.545,0.0,280644.83999999997,Being goods sold to Singhal-Kashyap Inv No 242,0
+2025-09-11,"Guha, Sagar and Sampath",23XrWxv7908c5ZA,72430.04,28,0.0,0.0,20280.4112,92710.4512,"Being goods sold to Guha, Sagar and Sampath Inv No 101",0
+2025-04-22,Shukla-Natarajan,38CWVjJ6694G7ZC,187429.12,18,0.0,0.0,33737.2416,221166.3616,Being goods sold to Shukla-Natarajan Inv No 800,0
+2025-06-15,Saran LLC,27OHXgf1081m8ZC,342648.64,0,0.0,0.0,0.0,342648.64,Being goods sold to Saran LLC Inv No 597,0
+2026-01-22,Choudhary Group,14rxuTT0927E1ZB,57118.15,0,0.0,0.0,0.0,57118.15,Being goods sold to Choudhary Group Inv No 261,0
+2026-01-25,"Rastogi, Badal and Goyal",24Uvzru1320p1ZA,167234.35,5,4180.85875,4180.85875,0.0,175596.06750000003,"Being goods sold to Rastogi, Badal and Goyal Inv No 918",0
+2025-04-11,"Kapur, Aggarwal and Uppal",28NwfKt8819r5ZB,216063.1,28,0.0,0.0,60497.668000000005,276560.76800000004,"Being goods sold to Kapur, Aggarwal and Uppal Inv No 127",0
+2025-08-12,Pillai LLC,14XVmiY8322O6ZA,459105.5,28,64274.770000000004,64274.770000000004,0.0,587655.04,Being goods sold to Pillai LLC Inv No 655,0
+2025-12-03,"Vyas, Goel and Kapadia",14tHzgN0637Y1ZB,105700.44,5,2642.5110000000004,2642.5110000000004,0.0,110985.462,"Being goods sold to Vyas, Goel and Kapadia Inv No 177",0
+2025-09-18,"Lad, Kanda and Srinivasan",21xjJCC9001k6ZA,211177.32,18,0.0,0.0,38011.9176,249189.2376,"Being goods sold to Lad, Kanda and Srinivasan Inv No 722",0
+2025-04-10,Doshi-Oza,32WGkmD6858A4ZC,299788.0,28,0.0,0.0,83940.64000000001,383728.64,Being goods sold to Doshi-Oza Inv No 254,0
+2026-01-09,"Sama, Nagarajan and Sha",23qePOL3399s3ZB,4815.69,0,0.0,0.0,0.0,4815.69,"Being goods sold to Sama, Nagarajan and Sha Inv No 842",0
+2025-10-24,"Nair, Khanna and Thaman",15HLHgi1401O2ZA,296502.95,18,26685.2655,26685.2655,0.0,349873.48099999997,"Being goods sold to Nair, Khanna and Thaman Inv No 281",0
+2026-02-18,"Bahri, Bumb and Bedi",31APEBm1157l6ZC,413608.01,28,57905.1214,57905.1214,0.0,529418.2528,"Being goods sold to Bahri, Bumb and Bedi Inv No 366",0
+2025-12-06,Menon LLC,10TJhcj5150A4ZC,28358.32,28,3970.1648000000005,3970.1648000000005,0.0,36298.6496,Being goods sold to Menon LLC Inv No 986,0
+2025-07-30,"Srinivas, Chadha and Thaker",34WmByh1180l7ZB,471541.56,12,28292.493599999998,28292.493599999998,0.0,528126.5472,"Being goods sold to Srinivas, Chadha and Thaker Inv No 443",0
+2025-03-12,De-Balasubramanian,36pqFbT2383h5ZC,384274.18,5,0.0,0.0,19213.709,403487.88899999997,Being goods sold to De-Balasubramanian Inv No 260,0
+2026-02-22,Chand Ltd,13xraQp2275n1ZC,97025.4,5,2425.6349999999998,2425.6349999999998,0.0,101876.66999999998,Being goods sold to Chand Ltd Inv No 881,0
+2025-08-12,Dhar LLC,28dYgjF1896M9ZA,95635.3,12,0.0,0.0,11476.236,107111.53600000001,Being goods sold to Dhar LLC Inv No 718,0
+2025-06-18,Tank Group,22hzKBR6993N9ZB,41910.77,12,2514.6461999999997,2514.6461999999997,0.0,46940.0624,Being goods sold to Tank Group Inv No 143,0
+2025-06-26,Kumar PLC,25OyDgo1209G7ZB,383550.56,28,0.0,0.0,107394.15680000001,490944.7168,Being goods sold to Kumar PLC Inv No 189,0
+2025-05-12,"Borah, Bhatia and Bali",16JBRNB4914R9ZC,450580.7,0,0.0,0.0,0.0,450580.7,"Being goods sold to Borah, Bhatia and Bali Inv No 215",0
+2025-03-01,Ranganathan Inc,25FAhzx8909e2ZB,346217.52,28,0.0,0.0,96940.90560000001,443158.4256,Being goods sold to Ranganathan Inc Inv No 155,0
+2025-03-09,Nair-Luthra,25UFvLj4310F4ZA,234186.6,18,0.0,0.0,21076.793999999998,255263.394,GST Calculation Error,1
+2026-02-06,"Vasa, Dixit and Bhatti",29jFAvt5491x4ZB,424068.26,0,0.0,0.0,0.0,424068.26,"Being goods sold to Vasa, Dixit and Bhatti Inv No 140",0
+2025-03-02,"Wable, Sabharwal and Balasubramanian",29hGCNV8486J5ZC,194880.02,28,0.0,0.0,54566.405600000006,249446.4256,"Being goods sold to Wable, Sabharwal and Balasubramanian Inv No 673",0
+2026-01-01,"Bora, Keer and Sant",25xnTzd2418v1ZC,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2025-05-08,Sarin-Kar,28ErlFg9856v2ZA,288221.28,5,7205.532000000001,7205.532000000001,0.0,302632.34400000004,Being goods sold to Sarin-Kar Inv No 847,0
+2025-06-10,Oak-Bhasin,10vJxAo1623I3ZC,74361.25,0,0.0,0.0,0.0,74361.25,Being goods sold to Oak-Bhasin Inv No 883,0
+2025-07-16,Loke-Sampath,28MDley9861X6ZA,226430.51,18,0.0,0.0,40757.4918,267188.0018,Being goods sold to Loke-Sampath Inv No 635,0
+2025-06-14,Rajagopalan-Kalita,31qeYQa3454t7ZC,260651.86,12,15639.111599999998,15639.111599999998,0.0,291930.0832,Being goods sold to Rajagopalan-Kalita Inv No 868,0
+2026-02-01,"Nagy, Sanghvi and Mallick",26JatXu0958g9ZB,436956.45,18,39326.0805,39326.0805,0.0,515608.611,"Being goods sold to Nagy, Sanghvi and Mallick Inv No 306",0
+2025-08-31,Manda LLC,18MSmeK7190f3ZC,489289.26,5,0.0,0.0,24464.463000000003,513753.723,Being goods sold to Manda LLC Inv No 331,0
+2025-06-10,Jayaraman LLC,35UhuMA4730e4ZC,238625.2,5,5965.630000000001,5965.630000000001,0.0,250556.46000000002,Being goods sold to Jayaraman LLC Inv No 500,0
+2025-07-25,"Mittal, Sabharwal and Ramesh",23BKSoZ2147p6ZB,259864.06,5,0.0,0.0,12993.203000000001,272857.263,"Being goods sold to Mittal, Sabharwal and Ramesh Inv No 591",0
+2025-04-09,Bhakta-Kota,23UBBwm4355j2ZB,365547.02,0,0.0,0.0,0.0,365547.02,Being goods sold to Bhakta-Kota Inv No 519,0
+2025-03-27,Patla-Ganesan,32Gguzq0751T8ZB,66157.16,28,9262.002400000001,9262.002400000001,0.0,84681.1648,Being goods sold to Patla-Ganesan Inv No 827,0
+2026-02-14,"Gera, Zacharia and Tara",14cQYOX2890Z9ZB,19161.34,0,0.0,0.0,0.0,19161.34,"Being goods sold to Gera, Zacharia and Tara Inv No 820",0
+2025-04-30,Brar Group,17LMogZ7475z4ZB,155917.3,12,0.0,0.0,18710.075999999997,174627.376,Being goods sold to Brar Group Inv No 235,0
+2025-10-02,Parsa Group,12octAi5239K9ZC,204581.21,12,12274.872599999999,12274.872599999999,0.0,229130.9552,Being goods sold to Parsa Group Inv No 784,0
+2025-04-02,Badami Inc,25JICvW7298K5ZA,256315.98,5,6407.8995,6407.8995,0.0,269131.77900000004,Being goods sold to Badami Inc Inv No 296,0
+2025-08-15,Mitter LLC,28ExnVg2423m5ZB,96843.99,12,0.0,0.0,11621.2788,108465.2688,Being goods sold to Mitter LLC Inv No 651,0
+2025-03-12,Bhatia Inc,15TstNy4285N6ZC,299268.94,28,0.0,0.0,83795.30320000001,383064.2432,Being goods sold to Bhatia Inc Inv No 852,0
+2025-08-29,Murty-Rajagopal,22cRjlq8270x1ZC,243054.87,12,14583.2922,14583.2922,0.0,272221.4544,Being goods sold to Murty-Rajagopal Inv No 787,0
+2026-02-24,Thakkar PLC,18zNYnQ4953z7ZC,421781.74,18,0.0,0.0,75920.7132,497702.4532,Being goods sold to Thakkar PLC Inv No 951,0
+2025-10-14,Rao-Ganguly,22wdmXx1906e5ZB,407244.57,5,0.0,0.0,20362.2285,427606.79850000003,Being goods sold to Rao-Ganguly Inv No 304,0
+2025-05-10,"Hari, Morar and Parikh",33ucIYh7516h6ZA,278307.98,5,6957.6995,6957.6995,0.0,292223.37899999996,"Being goods sold to Hari, Morar and Parikh Inv No 404",0
+2025-04-06,Loyal-Wable,24ysVBj7355U3ZC,193409.84,18,0.0,0.0,34813.771199999996,228223.61119999998,Being goods sold to Loyal-Wable Inv No 715,0
+2025-07-22,Narasimhan LLC,35wqvQT1973y9ZC,315432.02,18,0.0,0.0,56777.7636,372209.7836,Being goods sold to Narasimhan LLC Inv No 560,0
+2025-08-21,Badal Ltd,30usmtc9443j9ZC,245257.28,0,0.0,0.0,0.0,245257.28,Being goods sold to Badal Ltd Inv No 585,0
+2025-08-16,Murty PLC,26WInzp7676l6ZA,4876.77,12,292.6062,292.6062,0.0,5461.982400000001,Being goods sold to Murty PLC Inv No 491,0
+2025-04-13,"Chhabra, Setty and Divan",37EUhtz0223Y2ZC,493867.95,5,12346.698750000001,12346.698750000001,0.0,518561.3475,"Being goods sold to Chhabra, Setty and Divan Inv No 487",0
+2025-10-20,Sibal-Vala,33zHQIn7496s4ZB,233812.24,5,0.0,0.0,11690.612000000001,245502.85199999998,Being goods sold to Sibal-Vala Inv No 714,0
+2026-01-10,Karpe-Thaman,17FMnNS4830v4ZB,60375.09,0,0.0,0.0,0.0,60375.09,Being goods sold to Karpe-Thaman Inv No 537,0
+2025-03-16,"Chaudhary, Doctor and Swaminathan",38FvZEC8102c1ZC,364329.83,0,0.0,0.0,0.0,364329.83,"Being goods sold to Chaudhary, Doctor and Swaminathan Inv No 790",0
+2025-04-22,"Prasad, Nagar and Subramanian",31zlBck9260c1ZB,90262.27,18,8123.6043,8123.6043,0.0,106509.47860000002,"Being goods sold to Prasad, Nagar and Subramanian Inv No 935",0
+2025-03-29,Seshadri-Balakrishnan,24PQPuR6538t1ZA,304211.47,18,0.0,0.0,54758.06459999999,358969.53459999996,Being goods sold to Seshadri-Balakrishnan Inv No 502,0
+2025-06-18,Basak Inc,10wrujJ0636e5ZB,344820.35,18,0.0,0.0,62067.66299999999,406888.013,Being goods sold to Basak Inc Inv No 117,0
+2026-01-29,Luthra-Ganesh,16FZTzr4074w5ZB,499092.44,12,0.0,0.0,59891.0928,558983.5328,Being goods sold to Luthra-Ganesh Inv No 376,0
+2026-01-20,Gulati LLC,28HdVGj0210I6ZC,147803.73,28,20692.522200000003,20692.522200000003,0.0,189188.77440000002,Being goods sold to Gulati LLC Inv No 997,0
+2025-08-08,Narasimhan-Raghavan,18wuFye0589B4ZC,224961.94,12,13497.7164,13497.7164,0.0,251957.3728,Being goods sold to Narasimhan-Raghavan Inv No 837,0
+2025-11-06,"Ghose, Nigam and Bera",23VDBCJ7974B3ZB,275261.43,12,16515.6858,16515.6858,0.0,308292.80159999995,"Being goods sold to Ghose, Nigam and Bera Inv No 895",0
+2025-06-22,Kumar PLC,29tRNDk2680Y9ZB,361500.31,5,9037.50775,9037.50775,0.0,379575.3255,Being goods sold to Kumar PLC Inv No 723,0
+2025-05-22,Kant Group,19XevZu1610d7ZA,8778.76,12,526.7256,526.7256,0.0,9832.2112,Being goods sold to Kant Group Inv No 258,0
+2025-11-23,Manda Group,14cApQz7627B4ZB,17244.47,12,0.0,0.0,2069.3364,19313.8064,Being goods sold to Manda Group Inv No 959,0
+2025-11-03,Savant LLC,23TUwpK4012T8ZB,310849.49,18,0.0,0.0,55952.9082,366802.3982,Being goods sold to Savant LLC Inv No 127,0
+2025-04-13,Barad-Andra,23hMCbG0864Q2ZA,482881.78,12,28972.9068,28972.9068,0.0,540827.5936,Being goods sold to Barad-Andra Inv No 405,0
+2025-06-26,Varughese Ltd,26SFYZx0182A2ZC,365766.06,28,51207.248400000004,51207.248400000004,0.0,468180.55679999996,Being goods sold to Varughese Ltd Inv No 491,0
+2025-03-11,"Kibe, Choudhary and Arya",19gRYBK2420S4ZA,432427.34,18,0.0,0.0,77836.9212,510264.2612,"Being goods sold to Kibe, Choudhary and Arya Inv No 780",0
+2025-10-05,"Chaudhry, Shanker and Kapur",28eDxtu8631H7ZB,403457.97,28,56484.1158,56484.1158,0.0,516426.20160000003,"Being goods sold to Chaudhry, Shanker and Kapur Inv No 564",0
+2026-02-22,Bhatia Ltd,36xhZwX3506h5ZC,50000.0,18,0.0,0.0,9000.0,59000.0,Urgent payment cash,1
+2025-08-26,Dora-Munshi,10sjXPq5984r3ZB,82974.81,12,4978.4886,4978.4886,0.0,92931.78719999999,Being goods sold to Dora-Munshi Inv No 336,0
+2025-06-21,Badal Ltd,29YyUUJ3981A5ZC,275483.85,5,0.0,0.0,13774.1925,289258.0425,Being goods sold to Badal Ltd Inv No 536,0
+2025-10-12,Sur-Raja,25LGEAr4426T1ZA,343514.07,28,0.0,0.0,96183.93960000001,439698.0096,Being goods sold to Sur-Raja Inv No 567,0
+2025-09-20,"Hans, Shere and Shah",26eOfLv4642U7ZB,409391.66,18,36845.24939999999,36845.24939999999,0.0,483082.1587999999,"Being goods sold to Hans, Shere and Shah Inv No 130",0
+2025-05-25,Prakash-Goda,13lZRuv6216s6ZB,361965.4,12,0.0,0.0,43435.848,405401.248,Being goods sold to Prakash-Goda Inv No 880,0
+2025-10-05,Apte-Butala,26GfMCv9805W9ZA,134004.91,12,8040.2946,8040.2946,0.0,150085.4992,Being goods sold to Apte-Butala Inv No 669,0
+2026-01-07,"Sura, Dugar and Kala",24gCYLM0191V8ZA,297623.11,0,0.0,0.0,0.0,297623.11,"Being goods sold to Sura, Dugar and Kala Inv No 963",0
+2025-05-18,Swaminathan-Shankar,34KYvrH5249M8ZA,211829.96,28,0.0,0.0,59312.3888,271142.3488,Being goods sold to Swaminathan-Shankar Inv No 319,0
+2025-07-21,"Nayar, Mital and Padmanabhan",23oezkc6634c8ZB,328125.95,5,0.0,0.0,16406.2975,344532.2475,"Being goods sold to Nayar, Mital and Padmanabhan Inv No 631",0
+2025-07-14,Dugar-Kata,34jfDaB0189N6ZB,440266.62,5,11006.665500000001,11006.665500000001,0.0,462279.951,Being goods sold to Dugar-Kata Inv No 706,0
+2025-12-31,Ram PLC,13pFRLn4290n1ZC,281745.68,0,0.0,0.0,0.0,281745.68,Being goods sold to Ram PLC Inv No 280,0
+2025-09-30,"Sodhi, Aurora and Kant",36ACYQk4424Y2ZB,484652.17,0,0.0,0.0,0.0,484652.17,"Being goods sold to Sodhi, Aurora and Kant Inv No 579",0
+2025-07-26,Mander and Sons,16lRGMb9098q4ZB,191516.96,5,0.0,0.0,9575.848,201092.808,Being goods sold to Mander and Sons Inv No 816,0
+2025-09-10,Kunda-Pau,25blvyW1265k5ZC,231936.46,18,20874.2814,20874.2814,0.0,273685.0228,Being goods sold to Kunda-Pau Inv No 932,0
+2025-05-07,"Oza, Chanda and Madan",37MlxPU5560m5ZA,340405.39,28,0.0,0.0,95313.50920000001,435718.89920000004,"Being goods sold to Oza, Chanda and Madan Inv No 323",0
+2025-06-24,Sankaran-Ganesh,10bKZPA1829y3ZC,92931.63,28,13010.428200000002,13010.428200000002,0.0,118952.4864,Being goods sold to Sankaran-Ganesh Inv No 116,0
+2026-01-29,Sandal and Sons,15DpwSu7714j5ZA,51596.19,5,1289.9047500000001,1289.9047500000001,0.0,54175.999500000005,Being goods sold to Sandal and Sons Inv No 143,0
+2025-04-04,Bhatt and Sons,13TOuPe6909T8ZB,64279.47,12,0.0,0.0,7713.5364,71993.0064,Being goods sold to Bhatt and Sons Inv No 598,0
+2025-05-27,Gulati-Sarna,19ruLru0298Z7ZB,210420.71,0,0.0,0.0,0.0,210420.71,Being goods sold to Gulati-Sarna Inv No 734,0
+2025-11-30,Deshpande Group,15WWwmw0068r6ZB,298538.46,0,0.0,0.0,0.0,298538.46,Being goods sold to Deshpande Group Inv No 533,0
+2025-04-01,Chawla-Sengupta,30uKxwy0742i5ZA,61330.06,5,1533.2515,1533.2515,0.0,64396.562999999995,Being goods sold to Chawla-Sengupta Inv No 846,0
+2025-04-28,Khanna-Wali,18iCyKc3156u3ZC,318714.31,12,19122.8586,19122.8586,0.0,356960.02719999995,Being goods sold to Khanna-Wali Inv No 945,0
+2025-06-22,"Shanker, Iyengar and Shenoy",24Kxbsf1238e5ZC,378897.98,12,0.0,0.0,45467.7576,424365.7376,"Being goods sold to Shanker, Iyengar and Shenoy Inv No 180",0
+2025-09-08,Sekhon Group,13SHdZe6770I5ZC,10569.52,28,1479.7328000000002,1479.7328000000002,0.0,13528.9856,Being goods sold to Sekhon Group Inv No 107,0
+2025-09-03,"Banik, Sethi and Gala",27VOrqh9523L7ZB,498760.75,28,69826.505,69826.505,0.0,638413.76,"Being goods sold to Banik, Sethi and Gala Inv No 514",0
+2026-02-05,Pai-Shenoy,33KNqtX4059O8ZA,404832.39,28,0.0,0.0,56676.534600000006,461508.9246,GST Calculation Error,1
+2025-07-17,Shere Ltd,35EMlfj3498w1ZB,177430.41,0,0.0,0.0,0.0,177430.41,Being goods sold to Shere Ltd Inv No 758,0
+2026-01-28,Bhavsar-Warrior,34enBue6324d8ZA,296871.69,0,0.0,0.0,0.0,296871.69,Being goods sold to Bhavsar-Warrior Inv No 958,0
+2025-05-25,"Gour, Din and Yogi",24feCbO7270c5ZA,112110.27,5,2802.7567500000005,2802.7567500000005,0.0,117715.7835,"Being goods sold to Gour, Din and Yogi Inv No 821",0
+2026-01-15,"Goel, Gour and Sachdeva",20WSxdB0277D1ZC,232218.2,28,32510.548000000006,32510.548000000006,0.0,297239.29600000003,"Being goods sold to Goel, Gour and Sachdeva Inv No 296",0
+2026-01-02,"Shere, Dave and Bhatnagar",22yyzjd1182l1ZB,333558.37,12,0.0,0.0,40027.0044,373585.3744,"Being goods sold to Shere, Dave and Bhatnagar Inv No 822",0
+2026-01-16,Palla PLC,27siLvK9723z5ZC,30593.96,0,0.0,0.0,0.0,30593.96,Being goods sold to Palla PLC Inv No 236,0
+2025-11-04,Venkataraman-Ratta,31xpUht4839b3ZC,336147.73,18,30253.2957,30253.2957,0.0,396654.3214,Being goods sold to Venkataraman-Ratta Inv No 964,0
+2025-10-28,"Krishna, Arora and Brahmbhatt",24ZWNis1998G6ZB,349829.35,28,48976.109000000004,48976.109000000004,0.0,447781.56799999997,"Being goods sold to Krishna, Arora and Brahmbhatt Inv No 701",0
+2025-06-30,"Parmer, Tata and Thaker",22ckYAl5186q1ZB,276482.69,5,6912.06725,6912.06725,0.0,290306.82450000005,"Being goods sold to Parmer, Tata and Thaker Inv No 431",0
+2025-03-07,Vora-Kaur,19HZSRr1017y1ZB,459021.56,12,0.0,0.0,55082.587199999994,514104.1472,Being goods sold to Vora-Kaur Inv No 256,0
+2026-01-09,Hans LLC,37NFJuj6700U2ZA,47026.42,28,6583.6988,6583.6988,0.0,60193.817599999995,Being goods sold to Hans LLC Inv No 189,0
+2025-11-02,"Gopal, Misra and Bawa",13VpEGB0713C4ZA,11316.33,5,0.0,0.0,565.8165,11882.1465,"Being goods sold to Gopal, Misra and Bawa Inv No 495",0
+2025-05-27,Das and Sons,13jMWnJ4585f5ZB,55171.34,5,0.0,0.0,2758.567,57929.907,Being goods sold to Das and Sons Inv No 376,0
+2025-08-26,Seth Ltd,24IZkJY6219b3ZA,21403.6,28,2996.504,2996.504,0.0,27396.608,Being goods sold to Seth Ltd Inv No 811,0
+2025-06-19,Varghese LLC,38hGWrc3797I5ZC,340660.59,18,0.0,0.0,61318.906200000005,401979.49620000005,Being goods sold to Varghese LLC Inv No 259,0
+2025-10-13,"Vohra, Nadig and Pant",12kddpX3008b6ZB,155199.62,0,0.0,0.0,0.0,155199.62,"Being goods sold to Vohra, Nadig and Pant Inv No 302",0
+2025-04-22,Cherian-Balay,17DSsoy6830f3ZC,99876.36,18,8988.8724,8988.8724,0.0,117854.1048,Being goods sold to Cherian-Balay Inv No 734,0
+2025-04-19,"Vora, Kota and Sehgal",33xtExZ5618R6ZA,465062.42,5,11626.5605,11626.5605,0.0,488315.541,"Being goods sold to Vora, Kota and Sehgal Inv No 317",0
+2025-08-23,Grewal Group,16TbFYW2651q7ZA,454132.55,28,0.0,0.0,127157.11400000002,581289.664,Being goods sold to Grewal Group Inv No 242,0
+2025-07-05,Mitra Ltd,13bJudj4639x7ZB,30534.2,12,1832.052,1832.052,0.0,34198.304000000004,Being goods sold to Mitra Ltd Inv No 255,0
+2025-11-23,Personal - Nidhi,18IOogd3916r7ZB,294276.86,18,0.0,0.0,52969.8348,347246.6948,Adjustment,1
+2025-07-01,"Chana, Walia and Chahal",27DBiuj8956i3ZB,114036.43,0,0.0,0.0,0.0,114036.43,"Being goods sold to Chana, Walia and Chahal Inv No 208",0
+2025-08-14,Khalsa LLC,25AjWPT5356u4ZB,453553.59,28,0.0,0.0,126995.00520000001,580548.5952000001,Being goods sold to Khalsa LLC Inv No 228,0
+2026-01-07,"Dyal, Varughese and Tiwari",32MTrYF0303L4ZA,152760.06,12,9165.6036,9165.6036,0.0,171091.2672,"Being goods sold to Dyal, Varughese and Tiwari Inv No 858",0
+2025-06-05,Sarna-Bawa,27NJwGs5339W7ZA,191330.94,28,26786.3316,26786.3316,0.0,244903.6032,Being goods sold to Sarna-Bawa Inv No 528,0
+2025-06-17,Choudhry and Sons,11JzgQs6033P5ZA,379317.56,5,0.0,0.0,9482.939,388800.499,GST Calculation Error,1
+2025-08-06,Bhavsar-Patla,30vSvGr8879e1ZC,51483.77,18,0.0,0.0,9267.078599999999,60750.8486,Being goods sold to Bhavsar-Patla Inv No 986,0
+2025-07-20,Lata Inc,31bKzZD3026P8ZC,209186.78,0,0.0,0.0,0.0,209186.78,Being goods sold to Lata Inc Inv No 952,0
+2025-06-13,Agrawal-Koshy,16kkhot7940W3ZB,473825.74,28,0.0,0.0,132671.2072,606496.9472,Being goods sold to Agrawal-Koshy Inv No 638,0
+2025-09-11,"Ramachandran, Keer and Chanda",16bfkwy8567N1ZA,303614.33,28,42506.0062,42506.0062,0.0,388626.3424,"Being goods sold to Ramachandran, Keer and Chanda Inv No 186",0
+2025-07-01,Thaman-Jain,30eWdAK7976P5ZA,302398.28,28,0.0,0.0,84671.51840000002,387069.7984,Being goods sold to Thaman-Jain Inv No 794,0
+2026-01-16,Devan PLC,27zkeNh2823t4ZA,370674.49,12,0.0,0.0,44480.938799999996,415155.4288,Being goods sold to Devan PLC Inv No 945,0
+2025-05-29,Dayal Inc,30FSrtR6076g6ZB,449466.28,18,40451.9652,40451.9652,0.0,530370.2104,Being goods sold to Dayal Inc Inv No 708,0
+2026-02-16,Raval-Issac,16Ymimf0223O3ZB,35201.99,0,0.0,0.0,0.0,35201.99,Being goods sold to Raval-Issac Inv No 666,0
+2025-04-29,Dixit-Ranganathan,11siclv3164x8ZA,457723.22,18,41195.089799999994,41195.089799999994,0.0,540113.3996,Being goods sold to Dixit-Ranganathan Inv No 279,0
+2026-02-18,"Parekh, Vyas and Khalsa",23AnlUS9139A9ZB,241144.23,18,10851.49035,10851.49035,0.0,262847.2107,GST Calculation Error,1
+2025-04-28,Devi-Mann,31BNZea6883t5ZC,467613.37,0,0.0,0.0,0.0,467613.37,Being goods sold to Devi-Mann Inv No 241,0
+2025-05-04,"Gupta, Mutti and Chakrabarti",30HsOiL8197V5ZA,206279.2,5,5156.9800000000005,5156.9800000000005,0.0,216593.16000000003,"Being goods sold to Gupta, Mutti and Chakrabarti Inv No 131",0
+2025-03-03,Nagi-Ramanathan,23dxJTL9652M2ZA,185304.75,18,16677.427499999998,16677.427499999998,0.0,218659.60499999998,Being goods sold to Nagi-Ramanathan Inv No 837,0
+2025-09-20,Bhat-Babu,10NQeRG0299l3ZA,340441.11,5,8511.02775,8511.02775,0.0,357463.1655,Being goods sold to Bhat-Babu Inv No 272,0
+2025-09-08,Oommen-Kuruvilla,24iJORu7254d4ZB,407333.71,28,0.0,0.0,114053.43880000002,521387.1488,Being goods sold to Oommen-Kuruvilla Inv No 499,0
+2025-05-19,Barad-Bedi,21LGzcu9722x1ZC,196494.41,18,0.0,0.0,35368.9938,231863.4038,Being goods sold to Barad-Bedi Inv No 229,0
+2025-06-13,Jani LLC,20PcUKo4135O8ZA,164558.31,0,0.0,0.0,0.0,164558.31,Being goods sold to Jani LLC Inv No 631,0
+2025-10-01,"Hayre, Gour and Krishnan",23tQMEr3709g7ZA,164578.4,5,0.0,0.0,8228.92,172807.32,"Being goods sold to Hayre, Gour and Krishnan Inv No 302",0
+2025-07-04,Shetty Inc,18IlWGu2995Y9ZA,487347.41,12,29240.844599999997,29240.844599999997,0.0,545829.0991999999,Being goods sold to Shetty Inc Inv No 741,0
+2025-07-28,Bumb Ltd,21xAWCN4611p6ZB,137220.13,0,0.0,0.0,0.0,137220.13,Being goods sold to Bumb Ltd Inv No 839,0
+2025-05-05,"Raval, Chhabra and Seth",31PjYuA0772i3ZB,277335.87,18,24960.2283,24960.2283,0.0,327256.32660000003,"Being goods sold to Raval, Chhabra and Seth Inv No 219",0
+2025-07-11,"Mitra, Sankaran and Raja",11VEfUl0995l5ZB,276268.57,12,0.0,0.0,33152.2284,309420.7984,"Being goods sold to Mitra, Sankaran and Raja Inv No 305",0
+2026-01-18,Venkataraman-Bhalla,13UHDGh6576M4ZA,373840.17,28,0.0,0.0,104675.2476,478515.4176,Being goods sold to Venkataraman-Bhalla Inv No 904,0
+2025-12-10,Setty-Sankaran,30jQHzJ6814Q3ZB,28009.97,12,0.0,0.0,3361.1964,31371.166400000002,Being goods sold to Setty-Sankaran Inv No 384,0
+2026-01-15,Sant-Muni,38EqDHf8007T5ZC,494171.59,18,44475.443100000004,44475.443100000004,0.0,583122.4762,Being goods sold to Sant-Muni Inv No 239,0
+2025-08-30,Doshi PLC,10aBVas2007H7ZC,477666.07,18,0.0,0.0,85979.89259999999,563645.9626,Being goods sold to Doshi PLC Inv No 655,0
+2026-01-27,Jain-Batra,17FVsNK8710X8ZB,427490.17,28,59848.6238,59848.6238,0.0,547187.4176,Being goods sold to Jain-Batra Inv No 432,0
+2025-06-05,Sathe-Manne,33VvgMj6731c5ZC,292952.05,12,17577.123,17577.123,0.0,328106.29600000003,Being goods sold to Sathe-Manne Inv No 166,0
+2025-06-27,Venkatesh-Krishnan,36jsfrz8030C6ZB,411229.85,28,0.0,0.0,115144.35800000001,526374.208,Being goods sold to Venkatesh-Krishnan Inv No 950,0
+2025-09-09,Sandal PLC,21fMQSx9686H8ZA,246772.28,28,0.0,0.0,69096.2384,315868.5184,Being goods sold to Sandal PLC Inv No 436,0
+2025-08-15,"Baral, Dara and Taneja",30bXpRV0874H2ZA,470590.76,5,11764.769,11764.769,0.0,494120.29799999995,"Being goods sold to Baral, Dara and Taneja Inv No 246",0
+2025-06-27,Krishnan Group,24TPRol6742F8ZB,407130.75,5,0.0,0.0,20356.537500000002,427487.2875,Being goods sold to Krishnan Group Inv No 935,0
+2025-05-08,Bir-Misra,23IpcCU8392U8ZA,249704.33,0,0.0,0.0,0.0,249704.33,Being goods sold to Bir-Misra Inv No 901,0
+2025-07-23,Sood Inc,34btlJi4551Q9ZC,68504.25,5,0.0,0.0,3425.2125,71929.4625,Being goods sold to Sood Inc Inv No 136,0
+2025-03-30,Personal - Megha,32ltCCW3101C8ZC,38463.91,18,3461.7519,3461.7519,0.0,45387.41380000001,Adjustment,1
+2025-06-26,Goyal PLC,11YlHVq3145o3ZA,401107.13,12,0.0,0.0,48132.855599999995,449239.9856,Being goods sold to Goyal PLC Inv No 879,0
+2026-02-21,Borde LLC,36ABwep5737O7ZA,366206.25,0,0.0,0.0,0.0,366206.25,Being goods sold to Borde LLC Inv No 191,0
+2025-10-09,"Soman, Kar and Kapur",21AWEnN7326R7ZA,134628.54,18,0.0,0.0,24233.1372,158861.6772,"Being goods sold to Soman, Kar and Kapur Inv No 725",0
+2026-02-18,Tata Inc,19IaWOd0080n4ZC,33754.16,12,0.0,0.0,4050.4992,37804.6592,Being goods sold to Tata Inc Inv No 547,0
+2025-09-27,Chand-Mahajan,23envQc9135T6ZA,133414.24,12,8004.854399999999,8004.854399999999,0.0,149423.9488,Being goods sold to Chand-Mahajan Inv No 706,0
+2026-01-28,Bail-Pandey,25crJjG9532j9ZC,198459.16,12,11907.5496,11907.5496,0.0,222274.2592,Being goods sold to Bail-Pandey Inv No 138,0
+2025-06-26,Iyengar-Sankar,21eztSs1650Y3ZC,220265.72,28,0.0,0.0,61674.401600000005,281940.1216,Being goods sold to Iyengar-Sankar Inv No 533,0
+2025-12-02,"Shanker, Vaidya and Nayak",15ybEMY8912B9ZA,235209.79,0,0.0,0.0,0.0,235209.79,"Being goods sold to Shanker, Vaidya and Nayak Inv No 286",0
+2025-11-06,"Vasa, Mitter and Chakraborty",21flsrC4210p2ZA,14818.16,18,0.0,0.0,2667.2688,17485.4288,"Being goods sold to Vasa, Mitter and Chakraborty Inv No 801",0
+2025-12-05,Doshi-Manne,26CFlpZ4834p1ZA,63973.79,12,0.0,0.0,7676.8548,71650.6448,Being goods sold to Doshi-Manne Inv No 869,0
+2025-12-19,"Kurian, Prashad and Arora",18RckcE8418n9ZA,192195.8,28,0.0,0.0,53814.824,246010.62399999998,"Being goods sold to Kurian, Prashad and Arora Inv No 414",0
+2025-04-26,Personal - Jonathan,25pNohx2566H5ZA,285102.13,18,25659.1917,25659.1917,0.0,336420.51340000005,Personal expense,1
+2025-08-15,Bava Inc,17vygVe6202B6ZA,333601.44,0,0.0,0.0,0.0,333601.44,Being goods sold to Bava Inc Inv No 535,0
+2026-02-09,Dewan-Kanda,32Urgri8460h8ZB,413256.14,5,10331.4035,10331.4035,0.0,433918.94700000004,Being goods sold to Dewan-Kanda Inv No 891,0
+2026-02-23,Kannan-Vohra,32bHpVE5374W2ZC,387824.4,12,0.0,0.0,46538.928,434363.32800000004,Being goods sold to Kannan-Vohra Inv No 442,0
+2025-09-22,Bhargava PLC,14zKjJH6991A8ZB,55426.49,28,7759.708600000001,7759.708600000001,0.0,70945.9072,Being goods sold to Bhargava PLC Inv No 788,0
+2026-01-05,"Korpal, Chawla and Borra",38jJbyC6499c8ZA,299512.47,18,26956.122299999995,26956.122299999995,0.0,353424.71459999995,"Being goods sold to Korpal, Chawla and Borra Inv No 705",0
+2025-04-25,Munshi LLC,33kQjFO2323F5ZA,64815.36,12,3888.9215999999997,3888.9215999999997,0.0,72593.2032,Being goods sold to Munshi LLC Inv No 822,0
+2025-04-22,Barad Group,35BZIwk0834Z4ZB,154969.59,0,0.0,0.0,0.0,154969.59,Being goods sold to Barad Group Inv No 371,0
+2025-12-20,"Chatterjee, Narayan and Lala",35QeOHo6024r4ZA,34917.2,12,2095.0319999999997,2095.0319999999997,0.0,39107.263999999996,"Being goods sold to Chatterjee, Narayan and Lala Inv No 723",0
+2026-02-04,Ben-Lata,24qazrC5779W1ZC,293688.54,12,17621.3124,17621.3124,0.0,328931.16479999997,Being goods sold to Ben-Lata Inv No 810,0
+2025-07-04,Bath PLC,25Spsif1262t6ZB,318577.86,18,28672.0074,28672.0074,0.0,375921.8748,Being goods sold to Bath PLC Inv No 596,0
+2025-08-23,Dixit Group,32RFAmG0663R8ZC,36629.15,28,5128.081000000001,5128.081000000001,0.0,46885.312,Being goods sold to Dixit Group Inv No 271,0
+2025-12-25,"Kohli, Murty and Dada",16IfIat1693D5ZB,127789.9,28,17890.586,17890.586,0.0,163571.07200000001,"Being goods sold to Kohli, Murty and Dada Inv No 133",0
+2025-05-07,Bumb PLC,22CQTYg2240s1ZB,366933.23,28,51370.652200000004,51370.652200000004,0.0,469674.5344,Being goods sold to Bumb PLC Inv No 235,0
+2025-08-13,Bora-Prabhakar,11QeAtZ3849v4ZB,392766.92,18,35349.0228,35349.0228,0.0,463464.96559999994,Being goods sold to Bora-Prabhakar Inv No 780,0
+2025-10-21,Menon-Rau,12HNmXK2881f6ZB,299011.63,12,0.0,0.0,35881.395599999996,334893.0256,Being goods sold to Menon-Rau Inv No 144,0
+2025-07-25,Mander Ltd,12aVqbk1958H1ZC,19342.62,18,0.0,0.0,3481.6715999999997,22824.291599999997,Being goods sold to Mander Ltd Inv No 310,0
+2026-02-01,Ganguly-Kohli,15UPQJu4507R6ZB,113377.43,12,6802.645799999999,6802.645799999999,0.0,126982.72159999999,Being goods sold to Ganguly-Kohli Inv No 398,0
+2025-06-06,"Sinha, Borah and Sur",31huMKg2496j9ZA,489004.57,12,29340.2742,29340.2742,0.0,547685.1184,"Being goods sold to Sinha, Borah and Sur Inv No 804",0
+2025-06-12,"Talwar, Balan and Din",10nctqU8384n7ZA,74049.93,28,0.0,0.0,20733.9804,94783.9104,"Being goods sold to Talwar, Balan and Din Inv No 868",0
+2025-10-28,Sethi-Cherian,35FwPCO8713o3ZA,251997.7,12,0.0,0.0,30239.724000000002,282237.424,Being goods sold to Sethi-Cherian Inv No 378,0
+2025-11-27,Jha PLC,12MuygG1011Y1ZC,326873.95,18,29418.6555,29418.6555,0.0,385711.261,Being goods sold to Jha PLC Inv No 748,0
+2026-01-11,Tella Ltd,36qlwqE3855s8ZA,74662.32,28,10452.724800000002,10452.724800000002,0.0,95567.7696,Being goods sold to Tella Ltd Inv No 631,0
+2026-02-16,Natt and Sons,11IAieP5901P2ZA,22342.53,28,3127.9542,3127.9542,0.0,28598.4384,Being goods sold to Natt and Sons Inv No 919,0
+2025-05-11,"Barman, Rastogi and Sibal",27UUiYY1182S8ZB,21781.78,12,1306.9068,1306.9068,0.0,24395.5936,"Being goods sold to Barman, Rastogi and Sibal Inv No 688",0
+2025-07-28,Munshi Group,20EVfNq1764U7ZA,243935.65,12,14636.139,14636.139,0.0,273207.928,Being goods sold to Munshi Group Inv No 335,0
+2026-02-07,Personal - Sara,12ogoPY8183H7ZB,352747.95,18,31747.3155,31747.3155,0.0,416242.58100000006,Cash withdrawal,1
+2025-10-18,Rau Inc,33wCUKo3540e4ZA,13232.92,12,0.0,0.0,1587.9504,14820.8704,Being goods sold to Rau Inc Inv No 334,0
+2025-11-09,"Gulati, Bhattacharyya and Kumer",24lvacf3460y9ZC,169866.66,12,10191.9996,10191.9996,0.0,190250.65920000002,"Being goods sold to Gulati, Bhattacharyya and Kumer Inv No 628",0
+2026-02-05,Hans-Venkatesh,24xpmQr5491z6ZC,374310.93,5,0.0,0.0,18715.5465,393026.4765,Being goods sold to Hans-Venkatesh Inv No 449,0
+2025-08-03,Sankar LLC,27EZGrX5488U6ZA,371789.86,5,0.0,0.0,18589.493,390379.353,Being goods sold to Sankar LLC Inv No 609,0
+2025-05-14,Dewan Ltd,16rKWvQ4813Q3ZA,397272.32,5,0.0,0.0,19863.616,417135.936,Being goods sold to Dewan Ltd Inv No 298,0
+2025-06-30,Dalal-Pillay,35TTKvb3078U6ZB,346470.25,5,8661.75625,8661.75625,0.0,363793.76249999995,Being goods sold to Dalal-Pillay Inv No 703,0
+2025-11-11,Johal Inc,35HzYNn3436s5ZB,495680.53,12,29740.8318,29740.8318,0.0,555162.1936000001,Being goods sold to Johal Inc Inv No 437,0
+2025-07-20,"Murthy, Shah and Bhat",21iCXCe4917f5ZC,77939.74,5,1948.4935000000003,1948.4935000000003,0.0,81836.727,"Being goods sold to Murthy, Shah and Bhat Inv No 617",0
+2025-07-03,Yadav Ltd,12qhPxO2807m2ZB,202699.41,5,0.0,0.0,10134.970500000001,212834.3805,Being goods sold to Yadav Ltd Inv No 771,0
+2025-06-24,"Vala, Amble and Parikh",12zXjdA3050n8ZA,392251.8,0,0.0,0.0,0.0,392251.8,"Being goods sold to Vala, Amble and Parikh Inv No 911",0
+2025-05-14,Pandit LLC,21UzWlJ8408f5ZB,34294.95,18,0.0,0.0,6173.090999999999,40468.041,Being goods sold to Pandit LLC Inv No 669,0
+2025-04-20,"Brahmbhatt, Murty and Baria",32dOiOc7084B2ZB,333277.88,12,0.0,0.0,39993.3456,373271.2256,"Being goods sold to Brahmbhatt, Murty and Baria Inv No 699",0
+2025-10-03,Pingle-Borah,17ddcsG6326X4ZC,319139.68,18,0.0,0.0,57445.1424,376584.8224,Being goods sold to Pingle-Borah Inv No 250,0
+2025-06-21,Sandhu-Bakshi,34XlVqZ4237V7ZB,462234.56,18,41601.1104,41601.1104,0.0,545436.7808,Being goods sold to Sandhu-Bakshi Inv No 714,0
+2025-07-13,Kumer-Sheth,14FsgON5167g9ZB,247190.09,0,0.0,0.0,0.0,247190.09,Being goods sold to Kumer-Sheth Inv No 291,0
+2025-07-29,"Lal, Saraf and Sane",10LBqRN2717q2ZC,385080.79,0,0.0,0.0,0.0,385080.79,"Being goods sold to Lal, Saraf and Sane Inv No 742",0
+2025-11-17,Wali-Devi,24WswRt6637Q9ZA,482573.55,5,12064.33875,12064.33875,0.0,506702.2275,Being goods sold to Wali-Devi Inv No 379,0
+2025-08-26,Bedi-Kakar,13oqPCf2893D9ZB,327039.41,18,29433.546899999998,29433.546899999998,0.0,385906.5038,Being goods sold to Bedi-Kakar Inv No 994,0
+2025-04-23,Mitra Group,24rOnWp4370k7ZC,132998.94,0,0.0,0.0,0.0,132998.94,Being goods sold to Mitra Group Inv No 784,0
+2025-03-03,"Shetty, Barman and Doshi",29qalmK8982v3ZC,144120.42,28,20176.858800000005,20176.858800000005,0.0,184474.13760000005,"Being goods sold to Shetty, Barman and Doshi Inv No 572",0
+2026-02-25,"Tailor, Halder and Tella",20UleLC0336L1ZC,225906.41,18,10165.78845,10165.78845,0.0,246237.9869,GST Calculation Error,1
+2025-05-17,Murthy PLC,10EOxXb1276T5ZB,79918.37,18,7192.653299999999,7192.653299999999,0.0,94303.6766,Being goods sold to Murthy PLC Inv No 796,0
+2025-09-09,Choudhary-Sandal,26VeJZc4635E4ZB,190860.99,28,0.0,0.0,53441.0772,244302.0672,Being goods sold to Choudhary-Sandal Inv No 202,0
+2025-07-26,Majumdar-Chauhan,16xhFHr1768V9ZA,72677.65,18,6540.9884999999995,6540.9884999999995,0.0,85759.62700000001,Being goods sold to Majumdar-Chauhan Inv No 678,0
+2025-06-29,"Raju, Handa and Purohit",17LXziL6901F3ZA,39937.22,28,5591.210800000001,5591.210800000001,0.0,51119.6416,"Being goods sold to Raju, Handa and Purohit Inv No 316",0
+2025-07-01,"Shankar, Basu and Mahajan",12qeahb6162u9ZC,71025.91,5,0.0,0.0,3551.2955,74577.20550000001,"Being goods sold to Shankar, Basu and Mahajan Inv No 575",0
+2026-01-25,Desai-Prakash,28uyEbT4019B8ZB,181083.35,12,10865.001,10865.001,0.0,202813.35199999998,Being goods sold to Desai-Prakash Inv No 311,0
+2025-07-19,Bhardwaj and Sons,22OdKjE3616c6ZB,204817.8,12,0.0,0.0,24578.136,229395.936,Being goods sold to Bhardwaj and Sons Inv No 948,0
+2025-03-31,Doshi Inc,21nnOGm3158J6ZC,462172.32,0,0.0,0.0,0.0,462172.32,Being goods sold to Doshi Inc Inv No 306,0
+2025-03-26,"Aurora, Chatterjee and Wadhwa",11DcMea2971T7ZC,219490.57,5,0.0,0.0,10974.5285,230465.09850000002,"Being goods sold to Aurora, Chatterjee and Wadhwa Inv No 150",0
+2025-11-15,"Mander, Rajagopal and Madan",15fhYgp8148N8ZB,41998.56,0,0.0,0.0,0.0,41998.56,"Being goods sold to Mander, Rajagopal and Madan Inv No 832",0
+2025-08-16,Rao and Sons,38jvclC8941d1ZA,250962.55,5,6274.06375,6274.06375,0.0,263510.6775,Being goods sold to Rao and Sons Inv No 764,0
+2025-09-08,"More, Chatterjee and Bhandari",14UMHTf0151c5ZB,128785.5,18,0.0,0.0,23181.39,151966.89,"Being goods sold to More, Chatterjee and Bhandari Inv No 523",0
+2026-02-08,Naidu LLC,13lILKC3333A2ZB,163610.3,18,0.0,0.0,29449.853999999996,193060.15399999998,Being goods sold to Naidu LLC Inv No 788,0
+2025-05-08,"Behl, Gandhi and Maharaj",20HJQPv0930a6ZA,475260.78,5,11881.519500000002,11881.519500000002,0.0,499023.819,"Being goods sold to Behl, Gandhi and Maharaj Inv No 601",0
+2025-03-11,Bali PLC,27iwiXj5465Q9ZB,330354.1,0,0.0,0.0,0.0,330354.1,GST Calculation Error,1
+2025-04-29,Sandal-Sekhon,31kLrYz0540P9ZB,457097.21,5,0.0,0.0,22854.860500000003,479952.07050000003,Being goods sold to Sandal-Sekhon Inv No 822,0
+2025-04-02,Kant-Wagle,19IQsdh4614F7ZC,273163.86,0,0.0,0.0,0.0,273163.86,Being goods sold to Kant-Wagle Inv No 539,0
+2025-08-01,Roy and Sons,35ASaKQ1582y3ZB,467226.94,5,11680.6735,11680.6735,0.0,490588.28699999995,Being goods sold to Roy and Sons Inv No 777,0
+2025-09-08,"Mander, Bahri and Kadakia",11zLBdP7266q4ZA,223651.14,5,0.0,0.0,11182.557,234833.69700000001,"Being goods sold to Mander, Bahri and Kadakia Inv No 743",0
+2025-05-22,Char PLC,36HCFqa7171m1ZC,113161.61,18,10184.544899999999,10184.544899999999,0.0,133530.6998,Being goods sold to Char PLC Inv No 350,0
+2025-07-14,"Wason, Chada and Pall",32GPyCI7752o1ZA,54402.18,12,0.0,0.0,6528.2616,60930.4416,"Being goods sold to Wason, Chada and Pall Inv No 740",0
+2025-06-30,Dube-Samra,17CGSQe9265c7ZA,284870.43,0,0.0,0.0,0.0,284870.43,Being goods sold to Dube-Samra Inv No 375,0
+2026-02-22,"Buch, Sankaran and Agrawal",22EDNmz9574L8ZC,16388.47,12,983.3082,983.3082,0.0,18355.0864,"Being goods sold to Buch, Sankaran and Agrawal Inv No 125",0
+2025-08-29,Gaba-Bora,34Spjbb9325l1ZB,227507.73,18,20475.6957,20475.6957,0.0,268459.1214,Being goods sold to Gaba-Bora Inv No 454,0
+2025-10-03,Hari Inc,21aJfAQ0561Y9ZC,15146.13,12,0.0,0.0,1817.5356,16963.6656,Being goods sold to Hari Inc Inv No 288,0
+2026-01-10,Kohli and Sons,36grWCM0184p1ZA,91447.92,0,0.0,0.0,0.0,91447.92,Being goods sold to Kohli and Sons Inv No 840,0
+2025-08-08,"Iyer, Yadav and Wagle",25ilZBS6285C8ZC,369325.33,12,22159.519800000002,22159.519800000002,0.0,413644.36960000003,"Being goods sold to Iyer, Yadav and Wagle Inv No 728",0
+2025-03-28,Dubey-Kata,14sHtJS3082Q6ZC,176065.98,18,0.0,0.0,31691.8764,207757.85640000002,Being goods sold to Dubey-Kata Inv No 686,0
+2025-12-29,"Brahmbhatt, Padmanabhan and Viswanathan",20pUMdQ4068r8ZC,93880.69,12,5632.8414,5632.8414,0.0,105146.37280000001,"Being goods sold to Brahmbhatt, Padmanabhan and Viswanathan Inv No 781",0
+2025-11-28,"Mitter, Kumar and Sharaf",21EiVje4815l6ZB,169244.27,28,0.0,0.0,47388.3956,216632.6656,"Being goods sold to Mitter, Kumar and Sharaf Inv No 609",0
+2025-03-31,Borah-Keer,15tGEph9066B1ZA,345727.56,0,0.0,0.0,0.0,345727.56,Being goods sold to Borah-Keer Inv No 922,0
+2025-03-07,Warrior-Kala,21dUZum5332n5ZC,251282.18,5,6282.0545,6282.0545,0.0,263846.289,Being goods sold to Warrior-Kala Inv No 185,0
+2025-08-08,"Sethi, Sharma and Acharya",13vINEW1962l7ZA,283824.22,28,0.0,0.0,79470.7816,363295.00159999996,"Being goods sold to Sethi, Sharma and Acharya Inv No 276",0
+2025-03-01,Barman-Madan,24JcMKY8059r4ZC,398625.22,28,0.0,0.0,111615.0616,510240.2816,Being goods sold to Barman-Madan Inv No 919,0
+2025-08-29,Bal-Gade,14RWbey0545e3ZC,475255.34,0,0.0,0.0,0.0,475255.34,Being goods sold to Bal-Gade Inv No 434,0
+2025-09-30,Prakash LLC,22gmRcJ3823G6ZC,380718.81,5,0.0,0.0,19035.9405,399754.7505,Being goods sold to Prakash LLC Inv No 737,0
+2026-02-13,Kota-Chokshi,10VQsKr5963p9ZC,408852.94,12,24531.1764,24531.1764,0.0,457915.2928,Being goods sold to Kota-Chokshi Inv No 793,0
+2025-12-01,Gulati-Sahota,33OcIqF5715p1ZC,447398.96,18,40265.9064,40265.9064,0.0,527930.7728,Being goods sold to Gulati-Sahota Inv No 505,0
+2025-10-28,Sane LLC,23qiQIp7697F1ZA,29785.03,12,0.0,0.0,3574.2036,33359.2336,Being goods sold to Sane LLC Inv No 645,0
+2025-07-30,"Kapoor, Sehgal and Hayre",23QsskV2540e5ZC,57917.82,18,5212.6038,5212.6038,0.0,68343.0276,"Being goods sold to Kapoor, Sehgal and Hayre Inv No 453",0
+2025-04-21,Chandran and Sons,11wyIRS5530r3ZC,150048.58,18,13504.372199999998,13504.372199999998,0.0,177057.32439999998,Being goods sold to Chandran and Sons Inv No 832,0
+2025-04-11,"Purohit, Devan and Pandya",20Siysl3677T3ZC,414555.73,28,0.0,0.0,116075.60440000001,530631.3344,"Being goods sold to Purohit, Devan and Pandya Inv No 684",0
+2025-10-14,Lanka Ltd,25kNraZ0379G2ZB,459500.8,12,27570.048,27570.048,0.0,514640.896,Being goods sold to Lanka Ltd Inv No 495,0
+2025-12-04,Issac PLC,28ghhRJ1191Y7ZC,193996.97,18,0.0,0.0,34919.4546,228916.4246,Being goods sold to Issac PLC Inv No 731,0
+2025-08-04,Chaudhari LLC,15yNkCS5277z4ZB,398423.49,28,55779.28860000001,55779.28860000001,0.0,509982.06720000005,Being goods sold to Chaudhari LLC Inv No 877,0
+2025-07-12,Sarna Ltd,23aRUHJ6783y7ZA,220291.5,12,0.0,0.0,26434.98,246726.48,Being goods sold to Sarna Ltd Inv No 319,0
+2026-02-22,"Rana, Singh and Sangha",14ZWDuP8476a1ZC,208594.12,0,0.0,0.0,0.0,208594.12,"Being goods sold to Rana, Singh and Sangha Inv No 318",0
+2025-12-26,Patil PLC,31bIrqY9346Q5ZC,383437.09,5,0.0,0.0,19171.8545,402608.94450000004,Being goods sold to Patil PLC Inv No 584,0
+2025-05-21,Parmar-Mani,24jzGMp6533P7ZA,169895.43,12,0.0,0.0,20387.451599999997,190282.8816,Being goods sold to Parmar-Mani Inv No 308,0
+2025-05-13,Shroff LLC,33ESnDF9317D7ZA,108868.23,12,6532.0938,6532.0938,0.0,121932.4176,Being goods sold to Shroff LLC Inv No 243,0
+2025-11-22,Loyal-Mand,20HyibB7280z8ZA,482450.82,5,12061.2705,12061.2705,0.0,506573.361,Being goods sold to Loyal-Mand Inv No 737,0
+2025-12-05,"Hayer, Pau and Tailor",16WyeEF3923U8ZA,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2025-11-27,"Mishra, Tella and Rau",27UqXPf2098D4ZB,231332.39,5,5783.30975,5783.30975,0.0,242899.00950000004,"Being goods sold to Mishra, Tella and Rau Inv No 769",0
+2025-09-07,Chanda LLC,29mJjxz7808O8ZA,240252.02,12,14415.1212,14415.1212,0.0,269082.2624,Being goods sold to Chanda LLC Inv No 174,0
+2025-12-21,Narayan Group,28CnzuX8311E5ZA,372573.0,12,0.0,0.0,44708.759999999995,417281.76,Being goods sold to Narayan Group Inv No 782,0
+2025-07-07,Chaudhari Ltd,18uXpyR3228d9ZA,50000.0,18,4500.0,4500.0,0.0,59000.0,Urgent payment cash,1
+2025-10-10,Venkatesh Group,16FzaFE3236c7ZC,266361.61,5,0.0,0.0,13318.0805,279679.69049999997,Being goods sold to Venkatesh Group Inv No 736,0
+2025-12-15,Kamdar LLC,36AGzTJ9595j3ZB,95086.87,18,0.0,0.0,17115.636599999998,112202.5066,Being goods sold to Kamdar LLC Inv No 430,0
+2025-07-15,"Khanna, Goel and Magar",37PxMTu9120Y2ZB,498330.67,18,0.0,0.0,89699.52059999999,588030.1906,"Being goods sold to Khanna, Goel and Magar Inv No 145",0
+2025-03-29,"Mital, Brar and Wable",36iJthk5263m8ZA,446233.33,18,40160.9997,40160.9997,0.0,526555.3294,"Being goods sold to Mital, Brar and Wable Inv No 972",0
+2025-10-04,"Soman, Sodhi and Shah",10zbUzP5102F5ZC,233581.15,0,0.0,0.0,0.0,233581.15,"Being goods sold to Soman, Sodhi and Shah Inv No 697",0
+2025-10-22,"Shetty, Mani and Venkataraman",33sarLV6738U4ZC,128316.62,18,0.0,0.0,23096.991599999998,151413.6116,"Being goods sold to Shetty, Mani and Venkataraman Inv No 655",0
+2025-07-18,Jhaveri and Sons,30orrRH0529F2ZA,295820.82,18,0.0,0.0,53247.7476,349068.5676,Being goods sold to Jhaveri and Sons Inv No 155,0
+2026-01-23,Kurian Inc,35ioYcx7450h8ZC,352451.19,0,0.0,0.0,0.0,352451.19,Being goods sold to Kurian Inc Inv No 799,0
+2025-09-18,Kaur-Narayanan,34mIaTf2408y6ZC,363407.97,28,0.0,0.0,101754.2316,465162.2016,Being goods sold to Kaur-Narayanan Inv No 968,0
+2025-12-10,"Sama, Parsa and Bahl",25rIcKD0268h3ZB,495946.65,12,0.0,0.0,59513.598,555460.248,"Being goods sold to Sama, Parsa and Bahl Inv No 514",0
+2025-03-19,"Vora, Dhillon and Bandi",26fOhJK0941v8ZA,338008.53,0,0.0,0.0,0.0,338008.53,"Being goods sold to Vora, Dhillon and Bandi Inv No 235",0
+2025-11-16,Hayer-Dugar,27xaLds6967U7ZC,271762.71,0,0.0,0.0,0.0,271762.71,Being goods sold to Hayer-Dugar Inv No 414,0
+2025-06-29,"Sekhon, Kurian and Vohra",11QrLdg3529m5ZB,388950.1,12,23337.005999999998,23337.005999999998,0.0,435624.11199999996,"Being goods sold to Sekhon, Kurian and Vohra Inv No 144",0
+2025-06-15,"Tella, Modi and Gera",19Yglmc1537H3ZC,139325.32,12,0.0,0.0,16719.0384,156044.3584,"Being goods sold to Tella, Modi and Gera Inv No 476",0
+2026-01-18,Personal - Idika,24WfxIT6584u7ZB,439330.9,18,0.0,0.0,79079.562,518410.46200000006,Personal expense,1
+2025-08-26,Divan-Mangat,32SNcbU1505j6ZA,106232.47,5,2655.8117500000003,2655.8117500000003,0.0,111544.09349999999,Being goods sold to Divan-Mangat Inv No 217,0
+2025-08-01,Malhotra-Issac,28QkiGa0033a2ZA,333217.02,0,0.0,0.0,0.0,333217.02,Being goods sold to Malhotra-Issac Inv No 913,0
+2025-05-29,Dube-Wali,25pSOHf2494z2ZA,180940.49,28,0.0,0.0,50663.3372,231603.8272,Being goods sold to Dube-Wali Inv No 942,0
+2026-01-02,"Sarin, Saraf and Gokhale",23jmdNN0797P7ZC,26022.6,0,0.0,0.0,0.0,26022.6,"Being goods sold to Sarin, Saraf and Gokhale Inv No 438",0
+2025-10-09,"Mani, Pandit and Pai",11gwnnX3194e6ZC,432476.15,12,0.0,0.0,51897.138,484373.288,"Being goods sold to Mani, Pandit and Pai Inv No 392",0
+2025-10-04,Karnik-Radhakrishnan,16ganUs6211h1ZA,143597.07,0,0.0,0.0,0.0,143597.07,Being goods sold to Karnik-Radhakrishnan Inv No 411,0
+2025-03-18,Bahl-Date,37UAflr2104o9ZC,5278.95,0,0.0,0.0,0.0,5278.95,Being goods sold to Bahl-Date Inv No 831,0
+2025-07-11,"Bhatti, Bora and Muni",12rbfDS5047J2ZA,205932.22,5,5148.3055,5148.3055,0.0,216228.83099999998,"Being goods sold to Bhatti, Bora and Muni Inv No 473",0
+2025-09-14,Karan Ltd,18RcaLj1281B9ZB,283087.07,5,0.0,0.0,14154.353500000001,297241.42350000003,Being goods sold to Karan Ltd Inv No 883,0
+2025-09-25,Gala Group,16JfyqA1060J8ZB,147055.68,12,8823.3408,8823.3408,0.0,164702.3616,Being goods sold to Gala Group Inv No 119,0
+2025-03-07,Kala-Sen,37CGNPR9726h8ZB,143902.61,28,20146.3654,20146.3654,0.0,184195.3408,Being goods sold to Kala-Sen Inv No 720,0
+2025-03-24,"Mittal, Lad and Chana",15ZGaYv7841a4ZA,152618.47,0,0.0,0.0,0.0,152618.47,"Being goods sold to Mittal, Lad and Chana Inv No 902",0
+2025-11-18,Bakshi-Sridhar,12IKWbZ9977n4ZA,48300.06,12,0.0,0.0,5796.007199999999,54096.0672,Being goods sold to Bakshi-Sridhar Inv No 343,0
+2025-03-11,Basak-Gole,30NOJLB7134c3ZA,157297.57,0,0.0,0.0,0.0,157297.57,Being goods sold to Basak-Gole Inv No 140,0
+2025-05-06,"Dugal, Seth and Subramanian",17SIOOh7417z3ZC,363142.71,28,0.0,0.0,101679.95880000002,464822.66880000004,"Being goods sold to Dugal, Seth and Subramanian Inv No 144",0
+2025-09-21,"Devi, Karpe and Andra",34SRRQt7129D5ZA,148627.13,0,0.0,0.0,0.0,148627.13,"Being goods sold to Devi, Karpe and Andra Inv No 233",0
+2025-04-13,Personal - Zashil,20jTwWa1725y9ZB,59616.84,18,0.0,0.0,10731.0312,70347.8712,Gift for family,1
+2025-06-18,Palan and Sons,27BiANq3664f2ZB,150448.84,18,13540.3956,13540.3956,0.0,177529.63119999997,Being goods sold to Palan and Sons Inv No 187,0
+2026-01-17,Bath-Bhargava,11CPDNt7425E7ZB,393284.59,18,0.0,0.0,70791.2262,464075.8162,Being goods sold to Bath-Bhargava Inv No 758,0
+2025-11-19,Raghavan-Swamy,20kSrxo4295H8ZA,93695.38,28,13117.353200000001,13117.353200000001,0.0,119930.0864,Being goods sold to Raghavan-Swamy Inv No 512,0
+2025-09-15,Kari-Desai,27EooBb7025f8ZB,357246.79,28,0.0,0.0,100029.1012,457275.89119999995,Being goods sold to Kari-Desai Inv No 984,0
+2025-09-10,Kale-Garg,28OwoCJ9882l3ZB,241805.6,18,0.0,0.0,43525.008,285330.608,Being goods sold to Kale-Garg Inv No 967,0
+2025-07-30,Naik-Mahal,16iycxj9332H5ZA,230602.71,18,20754.243899999998,20754.243899999998,0.0,272111.19779999997,Being goods sold to Naik-Mahal Inv No 871,0
+2025-08-08,"Shah, Jaggi and Konda",12POcAo6123m7ZA,9065.58,12,543.9348,543.9348,0.0,10153.4496,"Being goods sold to Shah, Jaggi and Konda Inv No 707",0
+2025-03-31,Garde LLC,24pHkMm4824y7ZC,356709.57,0,0.0,0.0,0.0,356709.57,GST Calculation Error,1
+2025-05-16,Basu-Jain,27nZWSN2998Q4ZB,420725.83,12,25243.5498,25243.5498,0.0,471212.9296,Being goods sold to Basu-Jain Inv No 546,0
+2025-03-05,"Acharya, Manne and Bera",30Ejilv9982E7ZA,332668.35,12,19960.101,19960.101,0.0,372588.552,"Being goods sold to Acharya, Manne and Bera Inv No 743",0
+2025-09-25,Dhawan Inc,24aTuNb1698a9ZC,189747.64,0,0.0,0.0,0.0,189747.64,Being goods sold to Dhawan Inc Inv No 246,0
+2025-10-06,"Shankar, Muni and Master",22nWEbK5462d8ZC,80923.63,28,0.0,0.0,22658.616400000003,103582.2464,"Being goods sold to Shankar, Muni and Master Inv No 991",0
+2026-01-18,"Natt, Sami and Dua",34IcCcL3246b4ZA,469514.98,5,11737.8745,11737.8745,0.0,492990.72899999993,"Being goods sold to Natt, Sami and Dua Inv No 635",0
+2025-12-26,"Hora, Loke and Bedi",31DjDwO1963K3ZA,182422.62,5,0.0,0.0,9121.131,191543.751,"Being goods sold to Hora, Loke and Bedi Inv No 898",0
+2025-12-31,Upadhyay PLC,35rNHtS3663o6ZC,125832.25,0,0.0,0.0,0.0,125832.25,Being goods sold to Upadhyay PLC Inv No 483,0
+2026-01-11,"Bains, Korpal and Sundaram",24dxRjA8207G1ZC,254514.77,18,0.0,0.0,45812.658599999995,300327.4286,"Being goods sold to Bains, Korpal and Sundaram Inv No 520",0
+2026-01-04,Vohra and Sons,15taMsv9162v4ZC,40392.8,12,0.0,0.0,4847.136,45239.936,Being goods sold to Vohra and Sons Inv No 887,0
+2025-07-26,Rastogi-Singhal,21bQkMt2171t6ZC,148110.42,18,0.0,0.0,26659.875600000003,174770.2956,Being goods sold to Rastogi-Singhal Inv No 252,0
+2025-05-07,Nayak Inc,27UMtJN4148L3ZC,12472.34,28,0.0,0.0,3492.2552000000005,15964.5952,Being goods sold to Nayak Inc Inv No 156,0
+2025-10-15,"Bala, Shan and Agrawal",38SsZkL5382U5ZB,448786.5,12,26927.19,26927.19,0.0,502640.88,"Being goods sold to Bala, Shan and Agrawal Inv No 808",0
+2025-12-05,Edwin Group,15QYvRb7595D9ZA,251660.78,28,35232.5092,35232.5092,0.0,322125.79839999997,Being goods sold to Edwin Group Inv No 383,0
+2025-09-30,"Oak, Taneja and Sharma",23DUFHz3875S6ZC,372010.37,0,0.0,0.0,0.0,372010.37,"Being goods sold to Oak, Taneja and Sharma Inv No 776",0
+2025-06-08,Barad-Bala,34mQdjX4071t2ZA,441413.32,5,0.0,0.0,22070.666,463483.98600000003,Being goods sold to Barad-Bala Inv No 718,0
+2025-10-02,Wali-Raj,24vTwTY5833B9ZB,338739.06,12,20324.3436,20324.3436,0.0,379387.74720000004,Being goods sold to Wali-Raj Inv No 370,0
+2025-05-07,Deep-Toor,31bLdRI4345P6ZC,84652.94,12,0.0,0.0,5079.1764,89732.1164,GST Calculation Error,1
+2025-07-10,Personal - Balhaar,18TrcCC5048r8ZB,432932.59,18,0.0,0.0,77927.8662,510860.4562,Without bill,1
+2025-10-31,"Wadhwa, Mukherjee and Khatri",24uAPmJ6133U4ZC,108435.06,12,6506.1035999999995,6506.1035999999995,0.0,121447.2672,"Being goods sold to Wadhwa, Mukherjee and Khatri Inv No 490",0
+2025-03-01,Cherian LLC,15szcmC3315k3ZB,151113.81,28,0.0,0.0,42311.8668,193425.67680000002,Being goods sold to Cherian LLC Inv No 101,0
+2026-02-22,"Cheema, Goyal and Basu",22Qqgzj6329x3ZB,141357.17,12,8481.4302,8481.4302,0.0,158320.03040000002,"Being goods sold to Cheema, Goyal and Basu Inv No 595",0
+2026-02-25,"Pillai, Sant and Comar",32XkAvJ3616B1ZC,458208.06,0,0.0,0.0,0.0,458208.06,"Being goods sold to Pillai, Sant and Comar Inv No 275",0
+2025-04-30,Vala-Sanghvi,17hZQwV2739t4ZA,276684.16,5,0.0,0.0,13834.207999999999,290518.36799999996,Being goods sold to Vala-Sanghvi Inv No 357,0
+2026-01-12,Warrior-Dora,10DZOEV6072U3ZC,361092.15,5,9027.303750000001,9027.303750000001,0.0,379146.75750000007,Being goods sold to Warrior-Dora Inv No 217,0
+2026-01-14,Sant Group,12dkDBh9252V6ZA,265134.65,28,0.0,0.0,74237.70200000002,339372.3520000001,Being goods sold to Sant Group Inv No 228,0
+2025-04-13,"Bhargava, Atwal and Buch",20wOwNR9922r4ZB,143064.85,5,3576.62125,3576.62125,0.0,150218.0925,"Being goods sold to Bhargava, Atwal and Buch Inv No 355",0
+2025-11-11,"Nair, Agate and Sem",13mNOHy5667I8ZC,492360.53,18,44312.447700000004,44312.447700000004,0.0,580985.4254000001,"Being goods sold to Nair, Agate and Sem Inv No 584",0
+2025-06-29,Personal - Qabil,19vqJPt2018E6ZB,133285.65,18,11995.708499999999,11995.708499999999,0.0,157277.067,Personal expense,1
+2025-03-30,Chahal Inc,35FrObX6461b7ZB,136610.62,12,0.0,0.0,16393.2744,153003.8944,Being goods sold to Chahal Inc Inv No 241,0
