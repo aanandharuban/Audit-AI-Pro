@@ -177,12 +177,6 @@ python trainer_module.py
 
 ---
 
-## 📸 Demo
-
-
-
----
-
 ## 📫 Contact
 
 GitHub: https://github.com/aanandharuban
